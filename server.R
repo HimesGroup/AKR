@@ -80,7 +80,7 @@ server <- function(input, output, session) {
             email <- emayili::attachment(email, path = fpath, name = "submission.txt")
             smtp <- emayili::gmail(
                                  username = "akrsuperfamily@gmail.com",
-                                 password = "!1akrsuperfamily",
+                                 password = email_pw,
                                  max_times = 1
                              )
             smtp(email)
@@ -102,4 +102,3 @@ server <- function(input, output, session) {
         msaR(read_akr_msa(input$msa_dropdown), color = "taylor")
     )
 }
-

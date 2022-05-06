@@ -72,3 +72,5 @@ names(akr_msa_files) <- c(paste0("AKR", setdiff(1:13, 10), " Sequence Alignment"
 pdb_list <- as.data.frame(
     jsonlite::fromJSON("./data/table/pdb_list.json")
 )
+
+email_pw <- scan(".emailpw", what = "character")
