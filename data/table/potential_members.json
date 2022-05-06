@@ -1,0 +1,206 @@
+[
+    {
+        "Species": "Aeropyrum pernix",
+        "Name": "APE1495\nAPE1659\nAPE1961",
+        "Accession": "<td><a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7516538\">7516538</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7447932\">7447932</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7431108\">7431108</a></td>",
+        "Ref:": ""
+    },
+    {
+        "Species": "Agrobacterium tumefaciens",
+        "Name": "mocA",
+        "Accession": "<td><a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=797336\">AAB07785</a></td>",
+        "Ref:": ""
+    },
+    {
+        "Species": "Aquifex aeolicus",
+        "Name": "aq323",
+        "Accession": "<td><a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7517567\">7517567</a></td>",
+        "Ref:": ""
+    },
+    {
+        "Species": "Arabidopsis thaliana",
+        "Name": "aldehyde reductase homolog\naldehyde reductase homolog\nputative reductase\nalcohol dehydrogenase\nmannose-6-phosphate reductase\nreductase-like protein\nreductase-like protein\nreductase-like protein\nreductase-like protein\nsimilar to auxin-induced protein\nsimilar to auxin-induced protein\nsimilar to auxin-induced protein\nreductase-like protein\nreductase-like protein\nhypothetical protein\nhypothetical protein\nhypothetical protein\nhypothetical protein",
+        "Accession": "<td>F13M227<br/>\nF13M226<br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=4567260\">AAD23673</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=4895205\">AAD32792</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=4567261\">AAD23674</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7630008\">CAB88350</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7327826\">CAB82283</a><br/>\nAAD3933<br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=5080825\">AAD39334</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=2462761\">AAB71980</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=6562980\">AAF17106</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=2462762\">AAB71981</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=2494112\">AAB80621</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=4874267\">AAD31332</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=2462750\">AAB71969</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=2462741\">AAB71960</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7447943\">7447943</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=3860264\">AAC73032</a></td>",
+        "Ref:": "<td><a href=\"/akr/references/#116\">116</a></td>"
+    },
+    {
+        "Species": "Babesia bovis",
+        "Name": "reductase",
+        "Accession": "<td><a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=728826\">P40690</a></td>",
+        "Ref:": "<td><a href=\"/akr/references#117\">117</a></td>"
+    },
+    {
+        "Species": "Bacillus subtilis",
+        "Name": "yvgN\nytbE\nyccK\nyrpG\nyqkF\nycsN\nOrfC",
+        "Accession": "<td><a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7431103\">7431103</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7431102\">7431102</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=3183577\">3183577</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7447929\">7447929</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=1731092\">P54569</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=1175720\">P42972</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=973332\">AAB53024</a></td>",
+        "Ref:": "<td><a href=\"/akr/references#118\">118</a>–<a href=\"/akr/references#122\">122</a></td>"
+    },
+    {
+        "Species": "Borrelia burgdorferi",
+        "Name": "ADR",
+        "Accession": "<td><a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7447937\">G70165</a></td>",
+        "Ref:": "<td><a href=\"/akr/references#123\">123</a></td>"
+    },
+    {
+        "Species": "Caenorhabditis elegans",
+        "Name": "Y39G8Ba\nY39G8B1b\nY39G8B2\nPF00248\nC35D10.6\nC01G5.5\nK07C5.2\nF37C12.12\nC07D8.6\nZC443.1\nF53F1.2\nF53F1.3",
+        "Accession": "<td><a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7509715\">7509715</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=6425257\">6425257</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=6425258\">CAB60336</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=4883524\">AAA97992</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=2146873\">2146873</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7495133\">7495133</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7505423\">7505423</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7500712\">7500712</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7495605\">7495605</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7510761\">7510761</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7504052\">7504052</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7504053\">7504053</a></td>",
+        "Ref:": "<td><a href=\"/akr/references#124\">124</a></td>"
+    },
+    {
+        "Species": "Cenarchaeum symbiosum",
+        "Name": "unknown\nunknown",
+        "Accession": "<td><a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=3599412\">AAC62717</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=3599389\">AAC62695</a></td>",
+        "Ref:": ""
+    },
+    {
+        "Species": "Deinococcus radiodurans",
+        "Name": "probable oxidoreductase\nprobable potassium channel\nprobable oxidoreductase\nprobable oxidoreductase",
+        "Accession": "<td><a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7471099\">7471099</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7473637\">7473637</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7473601\">7473601</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7473607\">7473607</a></td>",
+        "Ref:": ""
+    },
+    {
+        "Species": "Drosophila melanogaster",
+        "Name": "CG6084\nCG12766\nCG10638\nCG9436\nCG2767\nCG6083\nCG18547\nCG3397",
+        "Accession": "<td><a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=23093630\">AAF50039</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7292407\">AAF47812</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7294572\">AAF49912</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7302301\">AAF57392</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7298972\">AAF54175</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=23093632\">AAF50038</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7299543\">AAF54729</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7299545\">AAF54731</a></td>",
+        "Ref:": ""
+    },
+    {
+        "Species": "Escherichia coli",
+        "Name": "YQHE\nb3012\nyafB\nyajO\nb1781\nmorphine-6-dehydrogenase\nydjG\nb3001\nydbC\nydhF",
+        "Accession": "<td><a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=3916039\">Q46857</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7431105\">7431105</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7427662\">7427662</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7447925\">7447925</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7427664\">7427664</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=85675118\">BAA15578</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=3123121\">P77256</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7447924\">7447924</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=140577\">P25906</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=54042809\">P76187</a></td>",
+        "Ref:": "<td><a href=\"/akr/references#125\">125</a><br/>\n<a href=\"/akr/references#126\">126</a></td>"
+    },
+    {
+        "Species": "Fragaria x ananassa",
+        "Name": "unknown",
+        "Accession": "<td><a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=2792295\">AAB97005</a></td>",
+        "Ref:": "<td><a href=\"/akr/references#127\">127</a></td>"
+    },
+    {
+        "Species": "Helianthus annuus",
+        "Name": "auxin-induced protein",
+        "Accession": "<td><a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=2606077\">AAB84222</a></td>",
+        "Ref:": ""
+    },
+    {
+        "Species": "Homo sapiens",
+        "Name": "aflatoxin B1 aldehyde reductase 3",
+        "Accession": "<td><a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=41152112\">NP_957704</a></td>",
+        "Ref:": ""
+    },
+    {
+        "Species": "Hydrangea macrophylla",
+        "Name": "reductase (potential AKR4B member)\nreductase (potential AKR4B member)",
+        "Accession": "<td><a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;id=40781601\">AAR89810</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;id=40781603\">AAR89811</a></td>",
+        "Ref:": ""
+    },
+    {
+        "Species": "Methanobacterium thermoautotrophicum",
+        "Name": "mth907",
+        "Accession": "<td><a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7482275\">7482275</a></td>",
+        "Ref:": ""
+    },
+    {
+        "Species": "Mycobacterium leprae",
+        "Name": "reductase\nreductase",
+        "Accession": "<td><a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=2193903\">2193903</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=3150217\">3150217</a></td>",
+        "Ref:": "<td><a href=\"/akr/references#128\">128</a></td>"
+    },
+    {
+        "Species": "Mycobacterium tuberculosis",
+        "Name": "protein\nYM98",
+        "Accession": "<td><a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7431131\">7431131</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=2492801\">Q50668</a></td>",
+        "Ref:": "<td><a href=\"/akr/references#129\">129</a></td>"
+    },
+    {
+        "Species": "Neurospora crassa",
+        "Name": "YPR1\nunknown",
+        "Accession": "<td><a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7800878\">CAB91236</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7635782\">7635782</a></td>",
+        "Ref:": ""
+    },
+    {
+        "Species": "Nicotiana tabacum",
+        "Name": "auxin-induced protein",
+        "Accession": "<td><a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=728744\">P40691</a></td>",
+        "Ref:": ""
+    },
+    {
+        "Species": "Oryza sativa",
+        "Name": "potassium channel",
+        "Accession": "<td><a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7447935\">7447935</a></td>",
+        "Ref:": ""
+    },
+    {
+        "Species": "Pseudomonas sp.",
+        "Name": "threo-aldose-1-dehydrogenase (EC 1.1.1.122)",
+        "Accession": "<td><a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=32473916\">JC2405</a></td>",
+        "Ref:": "<td><a href=\"/akr/references#130\">130</a></td>"
+    },
+    {
+        "Species": "Pyrococcus abyssi",
+        "Name": "morphine dehygrogenase",
+        "Accession": "<td><a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7431107\">7431107</a></td>",
+        "Ref:": ""
+    },
+    {
+        "Species": "Pyrococcus horikoshii",
+        "Name": "morphine dehydrogenase",
+        "Accession": "<td><a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7431110\">7431110</a></td>",
+        "Ref:": "<td><a href=\"/akr/references#131\">131</a></td>"
+    },
+    {
+        "Species": "Saccharomyces cerevisiae",
+        "Name": "ORF1\nAAD6\nYd1124wp\nYp1088wp\nYpr127wp\nYmr041cp\nYjr096wp",
+        "Accession": "<td><a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=172584\">AAA35037</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=1175960\">P43547</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=6320079\">NP_010159</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=6325169\">NP_015237</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=6325384\">NP_015452</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=6323684\">NP_013755</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=6322556\">NP_012630</a></td>",
+        "Ref:": "<td><a href=\"/akr/references#132\">132</a>–<a href=\"/akr/references#134\">134</a></td>"
+    },
+    {
+        "Species": "Schizosaccharomyces pombe",
+        "Name": "ydg7\nprobable reductase\nprobable K+ channel\nprobable reductase\nprobable reductase\nprobable reductase\nprobable reductase\nprobable reductase\nprobable reductase",
+        "Accession": "<td><a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=1723578\">Q10494</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7492784\">T38538</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7492838\">7492838</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=6742163\">CAB69636</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7492371\">7492371</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7492786\">7492786</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=1827503\">BAA12182</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7492370\">7492370</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7447931\">7447931</a></td>",
+        "Ref:": ""
+    },
+    {
+        "Species": "Solanum tuberosum",
+        "Name": "unknown",
+        "Accession": "<td><a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7447934\">7447934</a></td>",
+        "Ref:": ""
+    },
+    {
+        "Species": "Streptomyces clavuligerus",
+        "Name": "probable reductase",
+        "Accession": "<td><a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=4836502\">AAD30468</a></td>",
+        "Ref:": ""
+    },
+    {
+        "Species": "Streptomyces coelicolor",
+        "Name": "possible oxidoreductase\npossible oxidoreductase\nhypothetical protein SCH5\npossible oxidoreductase\npossible oxidoreductase\npossible oxidoreductase\npossible oxidoreductase\npossible oxidoreductase\npossible oxidoreductase\npossible oxidoreductase\nprobable ion channel\npossible oxidoreductase\npossible oxidoreductase",
+        "Accession": "<td><a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7481096\">7481096</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7481111\">7481111</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7479621\">7479621</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7688303\">CAB89759</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=5881918\">CAB55711</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7106687\">CAB76089</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=5881857\">CAB55656</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7210997\">CAB76977</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7481102\">7481102</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=6002215\">CAB56659</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7480891\">7480891</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=6562778\">CAB62709</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=6912006\">CAB72221</a></td>",
+        "Ref:": ""
+    },
+    {
+        "Species": "Synechocystis sp.",
+        "Name": "hypothetical protein\nhypothetical protein\nhypothetical protein\nhypothetical protein\nhypothetical protein",
+        "Accession": "<td><a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7427663\">7427663</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7470456\">7470456</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7447939\">7447939</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7447940\">7447940</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7469950\">7469950</a></td>",
+        "Ref:": ""
+    },
+    {
+        "Species": "Thermotoga maritima",
+        "Name": "oxidoreductase\noxidoreductase\noxidoreductase\noxidoreductase\npotassium channel\noxidoreductase",
+        "Accession": "<td><a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7431104\">7431104</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7462913\">7462913</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7431109\">7431109</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7447923\">7447923</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7447936\">7447936</a><br/>\n<a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=7462822\">7462822</a></td>",
+        "Ref:": ""
+    },
+    {
+        "Species": "Zea mays",
+        "Name": "auxin-induced protein IP2",
+        "Accession": "<td><a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=1352461\">P49249</a></td>",
+        "Ref:": ""
+    },
+    {
+        "Species": "Zymomonas mobilis",
+        "Name": "morphine dehydrogenase",
+        "Accession": "<td><a href=\"http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=protein&amp;val=4378175\">AAD19420</a></td>",
+        "Ref:": ""
+    }
+]

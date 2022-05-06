@@ -1,0 +1,2018 @@
+[
+    {
+        "AKR": "Akr1a1, Akr1a4",
+        "Taxonomy": "Mus musculus",
+        "Res.(Å)": "1.64",
+        "Complex": "High resolution structure of mouse aldehyde reductase (AKR1a4) in its apo-form",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4GAC\">4GAC</a></td>"
+    },
+    {
+        "AKR": "AKR1A1, ALDR1, ALR",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "2.48",
+        "Complex": "ALDEHYDE REDUCTASE",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2ALR\">2ALR</a></td>"
+    },
+    {
+        "AKR": "AKR1A1, ALR, ALR1",
+        "Taxonomy": "Sus scrofa",
+        "Res.(Å)": "2.4",
+        "Complex": "ALDEHYDE REDUCTASE COMPLEXED WITH COFACTOR AND INHIBITOR, ALPHA CARBON ATOMS ONLY",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/1AE4\">1AE4</a></td>"
+    },
+    {
+        "AKR": "AKR1A1, ALR, ALR1",
+        "Taxonomy": "Sus scrofa",
+        "Res.(Å)": "2",
+        "Complex": "CRYSTAL STRUCTURE OF PORCINE ALDEHYDE REDUCTASE HOLOENZYME",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/1CWN\">1CWN</a></td>"
+    },
+    {
+        "AKR": "AKR1A1, ALR, ALR1",
+        "Taxonomy": "Sus scrofa",
+        "Res.(Å)": "2.2",
+        "Complex": "THE CRYSTAL STRUCTURE OF AN ALDEHYDE REDUCTASE Y50F MUTANT-NADP COMPLEX AND ITS IMPLICATIONS FOR SUBSTRATE BINDING",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/1HQT\">1HQT</a></td>"
+    },
+    {
+        "AKR": "AKR1A1, ALR, ALR1",
+        "Taxonomy": "Sus scrofa",
+        "Res.(Å)": "2.41",
+        "Complex": "Crystal structure of porcine aldehyde reductase ternary complex",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3CV7\">3CV7</a></td>"
+    },
+    {
+        "AKR": "AKR1A1, ALR, ALR1",
+        "Taxonomy": "Sus scrofa",
+        "Res.(Å)": "1.99",
+        "Complex": "Porcine aldehyde reductase in ternary complex with inhibitor",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3FX4\">3FX4</a></td>"
+    },
+    {
+        "AKR": "AKR1A1, ALR, ALR1",
+        "Taxonomy": "Sus scrofa",
+        "Res.(Å)": "1.85",
+        "Complex": "Structure of aldehyde reductase holoenzyme in complex with potent aldose reductase inhibitor Fidarestat: Implications for inhibitor binding and selectivity",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3H4G\">3H4G</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "2.4",
+        "Complex": "THE CRYSTAL STRUCTURE OF THE ALDOSE REDUCTASE NADPH BINARY COMPLEX",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/1ABN\">1ABN</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.65",
+        "Complex": "AN UNLIKELY SUGAR SUBSTRATE SITE IN THE 1.65 ANGSTROMS STRUCTURE OF THE HUMAN ALDOSE REDUCTASE HOLOENZYME IMPLICATED IN DIABETIC COMPLICATIONS",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/1ADS\">1ADS</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.8",
+        "Complex": "ALRESTATIN BOUND TO C298A/W219Y MUTANT HUMAN ALDOSE REDUCTASE",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/1AZ1\">1AZ1</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "2.9",
+        "Complex": "CITRATE BOUND, C298A/W219Y MUTANT HUMAN ALDOSE REDUCTASE",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/1AZ2\">1AZ2</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "2.8",
+        "Complex": "FIDARESTAT BOUND TO HUMAN ALDOSE REDUCTASE",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/1EF3\">1EF3</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.7",
+        "Complex": "HUMAN ALDOSE REDUCTASE COMPLEXED WITH IDD384 INHIBITOR",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/1EL3\">1EL3</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "2.5",
+        "Complex": "CRYSTAL STRUCTURE OF HUMAN ALDOSE REDUCTASE COMPLEXED WITH THE INHIBITOR ZENARESTAT.",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/1IEI\">1IEI</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.8",
+        "Complex": "REFINED 1.8 ANGSTROMS STRUCTURE OF HUMAN ALDOSE REDUCTASE COMPLEXED WITH THE POTENT INHIBITOR ZOPOLRESTAT",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/1MAR\">1MAR</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.1",
+        "Complex": "Crystal structure of human Aldose Reductase complexed with NADP and Minalrestat",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/1PWL\">1PWL</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "0.92",
+        "Complex": "Crystal structure of human Aldose Reductase complexed with NADP and Fidarestat",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/1PWM\">1PWM</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.8",
+        "Complex": "Crystal structure of human aldose reductase complexed with NADP and IDD552 at ph 5",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/1T40\">1T40</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.05",
+        "Complex": "Crystal structure of human aldose reductase complexed with NADP and IDD552",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/1T41\">1T41</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "0.66",
+        "Complex": "Human Aldose Reductase in complex with NADP+ and the inhibitor IDD594 at 0.66 Angstrom",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/1US0\">1US0</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.4",
+        "Complex": "Crystal structure of Aldose Reductase with citrates bound in the active site",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/1X96\">1X96</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.4",
+        "Complex": "Crystal structure of Aldose Reductase complexed with 2R4S (Stereoisomer of Fidarestat, 2S4S)",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/1X97\">1X97</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.3",
+        "Complex": "Crystal structure of Aldose Reductase complexed with 2S4R (Stereoisomer of Fidarestat, 2S4S)",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/1X98\">1X98</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "2.1",
+        "Complex": "Apo R268A human aldose reductase",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/1XGD\">1XGD</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.04",
+        "Complex": "Human aldose reductase in complex with NADP+ and the inhibitor lidorestat at 1.04 angstrom",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/1Z3N\">1Z3N</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.43",
+        "Complex": "Human Aldose Reductase complexed with novel Sulfonyl-pyridazinone Inhibitor",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/1Z89\">1Z89</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "0.95",
+        "Complex": "Human Aldose Reductase complexed with novel Sulfonyl-pyridazinone Inhibitor",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/1Z8A\">1Z8A</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.76",
+        "Complex": "AN ANION BINDING SITE IN HUMAN ALDOSE REDUCTASE: MECHANISTIC IMPLICATIONS FOR THE BINDING OF CITRATE, CACODYLATE, AND GLUCOSE-6-PHOSPHATE",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2ACQ\">2ACQ</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.76",
+        "Complex": "AN ANION BINDING SITE IN HUMAN ALDOSE REDUCTASE: MECHANISTIC IMPLICATIONS FOR THE BINDING OF CITRATE, CACODYLATE, AND GLUCOSE-6-PHOSPHATE",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2ACR\">2ACR</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.76",
+        "Complex": "AN ANION BINDING SITE IN HUMAN ALDOSE REDUCTASE: MECHANISTIC IMPLICATIONS FOR THE BINDING OF CITRATE, CACODYLATE, AND GLUCOSE-6-PHOSPHATE",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2ACS\">2ACS</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.76",
+        "Complex": "TYROSINE-48 IS THE PROTON DONOR AND HISTIDINE-110 DIRECTS SUBSTRATE STEREOCHEMICAL SELECTIVITY IN THE REDUCTION REACTION OF HUMAN ALDOSE REDUCTASE: ENZYME KINETICS AND THE CRYSTAL STRUCTURE OF THE Y48H MUTANT ENZYME",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2ACU\">2ACU</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1",
+        "Complex": "Aldose Reductase Mutant Leu 300 Pro complexed with Fidarestat",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2AGT\">2AGT</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.6",
+        "Complex": "Crystal structure of human Aldose Reductase complexed with zopolrestat after 3 days soaking (3days_soaked_1)",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2DUX\">2DUX</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.6",
+        "Complex": "Human Aldose Reductase complexed with inhibitor zopolrestat after 3 days soaking (3days_soaked_2)",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2DUZ\">2DUZ</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.62",
+        "Complex": "Human Aldose Reductase complexed with zopolrestat after 6 days soaking(6days_soaked_2)",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2DV0\">2DV0</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.94",
+        "Complex": "Aldose reductase tertiary complex with NADPH and DEG",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2F2K\">2F2K</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.48",
+        "Complex": "Human Aldose reductase complexed with inhibitor zopolrestat at 1.48 A(1 day soaking).",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2FZ8\">2FZ8</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.6",
+        "Complex": "Human Aldose Reductase complexed with inhibitor zopolrestat after six days soaking.",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2FZ9\">2FZ9</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.5",
+        "Complex": "Human Aldose Reductase complexed with four tolrestat molecules at 1.5 A resolution.",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2FZB\">2FZB</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.08",
+        "Complex": "Human aldose reductase complexed with tolrestat at 1.08 A resolution.",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2FZD\">2FZD</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.59",
+        "Complex": "Human Aldose Reductase complexed with inhibitor zopolrestat after three days soaking (3days_soaked_3)",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2HV5\">2HV5</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.58",
+        "Complex": "Human Aldose Reductase-zopolrestat complex obtained by cocrystallisation after one day (1day_cocryst)",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2HVN\">2HVN</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.65",
+        "Complex": "Human Aldose Reductase-zopolrestat complex obtained by cocrystallisation (10days_cocryst)",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2HVO\">2HVO</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "0.81",
+        "Complex": "Human aldose reductase in complex with NADP+ and the inhibitor IDD594 at temperature of 15K",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2I16\">2I16</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "0.81",
+        "Complex": "Human aldose reductase in complex with NADP+ and the inhibitor IDD594 at temperature of 60K",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2I17\">2I17</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.43",
+        "Complex": "Aldose reductase complexed with nitrophenyl-oxadiazol type inhibitor at 1.43 A",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2IKG\">2IKG</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.55",
+        "Complex": "Human aldose reductase complexed with nitrofuryl-oxadiazol inhibitor at 1.55 A",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2IKH\">2IKH</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.47",
+        "Complex": "Human aldose reductase complexed with halogenated IDD-type inhibitor",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2IKI\">2IKI</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.55",
+        "Complex": "Human aldose reductase complexed with nitro-substituted IDD-type inhibitor",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2IKJ\">2IKJ</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.9",
+        "Complex": "Crystal Structure of Aldose Reductase complexed with Phenylacetic Acid",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2INE\">2INE</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.95",
+        "Complex": "Crystal Structure of Aldose Reductase complexed with 2-Hydroxyphenylacetic Acid",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2INZ\">2INZ</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "2",
+        "Complex": "Crystal Structure of C298A W219Y Aldose Reductase complexed with Dichlorophenylacetic acid",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2IPW\">2IPW</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.95",
+        "Complex": "Crystal Structure of Aldose Reductase complexed with Hexanoic Acid",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2IQ0\">2IQ0</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "2",
+        "Complex": "Crystal Structure of Aldose Reductase complexed with Lipoic Acid",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2IQD\">2IQD</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.7",
+        "Complex": "Crystal Structure of Aldose Reductase complexed with Dichlorophenylacetic acid",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2IS7\">2IS7</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "2",
+        "Complex": "Crystal Structure of C298A W219Y Aldose Reductase complexed with Phenylacetic Acid",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2ISF\">2ISF</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "0.82",
+        "Complex": "Human aldose reductase in complex with NADP and citrate at 0.82 angstrom",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2J8T\">2J8T</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.65",
+        "Complex": "Human Aldose Reductase complexed with novel naphtho[1,2-d]isothiazole acetic acid derivative (3)",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2NVC\">2NVC</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.55",
+        "Complex": "Human Aldose Reductase complexed with novel naphtho[1,2-d]isothiazole acetic acid derivative (2)",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2NVD\">2NVD</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.6",
+        "Complex": "Human aldose reductase mutant V47I complexed with zopolrestat",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2PD5\">2PD5</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.55",
+        "Complex": "Human aldose reductase mutant V47I complexed with fidarestat.",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2PD9\">2PD9</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.6",
+        "Complex": "Human aldose reductase mutant F121P complexed with zopolrestat.",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2PDB\">2PDB</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.65",
+        "Complex": "Human aldose reductase mutant F121P complexed with IDD393.",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2PDC\">2PDC</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.56",
+        "Complex": "Human aldose reductase mutant L300P complexed with zopolrestat.",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2PDF\">2PDF</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.42",
+        "Complex": "Human aldose reductase with uracil-type inhibitor at 1.42A.",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2PDG\">2PDG</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.45",
+        "Complex": "Human aldose reductase mutant L300P complexed with uracil-type inhibitor at 1.45 A.",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2PDH\">2PDH</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.55",
+        "Complex": "Human aldose reductase mutant L300A complexed with zopolrestat at 1.55 A.",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2PDI\">2PDI</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.57",
+        "Complex": "Human aldose reductase mutant L300A complexed with IDD393.",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2PDJ\">2PDJ</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.55",
+        "Complex": "Human aldose reductase mutant L301M complexed with sorbinil.",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2PDK\">2PDK</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.47",
+        "Complex": "Human aldose reductase mutant L301M complexed with tolrestat.",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2PDL\">2PDL</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.75",
+        "Complex": "Human aldose reductase mutant S302R complexed with zopolrestat.",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2PDM\">2PDM</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.7",
+        "Complex": "Human aldose reductase mutant S302R complexed with uracil-type inhibitor.",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2PDN\">2PDN</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.65",
+        "Complex": "Human aldose reductase mutant S302R complexed with IDD 393.",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2PDP\">2PDP</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.73",
+        "Complex": "Human aldose reductase mutant C303D complexed with uracil-type inhibitor.",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2PDQ\">2PDQ</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.55",
+        "Complex": "Human aldose reductase mutant C303D complexed with IDD393.",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2PDU\">2PDU</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.55",
+        "Complex": "Human aldose reductase mutant C303D complexed with fidarestat.",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2PDW\">2PDW</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.65",
+        "Complex": "Human aldose reductase double mutant S302R-C303D complexed with zopolrestat.",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2PDX\">2PDX</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.65",
+        "Complex": "Human aldose reductase double mutant S302R-C303D complexed with fidarestat.",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2PDY\">2PDY</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "0.9",
+        "Complex": "Complex of Aldose Reductase with NADP+ and simaltaneously bound competetive inhibitors Fidarestat and IDD594. Concentration of Fidarestat in soaking solution exceeds concentration of IDD594.",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2PEV\">2PEV</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "0.85",
+        "Complex": "Complex of Aldose Reductase with NADP+ and simaltaneously bound competetive inhibitors Fidarestat and IDD594. Concentration of Fidarestat in soaking solution is equal to concentration of IDD594.",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2PF8\">2PF8</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "0.85",
+        "Complex": "Complex of Aldose Reductase with NADP+ and simaltaneously bound competetive inhibitors Fidarestat and IDD594. Concentration of Fidarestat in soaking solution is less than concentration of IDD594.",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2PFH\">2PFH</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1",
+        "Complex": "The crystallographic structure of Aldose Reductase IDD393 complex confirms Leu300 as a specificity determinant",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2PZN\">2PZN</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "0.8",
+        "Complex": "Perdeuterated alr2 in complex with idd594",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2QXW\">2QXW</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "",
+        "Complex": "Human Aldose Reductase structure",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2R24\">2R24</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "0.78",
+        "Complex": "Crystal structure of Aldose Reductase complexed with 2S4R (Stereoisomer of Fidarestat, 2S4S) at 0.78 A",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3BCJ\">3BCJ</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.45",
+        "Complex": "Aldose Reductase in complex with novel biarylic inhibitor",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3DN5\">3DN5</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.8",
+        "Complex": "Human aldose reductase complexed with IDD 740 inhibitor",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3G5E\">3G5E</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1",
+        "Complex": "Human aldose reductase in complex with NADP+ and the inhibitor IDD594. Investigation of global effects of radiation damage on protein structure. First stage of radiation damage",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3GHR\">3GHR</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1",
+        "Complex": "Human aldose reductase in complex with NADP+ and the inhibitor IDD594. Investigation of global effects of radiation damage on protein structure. Second stage of radiation damage.",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3GHS\">3GHS</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.1",
+        "Complex": "Human aldose reductase in complex with NADP+ and the inhibitor IDD594. Investigation of global effects of radiation damage on protein structure. Third stage of radiation damage.",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3GHT\">3GHT</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.2",
+        "Complex": "Human aldose reductase in complex with NADP+ and the inhibitor IDD594. Investigation of global effects of radiation damage on protein structure. Forth stage of radiation damage.",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3GHU\">3GHU</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.1",
+        "Complex": "Human aldose reductase mutant T113C complexed with IDD594",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3LBO\">3LBO</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.27",
+        "Complex": "Human aldose reductase mutant T113S complexed with IDD594",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3LD5\">3LD5</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.21",
+        "Complex": "Human Aldose Reductase mutant T113S complexed with Zopolrestat",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3LEN\">3LEN</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "0.99",
+        "Complex": "Human Aldose Reductase mutant T113C in complex with IDD388",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3LEP\">3LEP</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.35",
+        "Complex": "Human aldose reductase mutant T113A complexed with IDD388",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3LQG\">3LQG</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.13",
+        "Complex": "Human Aldose Reductase mutant T113A complexed with IDD 594",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3LQL\">3LQL</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.03",
+        "Complex": "Human aldose reductase mutant T113S complexed with IDD388",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3LZ3\">3LZ3</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "0.95",
+        "Complex": "Human aldose reductase mutant T113V complexed with IDD594",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3LZ5\">3LZ5</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.07",
+        "Complex": "Human Aldose Reductase mutant T113V in complex with Zopolrestat",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3M0I\">3M0I</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "0.94",
+        "Complex": "Human Aldose Reductase mutant T113V complexed with IDD388",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3M4H\">3M4H</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.3",
+        "Complex": "Human aldose reductase mutant T113V complexed with IDD393",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3M64\">3M64</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.65",
+        "Complex": "Human Aldose Reductase mutant T113A complexed with Zopolrestat",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3MB9\">3MB9</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.14",
+        "Complex": "Human Aldose Reductase mutant T113V in complex with IDD393 crystallized in spacegroup P1",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3MC5\">3MC5</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.45",
+        "Complex": "Bond breakage and relocation of a covalently bound bromine of IDD594 in a complex with hAR T113A mutant after extensive radiation dose",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3ONB\">3ONB</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.06",
+        "Complex": "Bond breakage and relocation of a covalently bound bromine of IDD594 in a complex with hAR T113A mutant after moderate radiation dose",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3ONC\">3ONC</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.69",
+        "Complex": "Novel Benzothiazepine Inhibitor in Complex with human Aldose Reductase",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3P2V\">3P2V</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "2.09",
+        "Complex": "Human Aldose Reductase in Complex with NADP+ in Space Group P212121",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3Q65\">3Q65</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.55",
+        "Complex": "Human Aldose Reductase C298S mutant in Complex with NADP+ in Space Group P212121",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3Q67\">3Q67</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.9",
+        "Complex": "Crystal Structure of Human Aldose Reductase Complexed with Sulindac Sulfone",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3RX2\">3RX2</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.9",
+        "Complex": "Crystal Structure of Human Aldose Reductase Complexed with Sulindac",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3RX3\">3RX3</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "2",
+        "Complex": "Crystal Structure of Human Aldose Reductase complexed with Sulindac Sulfide",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3RX4\">3RX4</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.8",
+        "Complex": "Crystal Structure of Human Aldose Reductase Complexed with Tolmetin",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3S3G\">3S3G</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.28",
+        "Complex": "Human aldose reductase in complex with a nitrile-containing IDD inhibitor",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3T42\">3T42</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1",
+        "Complex": "Aldose reductase in complex with NSAID-type inhibitor at 1.0 A resolution",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3U2C\">3U2C</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.9",
+        "Complex": "Aldose reductase complexed with a nitro compound",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3V35\">3V35</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "2",
+        "Complex": "Aldose reductase complexed with glceraldehyde",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3V36\">3V36</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "0.9",
+        "Complex": "Complex of Aldose Reductase with inhibitor IDD 1219",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4GCA\">4GCA</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "0.85",
+        "Complex": "Crystal structure of human Aldose Reductase complexed with NADP+ and JF0064",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4IGS\">4IGS</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "2",
+        "Complex": "Crystal Structure Of Aldose Reductase (AKR1B1) Complexed With NADP+ And Epalrestat",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4JIR\">4JIR</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "0.84",
+        "Complex": "Crystal structure of human AR complexed with NADP+ and {2-[(4-bromobenzyl)carbamoyl]-5-chlorophenoxy}acetic acid",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4LAU\">4LAU</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "0.85",
+        "Complex": "Crystal structure of human AR complexed with NADP+ and {5-chloro-2-[(4-iodobenzyl)carbamoyl]phenoxy}acetic acid",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4LAZ\">4LAZ</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "0.8",
+        "Complex": "Crystal structure of human AR complexed with NADP+ and {5-chloro-2-[(2-fluoro-4-iodobenzyl)carbamoyl]phenoxy}acetic acid",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4LB3\">4LB3</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "0.8",
+        "Complex": "Crystal structure of human AR complexed with NADP+ and {2-[(4-bromo-2,3,5,6-tetrafluorobenzyl)carbamoyl]-5-chlorophenoxy}acetic acid",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4LB4\">4LB4</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "0.8",
+        "Complex": "Crystal structure of human AR complexed with NADP+ and {5-chloro-2-[(2,6-difluoro-4-iodobenzyl)carbamoyl]phenoxy}acetic acid",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4LBR\">4LBR</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "0.76",
+        "Complex": "Crystal structure of human AR complexed with NADP+ and {2-[(4-bromo-2,6-difluorobenzyl)carbamoyl]-5-chlorophenoxy}acetic acid",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4LBS\">4LBS</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.12",
+        "Complex": "Human Aldose Reductase complexed with Schl7764 at 1.12 A",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4NKC\">4NKC</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.06",
+        "Complex": "Human Aldose Reductase complexed with Schl7802 at 1.06 A",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4PR4\">4PR4</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.01",
+        "Complex": "Human Aldose Reductase complexed with Schl7815 ((3-[3-(5-NITROFURAN-2-YL)PHENYL]PROPANOIC ACID)at 1.01 A",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4PRR\">4PRR</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "0.96",
+        "Complex": "Human Aldose Reductase complexed with Schl12221 ({2-[5-(3-NITROPHENYL)FURAN-2-YL]PHENYL}ACETIC ACID) at 0.96 A",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4PRT\">4PRT</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.14",
+        "Complex": "Human Aldose Reductase complexed with a ligand with an IDD structure (2-(2-carbamoyl-5-fluoro-phenoxy)acetic acid) at 1.14 A",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4PUU\">4PUU</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.12",
+        "Complex": "Human Aldose Reductase complexed with a ligand with an IDD structure (2-[5-fluoro-2-(prop-2-ynylcarbamoyl)phenoxy]acetic acid) at 1.12 A",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4PUW\">4PUW</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.19",
+        "Complex": "Human Aldose Reductase complexed with a ligand with an IDD structure ([2-(benzylcarbamoyl)-5-fluorophenoxy]acetic acid) at 1.19 A",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4Q7B\">4Q7B</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "0.98",
+        "Complex": "Human Aldose Reductase complexed with a ligand with an IDD structure ({5-fluoro-2-[(3-nitrobenzyl)carbamoyl]phenoxy}acetic acid) at 0.98 A",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4QBX\">4QBX</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.05",
+        "Complex": "Human Aldose Reductase complexed with a ligand with an IDD structure (2-[2-(1,3-benzothiazol-2-ylmethylcarbamoyl)-5-fluoro-phenoxy]acetic acid) at 1.05 A",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4QR6\">4QR6</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.26",
+        "Complex": "Human Aldose Reductase complexed with a ligand with a new scaffold at 1.26 A",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4QX4\">4QX4</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "0.87",
+        "Complex": "Crystal structure of human AR complexed with NADP+ and AK198",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4QXI\">4QXI</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.2",
+        "Complex": "Human Aldose Reductase complexed with a ligand with an IDD structure at 1.20 A (1)",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4RPQ\">4RPQ</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1",
+        "Complex": "Crystal structure of human Aldose Reductase complexed with NADP+ and JF0048",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4XZH\">4XZH</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "2.45",
+        "Complex": "Crystal structure of human Aldose Reductase complexed with NADP+ and JF0049",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4XZI\">4XZI</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.07",
+        "Complex": "Human Aldose Reductase complexed with a ligand with an IDD structure (2) at 1.07 A.",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4YS1\">4YS1</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.02",
+        "Complex": "Human Aldose Reductase complexed with Schl12134 (3-[5-(3-nitrophenyl)-2-thienyl]propanoic acid) at 1.02 A",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4YU1\">4YU1</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.65",
+        "Complex": "Human Aldose Reductase in Complex with NADP+ and WY14643 in Space Group P212121",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/5HA7\">5HA7</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "0.94",
+        "Complex": "Crystal structure of human AKR1B1 complexed with NADP+ and compound 37",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/5OU0\">5OU0</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "0.96",
+        "Complex": "Crystal structure of human AKR1B1 complexed with NADP+ and compound 39",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/5OUJ\">5OUJ</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALDR1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "0.96",
+        "Complex": "Crystal structure of human AKR1B1 complexed with NADP+ and compound 41",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/5OUK\">5OUK</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALR2",
+        "Taxonomy": "Sus scrofa",
+        "Res.(Å)": "2.3",
+        "Complex": "PIG ALDOSE REDUCTASE COMPLEXED WITH SORBINIL",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/1AH0\">1AH0</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALR2",
+        "Taxonomy": "Sus scrofa",
+        "Res.(Å)": "2.3",
+        "Complex": "ALDOSE REDUCTASE COMPLEXED WITH TOLRESTAT INHIBITOR",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/1AH3\">1AH3</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALR2",
+        "Taxonomy": "Sus scrofa",
+        "Res.(Å)": "2",
+        "Complex": "PIG ALDOSE REDUCTASE, HOLO FORM",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/1AH4\">1AH4</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALR2",
+        "Taxonomy": "Sus scrofa",
+        "Res.(Å)": "3",
+        "Complex": "NOVEL NADPH-BINDING DOMAIN REVEALED BY THE CRYSTAL STRUCTURE OF ALDOSE REDUCTASE",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/1DLA\">1DLA</a></td>"
+    },
+    {
+        "AKR": "AKR1B1, ALR2",
+        "Taxonomy": "Sus scrofa",
+        "Res.(Å)": "2.2",
+        "Complex": "PIG ALDOSE REDUCTASE COMPLEXED WITH IDD384 INHIBITOR",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/1EKO\">1EKO</a></td>"
+    },
+    {
+        "AKR": "AKR1B10, AKR1B11",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.25",
+        "Complex": "Crystal Structure Of AKR1B10 Complexed With NADP+ And Tolrestat",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/1ZUA\">1ZUA</a></td>"
+    },
+    {
+        "AKR": "AKR1B10, AKR1B11",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.94",
+        "Complex": "Human AKR1B10 mutant V301L complexed with NADP+ and sorbinil",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4GA8\">4GA8</a></td>"
+    },
+    {
+        "AKR": "AKR1B10, AKR1B11",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.6",
+        "Complex": "Human AKR1B10 mutant V301L complexed with NADP+ and fidarestat",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4GAB\">4GAB</a></td>"
+    },
+    {
+        "AKR": "AKR1B10, AKR1B11",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "2.1",
+        "Complex": "Crystal structure of AKR1B10 complexed with NADP+ and Caffeic acid phenethyl ester",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4GQ0\">4GQ0</a></td>"
+    },
+    {
+        "AKR": "AKR1B10, AKR1B11",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.92",
+        "Complex": "Crystal structure of AKR1B10 complexed with NADP+",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4GQG\">4GQG</a></td>"
+    },
+    {
+        "AKR": "AKR1B10, AKR1B11",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "2.1",
+        "Complex": "Crystal Structure Of AKR1B10 Complexed With NADP+ And Flufenamic acid",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4I5X\">4I5X</a></td>"
+    },
+    {
+        "AKR": "AKR1B10, AKR1B11",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.75",
+        "Complex": "Crystal structure of human AKR1B10 complexed with NADP+ and JF0064",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4ICC\">4ICC</a></td>"
+    },
+    {
+        "AKR": "AKR1B10, AKR1B11",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "2.3",
+        "Complex": "Crystal Structure Of AKR1B10 Complexed With NADP+ And Epalrestat",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4JIH\">4JIH</a></td>"
+    },
+    {
+        "AKR": "AKR1B10, AKR1B11",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "2.2",
+        "Complex": "Crystal Structure Of AKR1B10 Complexed With NADP+ And Zopolrestat",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4JII\">4JII</a></td>"
+    },
+    {
+        "AKR": "AKR1B10, AKR1B11",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.45",
+        "Complex": "Crystal structure of human AKR1B10 complexed with NADP+ and sulindac",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4WEV\">4WEV</a></td>"
+    },
+    {
+        "AKR": "AKR1B10, AKR1B11",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.7",
+        "Complex": "Crystal structure of human AKR1B10 complexed with NADP+ and JF0049",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4XZL\">4XZL</a></td>"
+    },
+    {
+        "AKR": "AKR1B10, AKR1B11",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.75",
+        "Complex": "Crystal structure of the methylated wild-type AKR1B10 holoenzyme",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4XZM\">4XZM</a></td>"
+    },
+    {
+        "AKR": "AKR1B10, AKR1B11",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.7",
+        "Complex": "Crystal structure of the methylated K125R/V301L AKR1B10 Holoenzyme",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4XZN\">4XZN</a></td>"
+    },
+    {
+        "AKR": "AKR1B10, AKR1B11",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "2.05",
+        "Complex": "Crystal structure of human AKR1B10 complexed with NADP+ and the inhibitor MK181",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/5LIK\">5LIK</a></td>"
+    },
+    {
+        "AKR": "AKR1B10, AKR1B11",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.75",
+        "Complex": "Crystal structure of human AKR1B10 complexed with NADP+ and the inhibitor IDD388",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/5LIU\">5LIU</a></td>"
+    },
+    {
+        "AKR": "AKR1B10, AKR1B11",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.75",
+        "Complex": "Crystal structure of human AKR1B10 complexed with NADP+ and the inhibitor MK319",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/5LIW\">5LIW</a></td>"
+    },
+    {
+        "AKR": "AKR1B10, AKR1B11",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.95",
+        "Complex": "Crystal structure of human AKR1B10 complexed with NADP+ and the inhibitor MK184",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/5LIX\">5LIX</a></td>"
+    },
+    {
+        "AKR": "AKR1B10, AKR1B11",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "2.05",
+        "Complex": "Crystal structure of human AKR1B10 complexed with NADP+ and the inhibitor MK204",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/5LIY\">5LIY</a></td>"
+    },
+    {
+        "AKR": "AKR1B10, AKR1B11",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.5",
+        "Complex": "Crystal structure of human AKR1B10 complexed with NADP+ and the synthetic retinoid UVI2008",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/5M2F\">5M2F</a></td>"
+    },
+    {
+        "AKR": "AKR1B10, AKR1B11",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "2.5",
+        "Complex": "Crystal structure of AKR1B10 in complex with NADP+ and Androst-4-ene-3-beta-6-alpha-diol",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/5Y7N\">5Y7N</a></td>"
+    },
+    {
+        "AKR": "Akr1b7, Akr1b14",
+        "Taxonomy": "Rattus norvegicus",
+        "Res.(Å)": "1.86",
+        "Complex": "Crystal Structure of AKR1B14 in complex with NADP",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3O3R\">3O3R</a></td>"
+    },
+    {
+        "AKR": "Akr1b7, Akr1b14",
+        "Taxonomy": "Rattus norvegicus",
+        "Res.(Å)": "1.87",
+        "Complex": "Crystal structure of mutant His269Arg AKR1B14",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3QKZ\">3QKZ</a></td>"
+    },
+    {
+        "AKR": "AKR1B8",
+        "Taxonomy": "Cricetulus griseus",
+        "Res.(Å)": "2.4",
+        "Complex": "CHO REDUCTASE WITH NADP+",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/1C9W\">1C9W</a></td>"
+    },
+    {
+        "AKR": "AKR1C1, DDH, DDH1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.59",
+        "Complex": "Crystal structure of human 20alpha-HSD in ternary complex with NADP and 20alpha-hydroxy-progesterone",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/1MRQ\">1MRQ</a></td>"
+    },
+    {
+        "AKR": "AKR1C1, DDH, DDH1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.8",
+        "Complex": "Crystal structure of AKR1C1 in complex with NADP and 3,5-dichlorosalicylic acid",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3C3U\">3C3U</a></td>"
+    },
+    {
+        "AKR": "AKR1C1, DDH, DDH1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.9",
+        "Complex": "Crystal structure of AKR1C1 L308V mutant in complex with NADP and 3,5-dichlorosalicylic acid",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3GUG\">3GUG</a></td>"
+    },
+    {
+        "AKR": "AKR1C1, DDH, DDH1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.87",
+        "Complex": "Crystal structure of AKR1C1 in complex with NADP and 5-Phenyl,3-chlorosalicylic acid",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3NTY\">3NTY</a></td>"
+    },
+    {
+        "AKR": "AKR1C1, DDH, DDH1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "2.6",
+        "Complex": "Crystal Structure of AKR1C1 complexed with glibenclamide",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4YVP\">4YVP</a></td>"
+    },
+    {
+        "AKR": "Akr1c13",
+        "Taxonomy": "Mus musculus",
+        "Res.(Å)": "1.5",
+        "Complex": "Crystal Structure of mouse RECON (AKR1C13) in complex with Cyclic di-AMP",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/5UXF\">5UXF</a></td>"
+    },
+    {
+        "AKR": "AKR1C2, DDH2",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "3",
+        "Complex": "Crystal Structure of Human Type III 3-alpha-Hydroxysteroid Dehydrogenase/Bile Acid Binding Protein (AKR1C2) Complexed with NADP+ and Ursodeoxycholate",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/1IHI\">1IHI</a></td>"
+    },
+    {
+        "AKR": "AKR1C2, DDH2",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.25",
+        "Complex": "Human 3alpha-HSD type 3 in Ternary Complex with NADP and Testosterone",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/1J96\">1J96</a></td>"
+    },
+    {
+        "AKR": "AKR1C2, DDH2",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.9",
+        "Complex": "Crystal structure of human type 3 3alpha-hydroxysteroid dehydrogenase in complex with NADP(H), citrate and acetate molecules",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/1XJB\">1XJB</a></td>"
+    },
+    {
+        "AKR": "AKR1C2, DDH2",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "2",
+        "Complex": "Crystal structure of human type 3 3alpha-hydroxysteroid dehydrogenase in complex with NADP(H)",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2HDJ\">2HDJ</a></td>"
+    },
+    {
+        "AKR": "AKR1C2, DDH2",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.8",
+        "Complex": "Crystal structure of h3alpha-hydroxysteroid dehydrogenase type 3 mutant Y24A in complex with NADP+ and epi-testosterone",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2IPJ\">2IPJ</a></td>"
+    },
+    {
+        "AKR": "AKR1C2, DDH2",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.6",
+        "Complex": "AKR1C2 complex with naproxen",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4JQ1\">4JQ1</a></td>"
+    },
+    {
+        "AKR": "AKR1C2, DDH2",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.75",
+        "Complex": "AKR1C2 complex with sulindac",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4JQ2\">4JQ2</a></td>"
+    },
+    {
+        "AKR": "AKR1C2, DDH2",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.75",
+        "Complex": "AKR1C2 complex with zomepirac",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4JQ3\">4JQ3</a></td>"
+    },
+    {
+        "AKR": "AKR1C2, DDH2",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.52",
+        "Complex": "AKR1C2 complex with indomethacin",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4JQ4\">4JQ4</a></td>"
+    },
+    {
+        "AKR": "AKR1C2, DDH2",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.45",
+        "Complex": "AKR1C2 complex with mefenamic acid",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4JQA\">4JQA</a></td>"
+    },
+    {
+        "AKR": "AKR1C2, DDH2",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.6",
+        "Complex": "AKR1C2 complex with flurbiprofen",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4JTQ\">4JTQ</a></td>"
+    },
+    {
+        "AKR": "AKR1C2, DDH2",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.3",
+        "Complex": "AKR1C2 complex with ibuprofen",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4JTR\">4JTR</a></td>"
+    },
+    {
+        "AKR": "AKR1C2, DDH2",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "2.2",
+        "Complex": "Crystal Structuer of Human 3-alpha Hydroxysteroid Dehydrogenase Type 3 in Complex with NADP+ and Progesterone",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4L1W\">4L1W</a></td>"
+    },
+    {
+        "AKR": "AKR1C2, DDH2",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "2",
+        "Complex": "Crystal Structuer of Human 3-alpha Hydroxysteroid Dehydrogenase Type 3 V54L Mutant in Complex with NADP+ and Progesterone",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4L1X\">4L1X</a></td>"
+    },
+    {
+        "AKR": "AKR1C2, DDH2",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.2",
+        "Complex": "Crystal structure of human 3-alpha hydroxysteroid dehydrogenase type 3 in complex with NADP+, 5alpha-androstan-3,17-dione and (3beta, 5alpha)-3-hydroxyandrostan-17-one",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4XO6\">4XO6</a></td>"
+    },
+    {
+        "AKR": "AKR1C2, DDH2",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.75",
+        "Complex": "Crystal structure of human 3-alpha hydroxysteroid dehydrogenase type 3 in complex with NADP+, 5alpha-androstan-3,17-dione and (3beta, 5alpha)-3-hydroxyandrostan-17-one",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4XO7\">4XO7</a></td>"
+    },
+    {
+        "AKR": "AKR1C3, DDH1, HSD17B5, KIAA0119, PGFS",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.69",
+        "Complex": "Structure of prostaglandin F synthase with prostaglandin D2",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/1RY0\">1RY0</a></td>"
+    },
+    {
+        "AKR": "AKR1C3, DDH1, HSD17B5, KIAA0119, PGFS",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.69",
+        "Complex": "Prostaglandin F synthase complexed with NADPH and rutin",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/1RY8\">1RY8</a></td>"
+    },
+    {
+        "AKR": "AKR1C3, DDH1, HSD17B5, KIAA0119, PGFS",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.2",
+        "Complex": "Crystal structures of prostaglandin D2 11-ketoreductase (AKR1C3) in complex with the non-steroidal anti-inflammatory drugs flufenamic acid and indomethacin",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/1S1P\">1S1P</a></td>"
+    },
+    {
+        "AKR": "AKR1C3, DDH1, HSD17B5, KIAA0119, PGFS",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "2",
+        "Complex": "Crystal structures of prostaglandin D2 11-ketoreductase (AKR1C3) in complex with the non-steroidal anti-inflammatory drugs flufenamic acid and indomethacin",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/1S1R\">1S1R</a></td>"
+    },
+    {
+        "AKR": "AKR1C3, DDH1, HSD17B5, KIAA0119, PGFS",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.7",
+        "Complex": "Crystal structures of prostaglandin D2 11-ketoreductase in complex with the non-steroidal anti-inflammatory drugs flufenamic acid and indomethacin",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/1S2A\">1S2A</a></td>"
+    },
+    {
+        "AKR": "AKR1C3, DDH1, HSD17B5, KIAA0119, PGFS",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.8",
+        "Complex": "Crystal structures of prostaglandin D2 11-ketoreductase in complex with the non-steroidal anti-inflammatory drugs flufenamic acid and indomethacin",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/1S2C\">1S2C</a></td>"
+    },
+    {
+        "AKR": "AKR1C3, DDH1, HSD17B5, KIAA0119, PGFS",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "2",
+        "Complex": "Crystal structure of human 17beta-hydroxysteroid dehydrogenase type 5 (AKR1C3) complexed with delta4-androstene-3,17-dione and NADP",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/1XF0\">1XF0</a></td>"
+    },
+    {
+        "AKR": "AKR1C3, DDH1, HSD17B5, KIAA0119, PGFS",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.3",
+        "Complex": "Crystal structure of human androgenic 17beta-hydroxysteroid dehydrogenase type 5 in complexed with a potent inhibitor EM1404",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/1ZQ5\">1ZQ5</a></td>"
+    },
+    {
+        "AKR": "AKR1C3, DDH1, HSD17B5, KIAA0119, PGFS",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "2",
+        "Complex": "Crystal structure of prostaglandin F synathase containing bimatoprost",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2F38\">2F38</a></td>"
+    },
+    {
+        "AKR": "AKR1C3, DDH1, HSD17B5, KIAA0119, PGFS",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.35",
+        "Complex": "Crystal structure of human 17bet a-hydroxysteroid dehydrogenase type 5 in complexes with PEG and NADP",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2FGB\">2FGB</a></td>"
+    },
+    {
+        "AKR": "AKR1C3, DDH1, HSD17B5, KIAA0119, PGFS",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "2",
+        "Complex": "AKR1C3 complexed with mefenamic acid",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3R43\">3R43</a></td>"
+    },
+    {
+        "AKR": "AKR1C3, DDH1, HSD17B5, KIAA0119, PGFS",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "2.3",
+        "Complex": "AKR1C3 complex with naproxen",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3R58\">3R58</a></td>"
+    },
+    {
+        "AKR": "AKR1C3, DDH1, HSD17B5, KIAA0119, PGFS",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.95",
+        "Complex": "AKR1C3 complex with meclofenamic acid",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3R6I\">3R6I</a></td>"
+    },
+    {
+        "AKR": "AKR1C3, DDH1, HSD17B5, KIAA0119, PGFS",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "2.1",
+        "Complex": "AKR1C3 complex with sulindac",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3R7M\">3R7M</a></td>"
+    },
+    {
+        "AKR": "AKR1C3, DDH1, HSD17B5, KIAA0119, PGFS",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.8",
+        "Complex": "AKR1C3 complex with ibuprofen",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3R8G\">3R8G</a></td>"
+    },
+    {
+        "AKR": "AKR1C3, DDH1, HSD17B5, KIAA0119, PGFS",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.9",
+        "Complex": "AKR1C3 complex with zomepirac",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3R8H\">3R8H</a></td>"
+    },
+    {
+        "AKR": "AKR1C3, DDH1, HSD17B5, KIAA0119, PGFS",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "2.01",
+        "Complex": "AKR1C3 complex with flurbiprofen",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3R94\">3R94</a></td>"
+    },
+    {
+        "AKR": "AKR1C3, DDH1, HSD17B5, KIAA0119, PGFS",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.9",
+        "Complex": "AKR1C3 complex with R-naproxen",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3UFY\">3UFY</a></td>"
+    },
+    {
+        "AKR": "AKR1C3, DDH1, HSD17B5, KIAA0119, PGFS",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.73",
+        "Complex": "AKR1C3 complex with indomethacin at pH 7.5",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3UG8\">3UG8</a></td>"
+    },
+    {
+        "AKR": "AKR1C3, DDH1, HSD17B5, KIAA0119, PGFS",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.65",
+        "Complex": "AKR1C3 complex with indomethacin at pH 6.8",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3UGR\">3UGR</a></td>"
+    },
+    {
+        "AKR": "AKR1C3, DDH1, HSD17B5, KIAA0119, PGFS",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.68",
+        "Complex": "AKR1C3 complexed with 3-phenoxybenzoic acid",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3UWE\">3UWE</a></td>"
+    },
+    {
+        "AKR": "AKR1C3, DDH1, HSD17B5, KIAA0119, PGFS",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.85",
+        "Complex": "Crystal structure of human 17beta-hydroxysteroid dehydrogenase type 5 (AKR1C3) in complex with NADP+ and 3'-[(4-nitronaphthalen-1-yl)amino]benzoic acid",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4DBS\">4DBS</a></td>"
+    },
+    {
+        "AKR": "AKR1C3, DDH1, HSD17B5, KIAA0119, PGFS",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "2.53",
+        "Complex": "Crystal structure of human 17beta-hydroxysteroid dehydrogenase type 5 (AKR1C3) in complex with NADP+ and 3-((4 -(trifluoromethyl)phenyl)amino)benzoic acid",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4DBU\">4DBU</a></td>"
+    },
+    {
+        "AKR": "AKR1C3, DDH1, HSD17B5, KIAA0119, PGFS",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.8",
+        "Complex": "Crystal structure of human 17beta-hydroxysteroid dehydrogenase type 5 (AKR1C3) in complex with NADP+ and 2'-desmethyl-indomethacin",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4DBW\">4DBW</a></td>"
+    },
+    {
+        "AKR": "AKR1C3, DDH1, HSD17B5, KIAA0119, PGFS",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.7",
+        "Complex": "W227F active site mutant of AKR1C3",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4DZ5\">4DZ5</a></td>"
+    },
+    {
+        "AKR": "AKR1C3, DDH1, HSD17B5, KIAA0119, PGFS",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "2.2",
+        "Complex": "Crystal structure of human 17beta-hydroxysteroid dehydrogenase type 5 in complex with (R)-1-(naphthalen-2-ylsulfonyl)piperidine-3-carboxylic acid (86)",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4FA3\">4FA3</a></td>"
+    },
+    {
+        "AKR": "AKR1C3, DDH1, HSD17B5, KIAA0119, PGFS",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "2",
+        "Complex": "Crystal structure of human 17beta-hydroxysteroid dehydrogenase type 5 in complex with 3-((3,4-dihydroisoquinolin-2(1H)-yl)sulfonyl)-N-methylbenzamide (80)",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4FAL\">4FAL</a></td>"
+    },
+    {
+        "AKR": "AKR1C3, DDH1, HSD17B5, KIAA0119, PGFS",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "2",
+        "Complex": "Crystal structure of human 17beta-hydroxysteroid dehydrogenase type 5 in complex with 3-((3,4-dihydroisoquinolin-2(1H)-yl)sulfonyl)benzoic acid (17)",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4FAM\">4FAM</a></td>"
+    },
+    {
+        "AKR": "AKR1C3, DDH1, HSD17B5, KIAA0119, PGFS",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.97",
+        "Complex": "Crystal structure of human 17beta-hydroxysteroid dehydrogenase type 5 in complex with 1-{4-[(2-methyl-1-piperidinyl)sulfonyl]phenyl}-2-pyrrolidinone",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4H7C\">4H7C</a></td>"
+    },
+    {
+        "AKR": "AKR1C3, DDH1, HSD17B5, KIAA0119, PGFS",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "2.4",
+        "Complex": "Crystal structure of human 17beta-hydroxysteroid dehydrogenase type 5 in complex with (4-(4-Chlorophenyl)piperazin-1-yl)(morpholino)methanone (24)",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4HMN\">4HMN</a></td>"
+    },
+    {
+        "AKR": "AKR1C3, DDH1, HSD17B5, KIAA0119, PGFS",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.5",
+        "Complex": "17beta-HSD5 in complex with 2-nitro-5-(phenylsulfonyl)phenol",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4WDT\">4WDT</a></td>"
+    },
+    {
+        "AKR": "AKR1C3, DDH1, HSD17B5, KIAA0119, PGFS",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.7",
+        "Complex": "17beta-HSD5 in complex with 4-chloro-N-(4-chlorobenzyl)-5-nitro-1H-pyrazole-3-carboxamide",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4WDU\">4WDU</a></td>"
+    },
+    {
+        "AKR": "AKR1C3, DDH1, HSD17B5, KIAA0119, PGFS",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.94",
+        "Complex": "17beta-HSD5 in complex with 3,6-dihydropyridin-1(2H)-yl(5-methyl-1H-indol-2-yl)methanone",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4WDW\">4WDW</a></td>"
+    },
+    {
+        "AKR": "AKR1C3, DDH1, HSD17B5, KIAA0119, PGFS",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.64",
+        "Complex": "17beta-HSD5 in complex with [4-(2-hydroxyethyl)piperidin-1-yl](5-methyl-1H-indol-2-yl)methanone",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4WDX\">4WDX</a></td>"
+    },
+    {
+        "AKR": "AKR1C3, DDH1, HSD17B5, KIAA0119, PGFS",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.6",
+        "Complex": "AKR1C3 complexed with breakdown product of N-(tert-butyl)-2-(2-chloro-4-(((3-mercapto-5-methyl-4H-1,2,4-triazol-4-yl)amino)methyl)-6-methoxyphenoxy)acetamide",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4WRH\">4WRH</a></td>"
+    },
+    {
+        "AKR": "AKR1C3, DDH1, HSD17B5, KIAA0119, PGFS",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "2.81",
+        "Complex": "17beta-HSD5 in complex with 4-nitro-2-({4-[3-(trifluoromethyl)phenyl]piperazin-1-yl}methyl)phenol",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4XVD\">4XVD</a></td>"
+    },
+    {
+        "AKR": "AKR1C3, DDH1, HSD17B5, KIAA0119, PGFS",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.55",
+        "Complex": "17beta-HSD5 in complex with 3-pentyl-2-[(pyridin-2-ylmethyl)sulfanyl]-7-(pyrrolidin-1-ylcarbonyl)quinazolin-4(3H)-one",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4XVE\">4XVE</a></td>"
+    },
+    {
+        "AKR": "AKR1C3, DDH1, HSD17B5, KIAA0119, PGFS",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "2.3",
+        "Complex": "Crystal structure of AKR1C3 complexed with glibenclamide",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4YVV\">4YVV</a></td>"
+    },
+    {
+        "AKR": "AKR1C3, DDH1, HSD17B5, KIAA0119, PGFS",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "2.3",
+        "Complex": "Crystal structure of AKR1C3 complexed with glimepiride",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4YVX\">4YVX</a></td>"
+    },
+    {
+        "AKR": "AKR1C3, DDH1, HSD17B5, KIAA0119, PGFS",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "2",
+        "Complex": "Crystal structure of AKR1C3 complexed with glicazide",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4ZFC\">4ZFC</a></td>"
+    },
+    {
+        "AKR": "AKR1C3, DDH1, HSD17B5, KIAA0119, PGFS",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "2",
+        "Complex": "Crystal Structure of AKR1C3 complexed with CAPE",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/5HNT\">5HNT</a></td>"
+    },
+    {
+        "AKR": "AKR1C3, DDH1, HSD17B5, KIAA0119, PGFS",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "2",
+        "Complex": "Crystal Structure of AKR1C3 complexed with octyl gallate",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/5HNU\">5HNU</a></td>"
+    },
+    {
+        "AKR": "AKR1C3, DDH1, HSD17B5, KIAA0119, PGFS",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.99",
+        "Complex": "Crystal structure of AKR1C3 complexed with a pro-drug",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/5JM5\">5JM5</a></td>"
+    },
+    {
+        "AKR": "AKR1C3, DDH1, HSD17B5, KIAA0119, PGFS",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.88",
+        "Complex": "Potent and selective Aldo-Keto Reductase 1C3 (AKR1C3) inhibitors based on the benzoisoxazole moiety: application of a Bioisosteric Scaffold Hopping Approach to Flufenamic acid",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/6F2U\">6F2U</a></td>"
+    },
+    {
+        "AKR": "AKR1C3, DDH1, HSD17B5, KIAA0119, PGFS",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.3",
+        "Complex": "Potent and selective Aldo-Keto Reductase 1C3 (AKR1C3) inhibitors based on the benzoisoxazole moiety: Application of a Bioisosteric Scaffold Hopping Approach to Flufenamic acid",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/6F78\">6F78</a></td>"
+    },
+    {
+        "AKR": "AKR1C4, CHDR",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "2.4",
+        "Complex": "Crystal structure of human 3-alpha hydroxysteroid/dihydrodiol dehydrogenase (AKR1C4) complexed with NADP+",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2FVL\">2FVL</a></td>"
+    },
+    {
+        "AKR": "AKR1C5",
+        "Taxonomy": "Oryctolagus cuniculus",
+        "Res.(Å)": "2.08",
+        "Complex": "Crystal structure of rabbit 20alpha hyroxysteroid dehydrogenase in ternary complex with NADP and testosterone",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/1Q13\">1Q13</a></td>"
+    },
+    {
+        "AKR": "AKR1C5",
+        "Taxonomy": "Oryctolagus cuniculus",
+        "Res.(Å)": "1.32",
+        "Complex": "Binary complex of rabbit 20alpha-hydroxysteroid dehydrogenase with NADPH",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/1Q5M\">1Q5M</a></td>"
+    },
+    {
+        "AKR": "AKR1D1, SRD5B1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.62",
+        "Complex": "Crystal structure of Delta(4)-3-ketosteroid 5-beta-reductase in complex with NADP and TESTOSTERONE. RESOLUTION: 1.62 A.",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3BUR\">3BUR</a></td>"
+    },
+    {
+        "AKR": "AKR1D1, SRD5B1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.35",
+        "Complex": "Crystal structure of human Delta(4)-3-ketosteroid 5-beta-reductase in complex with NADP and HEPES. Resolution: 1.35 A.",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3BUV\">3BUV</a></td>"
+    },
+    {
+        "AKR": "AKR1D1, SRD5B1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.79",
+        "Complex": "Crystal structure of Delta(4)-3-ketosteroid 5-beta-reductase in complex with NADP and glycerol. Resolution: 1.79 A.",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3BV7\">3BV7</a></td>"
+    },
+    {
+        "AKR": "AKR1D1, SRD5B1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "2.2",
+        "Complex": "Crystal structure of 5beta-reductase (AKR1D1) in complex with NADPH",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3CAQ\">3CAQ</a></td>"
+    },
+    {
+        "AKR": "AKR1D1, SRD5B1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "2",
+        "Complex": "Crystal structure of 5beta-reductase (AKR1D1) in complex with NADP+ and 4-androstenedione",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3CAS\">3CAS</a></td>"
+    },
+    {
+        "AKR": "AKR1D1, SRD5B1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.9",
+        "Complex": "Crystal structure of 5beta-reductase (AKR1D1) in complex with NADP+ and 5beta-pregnan-3,20-dione",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3CAV\">3CAV</a></td>"
+    },
+    {
+        "AKR": "AKR1D1, SRD5B1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.9",
+        "Complex": "Crystal structure of human liver 5beta-reductase (AKR1D1) in complex with NADP and CORTISONE. Resolution 1.90 A.",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3CMF\">3CMF</a></td>"
+    },
+    {
+        "AKR": "AKR1D1, SRD5B1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "2.03",
+        "Complex": "Crystal structure of human liver delta(4)-3-ketosteroid 5beta-reductase (akr1d1) in complex with progesterone and nadp. Resolution: 2.03 A.",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3COT\">3COT</a></td>"
+    },
+    {
+        "AKR": "AKR1D1, SRD5B1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "2",
+        "Complex": "Crystal structure of 5beta-reductase (AKR1D1) in complex with NADP+ and 5beta-dihydrotestosterone, Resolution 2.00A",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3DOP\">3DOP</a></td>"
+    },
+    {
+        "AKR": "AKR1D1, SRD5B1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.7",
+        "Complex": "Crystal structure of human liver 5beta-reductase (AKR1D1) in complex with NADP and Finasteride. Resolution 1.70 A",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3G1R\">3G1R</a></td>"
+    },
+    {
+        "AKR": "AKR1D1, SRD5B1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.89",
+        "Complex": "Crystal structure of 5beta-reductase (AKR1D1) E120H mutant in complex with NADP+",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3UZW\">3UZW</a></td>"
+    },
+    {
+        "AKR": "AKR1D1, SRD5B1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.64",
+        "Complex": "Crystal structure of 5beta-reductase (AKR1D1) E120H mutant in complex with NADP+ and epiandrosterone",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3UZX\">3UZX</a></td>"
+    },
+    {
+        "AKR": "AKR1D1, SRD5B1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.83",
+        "Complex": "Crystal structure of 5beta-reductase (AKR1D1) E120H mutant in complex with NADP+ and 5beta-dihydrotestosterone",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3UZY\">3UZY</a></td>"
+    },
+    {
+        "AKR": "AKR1D1, SRD5B1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "1.82",
+        "Complex": "Crystal structure of 5beta-reductase (AKR1D1) E120H mutant in complex with NADP+ and delta4-androstenedione",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3UZZ\">3UZZ</a></td>"
+    },
+    {
+        "AKR": "AKR2A, AFT, AKR2, At4g35450, F15J1.20",
+        "Taxonomy": "Arabidopsis thaliana",
+        "Res.(Å)": "2.3",
+        "Complex": "Crystal structure of Ankyrin Repeat Domain of AKR2",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4TUM\">4TUM</a></td>"
+    },
+    {
+        "AKR": "AKR2A, AFT, AKR2, At4g35450, F15J1.20",
+        "Taxonomy": "Arabidopsis thaliana",
+        "Res.(Å)": "2",
+        "Complex": "AKR2A ankyrin repeat domain",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/5EID\">5EID</a></td>"
+    },
+    {
+        "AKR": "AKR2B5, XYL1, XYLR",
+        "Taxonomy": "Yamadazyma tenuis",
+        "Res.(Å)": "2.4",
+        "Complex": "Crystal structure of the Lys-274 to Arg mutant of Candida tenuis xylose reductase (AKR2B5) bound to NAD+",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/1YE4\">1YE4</a></td>"
+    },
+    {
+        "AKR": "AKR2B5, XYL1, XYLR",
+        "Taxonomy": "Yamadazyma tenuis",
+        "Res.(Å)": "2.3",
+        "Complex": "Crystal structure of the Lys-274 to Arg mutant of Candida tenuis xylose reductase (AKR2B5) bound to NADP+",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/1YE6\">1YE6</a></td>"
+    },
+    {
+        "AKR": "AKR2E4, akr2e",
+        "Taxonomy": "Bombyx mori",
+        "Res.(Å)": "1.3",
+        "Complex": "Crystal structure of Bombyx mori aldo-keto reductase (AKR2E4) in complex with NADP",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3WCZ\">3WCZ</a></td>"
+    },
+    {
+        "AKR": "AKR2E5, 101740031",
+        "Taxonomy": "Bombyx mori",
+        "Res.(Å)": "2.2",
+        "Complex": "Crystal structure of aldo-keto reductase (AKR2E5) of the silkworm, Bombyx mori",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/5AZ0\">5AZ0</a></td>"
+    },
+    {
+        "AKR": "AKR2E5, 101740031",
+        "Taxonomy": "Bombyx mori",
+        "Res.(Å)": "2.3",
+        "Complex": "Crystal structure of aldo-keto reductase (AKR2E5) complexed with NADPH",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/5AZ1\">5AZ1</a></td>"
+    },
+    {
+        "AKR": "AKR4C13, AR3, 100857058, ZEAMMB73_Zm00001d038449",
+        "Taxonomy": "Zea mays",
+        "Res.(Å)": "2.3",
+        "Complex": "Crystal structure of maize AKR4C13 in complex with NADP and acetate",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/5JGW\">5JGW</a></td>"
+    },
+    {
+        "AKR": "AKR4C7, 100037812, ZEAMMB73_Zm00001d042869",
+        "Taxonomy": "Zea mays",
+        "Res.(Å)": "1.45",
+        "Complex": "Crystal structure of the apo form of AKR4C7 from maize",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/5JH1\">5JH1</a></td>"
+    },
+    {
+        "AKR": "AKR4C7, 100037812, ZEAMMB73_Zm00001d042869",
+        "Taxonomy": "Zea mays",
+        "Res.(Å)": "1.72",
+        "Complex": "Crystal structure of the holo form of AKR4C7 from maize",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/5JH2\">5JH2</a></td>"
+    },
+    {
+        "AKR": "AKR4C8, At2g37760, F13M22, T8P21.6",
+        "Taxonomy": "Arabidopsis thaliana",
+        "Res.(Å)": "1.4",
+        "Complex": "Crystal structure of the plant stress-response enzyme AKR4C8",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3H7R\">3H7R</a></td>"
+    },
+    {
+        "AKR": "AKR4C9, At2g37770, F13M22, T8P21.32",
+        "Taxonomy": "Arabidopsis thaliana",
+        "Res.(Å)": "1.25",
+        "Complex": "Crystal structure of the plant stress-response enzyme AKR4C9",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3H7U\">3H7U</a></td>"
+    },
+    {
+        "AKR": "AKR4C13, AR3, 100857058, ZEAMMB73_Zm00001d038449",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "2.4",
+        "Complex": "Structure of the aflatoxin aldehyde reductase in complex with NADPH",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2BP1\">2BP1</a></td>"
+    },
+    {
+        "AKR": "AKR7A2, AFAR, AFAR1, AKR7",
+        "Taxonomy": "Mus musculus",
+        "Res.(Å)": "2.3",
+        "Complex": "mouse succinic semialdehyde reductase, AKR7A5",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2C91\">2C91</a></td>"
+    },
+    {
+        "AKR": "Akr7a2, Afar, Akr7a5",
+        "Taxonomy": "Rattus norvegicus",
+        "Res.(Å)": "1.38",
+        "Complex": "Aflatoxin aldehyde reductase (AKR7A1) from Rat Liver",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/1GVE\">1GVE</a></td>"
+    },
+    {
+        "AKR": "Akr7a3, Afar, Akr7a1",
+        "Taxonomy": "Homo sapiens",
+        "Res.(Å)": "3",
+        "Complex": "Crystal structure of human aflatoxin B1 aldehyde reductase member 3",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/2CLP\">2CLP</a></td>"
+    },
+    {
+        "AKR": "AKR7A3, AFAR2",
+        "Taxonomy": "Zea mays",
+        "Res.(Å)": "1.45",
+        "Complex": "Crystal structure of maize AKR4C13 in P21 space group",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/5JGY\">5JGY</a></td>"
+    },
+    {
+        "AKR": "AKR11A, iolS, yxbF, BSU39780, SS92ER",
+        "Taxonomy": "Bacillus subtilis",
+        "Res.(Å)": "1.8",
+        "Complex": "Structure of NADPH-dependent family 11 aldo-keto reductase AKR11A(apo)",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/1PYF\">1PYF</a></td>"
+    },
+    {
+        "AKR": "AKR11A, iolS, yxbF, BSU39780, SS92ER",
+        "Taxonomy": "Bacillus subtilis",
+        "Res.(Å)": "2.35",
+        "Complex": "Structure of NADPH-dependent family 11 aldo-keto reductase AKR11A(holo)",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/1PZ0\">1PZ0</a></td>"
+    },
+    {
+        "AKR": "AKR11B, yhdN, BSU09530",
+        "Taxonomy": "Bacillus subtilis",
+        "Res.(Å)": "2.2",
+        "Complex": "Structure of NADPH-dependent family 11 aldo-keto reductase AKR11B(holo)",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/1PZ1\">1PZ1</a></td>"
+    },
+    {
+        "AKR": "AKR11B4, GOX1615",
+        "Taxonomy": "Gluconobacter oxydans",
+        "Res.(Å)": "2",
+        "Complex": "Structure of the glycerol dehydrogenase AKR11B4 from Gluconobacter oxydans",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3N2T\">3N2T</a></td>"
+    },
+    {
+        "AKR": "AKR11C1, BH1011",
+        "Taxonomy": "Bacillus halodurans",
+        "Res.(Å)": "1.25",
+        "Complex": "aldo-keto reductase AKR11C1 from Bacillus halodurans (apo form)",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/1YNP\">1YNP</a></td>"
+    },
+    {
+        "AKR": "AKR11C1, BH1011",
+        "Taxonomy": "Bacillus halodurans",
+        "Res.(Å)": "1.3",
+        "Complex": "aldo-keto reductase AKR11C1 from Bacillus halodurans (holo form)",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/1YNQ\">1YNQ</a></td>"
+    },
+    {
+        "AKR": "AKR14A1, gpr, mgrA, yghZ, b3001, JW2970",
+        "Taxonomy": "Escherichia coli",
+        "Res.(Å)": "2.38",
+        "Complex": "The apo structure of a bacterial aldo-keto reductase AKR14A1",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4AST\">4AST</a></td>"
+    },
+    {
+        "AKR": "AKR14A1, gpr, mgrA, yghZ, b3001, JW2970",
+        "Taxonomy": "Escherichia coli",
+        "Res.(Å)": "2.05",
+        "Complex": "the complex Structure of the bacterial aldo-keto reductase AKR14A1 with NADP and citrate",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/4AUB\">4AUB</a></td>"
+    },
+    {
+        "AKR": "PR",
+        "Taxonomy": "Rauvolfia serpentina",
+        "Res.(Å)": "2.31",
+        "Complex": "Crystal Structure of Perakine Reductase, Founder Member of a Novel AKR Subfamily with Unique Conformational Changes during NADPH Binding",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3UYI\">3UYI</a></td>"
+    },
+    {
+        "AKR": "PR",
+        "Taxonomy": "Rauvolfia serpentina",
+        "Res.(Å)": "1.77",
+        "Complex": "Crystal Structure of Perakine Reductase, Founder Member of a Novel AKR Subfamily with Unique Conformational Changes during NADPH Binding",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3V0S\">3V0S</a></td>"
+    },
+    {
+        "AKR": "PR",
+        "Taxonomy": "Rauvolfia serpentina",
+        "Res.(Å)": "2.33",
+        "Complex": "Crystal Structure of Perakine Reductase, Founder Member of a Novel AKR Subfamily with Unique Conformational Changes during NADPH Binding",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3V0T\">3V0T</a></td>"
+    },
+    {
+        "AKR": "PR",
+        "Taxonomy": "Rauvolfia serpentina",
+        "Res.(Å)": "2.2",
+        "Complex": "Crystal Structure of Perakine Reductase, Founder Member of a Novel AKR Subfamily with Unique Conformational Changes during NADPH Binding",
+        "PDB": "<td><a href=\"https://www.rcsb.org/structure/3V0U\">3V0U</a></td>"
+    }
+]

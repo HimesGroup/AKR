@@ -1,0 +1,1912 @@
+[
+    {
+        "AKR": "1A1",
+        "Enzyme": "aldehyde reductase  (EC 1.1.1.2)",
+        "Species": "Homo sapiens",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/5174391\">NP_006057</a>",
+        "Alt Splicing": "<a href=\"http://useast.ensembl.org/Homo_sapiens/Gene/Summary?db=core;g=ENSG00000117448;r=1:45550543-45570049\">Transcripts</a>",
+        "PDB Link": "<a href=\"https://www.rcsb.org/structure/2ALR\">2ALR</a>",
+        "dbSNP": "<a href=\"https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?geneId=10327\">SNPs</a>",
+        "Ref": "<a href=\"/akr/references/#1,2\">1,2</a>"
+    },
+    {
+        "AKR": "1A2 ",
+        "Enzyme": "aldehyde reductase (AK1A1_PIG)",
+        "Species": "Sus scrofa",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/1703236\">P50578</a>",
+        "Alt Splicing": "",
+        "PDB Link": "<a href=\"https://www.rcsb.org/structure/1CWN\">1CWN</a>",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#3\">3</a>"
+    },
+    {
+        "AKR": "1A3 ",
+        "Enzyme": "aldehyde reductase (AK1A1_RAT)",
+        "Species": "Rattus norvegicus – liver",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/1703237\">P51635</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#4\">4</a>"
+    },
+    {
+        "AKR": "1A4",
+        "Enzyme": "murine liver aldehyde reductase, mucoaldehyde reductase",
+        "Species": "Mus musculus",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/10946870\">NP_067448</a>",
+        "Alt Splicing": "<a href=\"http://useast.ensembl.org/Mus_musculus_C57BL_6NJ/Transcript/ProteinSummary?g=MGP_C57BL6NJ_G0029053;r=4:122085479-122113544;t=MGP_C57BL6NJ_T0067649\">Transcripts</a>",
+        "PDB Link": "<a href=\"https://www.rcsb.org/structure/4GAC\">4GAC</a>",
+        "dbSNP": "<a href=\"https://www.ncbi.nlm.nih.gov/SNP/snp_ref.cgi?locusId=58810\">SNPs</a>",
+        "Ref": "<a href=\"/akr/references/#5\">5</a>"
+    },
+    {
+        "AKR": "1B1",
+        "Enzyme": "aldose reductase  (EC 1.1.1.21)",
+        "Species": "Homo sapiens",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/4502049\">NP_001619</a>",
+        "Alt Splicing": "<a href=\"http://useast.ensembl.org/Homo_sapiens/Transcript/ProteinSummary?g=ENSG00000085662;r=7:134442350-134459142;t=ENST00000285930\">Transcripts</a>",
+        "PDB Link": "<a href=\"https://www.rcsb.org/structure/1ADS\">1ADS</a>",
+        "dbSNP": "<a href=\"https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?geneId=231\">SNPs</a>",
+        "Ref": "<a href=\"/akr/references/#2,6,7\">2,6,7</a>"
+    },
+    {
+        "AKR": "1B2",
+        "Enzyme": "aldose reductase",
+        "Species": "Oryctolagus cuniculus – kidney",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/1703235\">P15122</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#8\">8</a>"
+    },
+    {
+        "AKR": "1B3",
+        "Enzyme": "aldose reductase",
+        "Species": "Mus musculus",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/1351911\">P45376</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#9\">9</a>"
+    },
+    {
+        "AKR": "1B4",
+        "Enzyme": "aldose reductase",
+        "Species": "Rattus norvegicus – lens",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/6978491\">NP_036630</a>",
+        "Alt Splicing": "<a href=\"http://useast.ensembl.org/Rattus_norvegicus/Transcript/ProteinSummary?g=ENSRNOG00000009513;r=4:61706864-61720956;t=ENSRNOT00000012879\">Transcripts</a>",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#10,11\">10,11</a>"
+    },
+    {
+        "AKR": "1B5",
+        "Enzyme": "aldose reductase  (bovine 20a-HSD)",
+        "Species": "Bos taurus – lens/testis",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/113594\">P16116</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#12,13,14\">12-14</a>"
+    },
+    {
+        "AKR": "1B6",
+        "Enzyme": "aldose reductase",
+        "Species": "Sus scrofa – lens",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/584742\">P80276</a>",
+        "Alt Splicing": "",
+        "PDB Link": "<a href=\"https://www.rcsb.org/structure/1AH0\">1AH0</a>",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#15\">15</a>"
+    },
+    {
+        "AKR": "1B7",
+        "Enzyme": "aldose reductase related protein 1 androgen-dependent vas deferens protein",
+        "Species": "Mus musculus",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/231525\">P21300</a>",
+        "Alt Splicing": "<a href=\"http://www.informatics.jax.org/sequence/marker/MGI:101918\">Transcripts</a>",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#16\">16</a>"
+    },
+    {
+        "AKR": "1B8",
+        "Enzyme": "fibroblast growth factor induced protein",
+        "Species": "Mus musculus",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/6679791\">NP_032038</a>",
+        "Alt Splicing": "<a href=\"http://useast.ensembl.org/Mus_musculus_WSB_EiJ/Transcript/ProteinSummary?g=MGP_WSBEiJ_G0029731;r=6:31890076-31906288;t=MGP_WSBEiJ_T0075628\">Transcripts</a>",
+        "PDB Link": "<a href=\"https://www.rcsb.org/structure/1FRB\">1FRB</a>",
+        "dbSNP": "<a href=\"https://www.ncbi.nlm.nih.gov/SNP/snp_ref.cgi?locusId=14187\">SNPs</a>",
+        "Ref": "<a href=\"/akr/references/#17\">17</a>"
+    },
+    {
+        "AKR": "1B9",
+        "Enzyme": "inducible-aldo-keto reductase from CHO cells",
+        "Species": "Cricetulus griseus",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/2114406\">AAC53199</a>",
+        "Alt Splicing": "",
+        "PDB Link": "<a href=\"https://www.rcsb.org/structure/1C9W\">1C9W</a>",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#18\">18</a>"
+    },
+    {
+        "AKR": "1B10",
+        "Enzyme": "small intestine reductase",
+        "Species": "Homo sapiens",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/NP_064695\">NP_064695</a>",
+        "Alt Splicing": "<a href=\"http://useast.ensembl.org/Homo_sapiens/Transcript/ProteinSummary?g=ENSG00000198074;r=7:134527592-134541408;t=ENST00000359579\">Transcripts</a>",
+        "PDB Link": "<a href=\"https://www.rcsb.org/structure/1ZUA\">1ZUA</a>",
+        "dbSNP": "<a href=\"https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?geneId=57016\">SNPs</a>",
+        "Ref": "<a href=\"/akr/references/#19,20\">19,20</a>"
+    },
+    {
+        "AKR": "1B12",
+        "Enzyme": "chicken aldo-keto reductase",
+        "Species": "Gallus domesticus – eye, tongue, esophagus",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/14330324\">CAC40811</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#21\">21</a>"
+    },
+    {
+        "AKR": "1B13",
+        "Enzyme": "aldose reductase-like gene",
+        "Species": "Rattus norvegicus",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/15864567\">CAC80649</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "1B14",
+        "Enzyme": "aldose reductase related protein",
+        "Species": "Rattus norvegicus",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/148540194\">NP_446233</a>",
+        "Alt Splicing": "<a href=\"http://useast.ensembl.org/Rattus_norvegicus/Transcript/ProteinSummary?g=ENSRNOG00000009875;r=4:61850348-61862526;t=ENSRNOT00000013423\">Transcripts</a>",
+        "PDB Link": "<a href=\"https://www.rcsb.org/structure/3O3R\">3O3R</a>",
+        "dbSNP": "<a href=\"https://www.ncbi.nlm.nih.gov/SNP/snp_ref.cgi?locusId=116463\">SNPs</a>",
+        "Ref": ""
+    },
+    {
+        "AKR": "1B15",
+        "Enzyme": "Aldose Reductase (3-Keto-acyl CoA reductase)",
+        "Species": "Homo sapiens",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/51094822\">EAL24068</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "<a href=\"https://www.ncbi.nlm.nih.gov/SNP/snp_ref.cgi?locusId=441282\">SNPs</a>",
+        "Ref": ""
+    },
+    {
+        "AKR": "1B18",
+        "Enzyme": "Rattus norvegicus aldo-keto reductase",
+        "Species": "Rattus norvegicus",
+        "Accession<sup>1</sup>": "<a href=\"https://www.ncbi.nlm.nih.gov/protein/NP_001013102.1\">NP_001013102</a>",
+        "Alt Splicing": "<a href=\"http://useast.ensembl.org/Rattus_norvegicus/Transcript/ProteinSummary?g=ENSRNOG00000009734;r=4:61814974-61828657;t=ENSRNOT00000074951\">Transcripts</a>",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "1B19",
+        "Enzyme": "AR-like protein (3beta-HSD)",
+        "Species": "Oryctolagus cuniculus (rabbit)",
+        "Accession<sup>1</sup>": "<a href=\"https://www.ncbi.nlm.nih.gov/protein/389886569\">NP_001254517</a>",
+        "Alt Splicing": "<a href=\"http://useast.ensembl.org/Oryctolagus_cuniculus/Transcript/ProteinSummary?g=ENSOCUG00000026383;r=7:13033140-13043915;t=ENSOCUT00000026904\">Transcripts</a>",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "1C1",
+        "Enzyme": "20a-Hydroxysteroid Dehydrogenase (20a-HSD) (EC 1.1.1.149), DD1 (EC 1.3.1.20)",
+        "Species": "Homo sapiens",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/5453543\">NP_001344</a>",
+        "Alt Splicing": "<a href=\"http://useast.ensembl.org/Homo_sapiens/Transcript/ProteinSummary?g=ENSG00000187134;r=10:4963253-4983283;t=ENST00000380872\">Transcripts</a>",
+        "PDB Link": "<a href=\"https://www.rcsb.org/structure/3C3U\">3C3U</a>",
+        "dbSNP": "<a href=\"https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?geneId=1645\">SNPs</a>",
+        "Ref": "<a href=\"/akr/references/#22-25\">22-25</a>"
+    },
+    {
+        "AKR": "1C2",
+        "Enzyme": "Type III 3a-HSD (EC 1.1.1.213), DD2 (EC 1.3.1.20), bile acid binding protein",
+        "Species": "Homo sapiens",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/4503285\">NP_001345</a>",
+        "Alt Splicing": "<a href=\"http://useast.ensembl.org/Homo_sapiens/Transcript/ProteinSummary?g=ENSG00000151632;r=10:4987400-5004023;t=ENST00000380753\">Transcripts</a>",
+        "PDB Link": "<a href=\"https://www.rcsb.org/structure/1IHI\">1IHI</a>",
+        "dbSNP": "<a href=\"https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?geneId=1646\">SNPs</a>",
+        "Ref": "<a href=\"/akr/references/#25,26\">25,26</a>"
+    },
+    {
+        "AKR": "1C3",
+        "Enzyme": "Type V 17b-HSD (EC 1.1.1.213), DDx (EC 1.3.1.20), 17b-HSD type V (EC 1.1.1.62)",
+        "Species": "Homo sapiens",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/24497583\">NP_003730</a>",
+        "Alt Splicing": "<a href=\"http://useast.ensembl.org/Homo_sapiens/Transcript/ProteinSummary?g=ENSG00000196139;r=10:5093793-5107686;t=ENST00000380554\">Transcripts</a>",
+        "PDB Link": "<a href=\"https://www.rcsb.org/structure/1RY0\">1RY0</a>",
+        "dbSNP": "<a href=\"https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?geneId=8644\">SNPs</a>",
+        "Ref": "<a href=\"/akr/references/#27\">27</a>"
+    },
+    {
+        "AKR": "1C4",
+        "Enzyme": "Type I 3a-HSD (EC 1.1.1.213), DD4 (EC 1.3.1.20), chlordecone reductase (EC 1.1.1.125)",
+        "Species": "Homo sapiens",
+        "Accession<sup>1</sup>": "<a href=\"https://www.ncbi.nlm.nih.gov/protein/P17516\">P17516</a>",
+        "Alt Splicing": "",
+        "PDB Link": "<a href=\"https://www.rcsb.org/structure/2FVL\">2FVL</a>",
+        "dbSNP": "<a href=\"https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?locusId=1109\">SNPs</a>",
+        "Ref": "<a href=\"/akr/references/#28\">28</a>"
+    },
+    {
+        "AKR": "1C5",
+        "Enzyme": "Prostaglandin E2 reductase, 20a-HSD (EC 1.1.1.149)",
+        "Species": "Oryctolagus cuniculus – ovary",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/1352733\">P80508</a>",
+        "Alt Splicing": "",
+        "PDB Link": "<a href=\"https://www.rcsb.org/structure/1Q13\">1Q13</a>",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#29\">29</a>"
+    },
+    {
+        "AKR": "1C6",
+        "Enzyme": "Estradiol 17b-HSD (EC 1.1.1.62), Murine Type 5 17b-HSD",
+        "Species": "Mus musculus",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/13487925\">NP_085114</a>",
+        "Alt Splicing": "<a href=\"http://useast.ensembl.org/Mus_musculus_WSB_EiJ/Transcript/ProteinSummary?g=MGP_WSBEiJ_G0019548;r=13:943899-964583;t=MGP_WSBEiJ_T0035349\">Transcripts</a>",
+        "PDB Link": "",
+        "dbSNP": "<a href=\"https://www.ncbi.nlm.nih.gov/SNP/snp_ref.cgi?locusId=83702\">SNPs</a>",
+        "Ref": "<a href=\"/akr/references/#30\">30</a>"
+    },
+    {
+        "AKR": "1C7",
+        "Enzyme": "Prostaglandin F synthase 1 (EC 1.1.1.188), Prostaglandin D2 11-ketoreductase",
+        "Species": "Bos taurus – lung",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/129896\">P05980</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#31\">31</a>"
+    },
+    {
+        "AKR": "1C8",
+        "Enzyme": "20a-HSD (EC 1.1.1.149)",
+        "Species": "Rattus norvegicus – ovary",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/1709623\">P51652</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#32,33\">32,33</a>"
+    },
+    {
+        "AKR": "1C9",
+        "Enzyme": "3a-HSD (EC 1.1.1.213)",
+        "Species": "Rattus norvegicus – liver",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/118634\">P23457</a>",
+        "Alt Splicing": "",
+        "PDB Link": "<a href=\"https://www.rcsb.org/structure/1RAL\">1RAL</a>",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#34,36\">34,36</a>"
+    },
+    {
+        "AKR": "1C10a",
+        "Enzyme": "rho-crystallin",
+        "Species": "Rana temporaria – lens",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/1345830\">P02532</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#37\">37</a>"
+    },
+    {
+        "AKR": "1C10b",
+        "Enzyme": "rho-crystallin",
+        "Species": "Rana catesbeina – lens",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/1706132\">P17264</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#38\">38</a>"
+    },
+    {
+        "AKR": "1C11",
+        "Enzyme": "prostaglandin F synthase 2 (EC 1.1.1.188)",
+        "Species": "Bos taurus – liver",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/1669605\">BAA13690</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#39\">39</a>"
+    },
+    {
+        "AKR": "1C12",
+        "Enzyme": "aldo-keto reductase 1C12",
+        "Species": "Mus musculus",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/85719330\">NP_038805</a>",
+        "Alt Splicing": "<a href=\"http://useast.ensembl.org/Mus_musculus_WSB_EiJ/Transcript/ProteinSummary?g=MGP_WSBEiJ_G0019547;r=13:775474-787537;t=MGP_WSBEiJ_T0035347\">Transcripts</a>",
+        "PDB Link": "",
+        "dbSNP": "<a href=\"https://www.ncbi.nlm.nih.gov/SNP/snp_ref.cgi?locusId=622402\">SNPs</a>",
+        "Ref": "<a href=\"/akr/references/#40\">40</a>"
+    },
+    {
+        "AKR": "1C13",
+        "Enzyme": "interleukin-3-regulated AKR",
+        "Species": "Mus musculus",
+        "Accession<sup>1</sup>": "<a href=\"https://www.ncbi.nlm.nih.gov/protein/NP_038806\">NP_038806</a>",
+        "Alt Splicing": "<a href=\"http://useast.ensembl.org/Mus_musculus_WSB_EiJ/Transcript/ProteinSummary?g=MGP_WSBEiJ_G0019545;r=13:693080-707835;t=MGP_WSBEiJ_T0035343\">Transcripts</a>",
+        "PDB Link": "",
+        "dbSNP": "<a href=\"https://www.ncbi.nlm.nih.gov/SNP/snp_ref.cgi?locusId=27384\">SNPs</a>",
+        "Ref": "<a href=\"/akr/references/#40\">40</a>"
+    },
+    {
+        "AKR": "1C14",
+        "Enzyme": "AKR",
+        "Species": "Mus musculus",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/19527294\">NP_598833</a>",
+        "Alt Splicing": "<a href=\"http://useast.ensembl.org/Mus_musculus_WSB_EiJ/Transcript/ProteinSummary?g=MGP_WSBEiJ_G0019543;r=13:548303-590521;t=MGP_WSBEiJ_T0035338\">Transcripts</a>",
+        "PDB Link": "",
+        "dbSNP": "<a href=\"https://www.ncbi.nlm.nih.gov/SNP/snp_ref.cgi?locusId=105387\">SNPs</a>",
+        "Ref": ""
+    },
+    {
+        "AKR": "1C15",
+        "Enzyme": "rat AKR C",
+        "Species": "Rattus norvegicus",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/741804\">2008147B</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#41\">41</a>"
+    },
+    {
+        "AKR": "1C16",
+        "Enzyme": "rat AKR B",
+        "Species": "Rattus norvegicus",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/741803\">2008147A</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#41\">41</a>"
+    },
+    {
+        "AKR": "1C17",
+        "Enzyme": "rat AKR D",
+        "Species": "Rattus norvegicus",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/741805\">2008147C</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#41\">41</a>"
+    },
+    {
+        "AKR": "1C18",
+        "Enzyme": "murine 20a-HSD",
+        "Species": "Mus musculus",
+        "Accession<sup>1</sup>": "<a href=\"https://www.ncbi.nlm.nih.gov/protein/NP_001333464\">NP_001333464</a>",
+        "Alt Splicing": "<a href=\"http://useast.ensembl.org/Mus_musculus/Gene/Summary?db=core;g=ENSMUSG00000021214;r=13:757644-775280\">Transcripts</a>",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "1C19",
+        "Enzyme": "murine 3(20a)-HSD",
+        "Species": "Mus musculus",
+        "Accession<sup>1</sup>": "<a href=\"https://www.ncbi.nlm.nih.gov/protein/NP_001013807.2\">NP_001013807</a>",
+        "Alt Splicing": "<a href=\"http://useast.ensembl.org/Mus_musculus/Gene/Summary?db=core;g=ENSMUSG00000071551;r=13:734282-755297\">Transcripts</a>",
+        "PDB Link": "",
+        "dbSNP": "<a href=\"https://www.ncbi.nlm.nih.gov/SNP/snp_ref.cgi?locusId=432720\">SNPs</a>",
+        "Ref": ""
+    },
+    {
+        "AKR": "1C20 ",
+        "Enzyme": "murine dihydrodiol dehydrogenase (Removed)",
+        "Species": "Mus musculus",
+        "Accession<sup>1</sup>": "<a href=\"https://www.ncbi.nlm.nih.gov/protein/NP_473421.1?report=genpept\">NP_473421</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#42\">42</a>"
+    },
+    {
+        "AKR": "1C21",
+        "Enzyme": "17a-HSD",
+        "Species": "Mus musculus",
+        "Accession<sup>1</sup>": "<a href=\"https://www.ncbi.nlm.nih.gov/protein/NP_084177\">NP_084177</a>",
+        "Alt Splicing": "<a href=\"http://useast.ensembl.org/Mus_musculus/Gene/Summary?db=core;g=ENSMUSG00000021207;r=13:1084117-1096565\">Transcripts</a>",
+        "PDB Link": "<a href=\"https://www.rcsb.org/structure/3FJN\">3FJN</a>",
+        "dbSNP": "<a href=\"https://www.ncbi.nlm.nih.gov/SNP/snp_ref.cgi?locusId=77337\">SNPs</a>",
+        "Ref": "<a href=\"/akr/references/#42,43\">42,43</a>"
+    },
+    {
+        "AKR": "1C22",
+        "Enzyme": "dihydrodiol dehydrogenase",
+        "Species": "Mus musculus",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/38603389\">BAD02825</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "1C23",
+        "Enzyme": "17b(20a)-hydroxysteroid dehydrogenase",
+        "Species": "Equus caballus (horse)",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/62856987\">AAY16444</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "1C24",
+        "Enzyme": "17b-hydroxysteroid dehydrogenase6t-butyl-2, 3-epoxy-5-cyclohexene-1, 4-dionereductase",
+        "Species": "Rattus norvegicus",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/84993586\">BAE75957</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#44\">44</a>"
+    },
+    {
+        "AKR": "1C25",
+        "Enzyme": "3(20)a-HSD",
+        "Species": "Macaca fuscata (Japanese macaque)",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/15216337\">BAB63209</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "1C26",
+        "Enzyme": "morphine-6-dehydrogenase",
+        "Species": "Rabbit",
+        "Accession<sup>1</sup>": "<a href=\"https://www.ncbi.nlm.nih.gov/protein/402230914\">BAM37087</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "1C27",
+        "Enzyme": "3alpha(17beta)-hydroxysteroid dehydrogenase (testosterone and E2)",
+        "Species": "Oryctolagus cuniculus (rabbit)",
+        "Accession<sup>1</sup>": "<a href=\"https://www.ncbi.nlm.nih.gov/protein/402230916\">BAM37088</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "1C28",
+        "Enzyme": "3alpha(17beta)-hydroxysteroid dehydrogenase (testosterone and E2)",
+        "Species": "Oryctolagus cuniculus (rabbit)",
+        "Accession<sup>1</sup>": "<a href=\"https://www.ncbi.nlm.nih.gov/protein/402230918\">BAM37089</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "1C29",
+        "Enzyme": "3alpha/17beta/20alpha-hydroxysteroid dehydrogenase",
+        "Species": "Oryctolagus cuniculus (rabbit)",
+        "Accession<sup>1</sup>": "<a href=\"https://www.ncbi.nlm.nih.gov/protein/499534418\">BAN20006</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "1C30",
+        "Enzyme": "Naphthalene reductase 1, 17beta-hydroxysteroid dehydrogenase",
+        "Species": "Oryctolagus cuniculus (Rabbit)",
+        "Accession<sup>1</sup>": "<a href=\"https://www.ncbi.nlm.nih.gov/protein/544583212\">BAN84250</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "1C31",
+        "Enzyme": "3alpha/17beta/20alpha-HSD",
+        "Species": "Oryctolagus cuniculus (rabbit)",
+        "Accession<sup>1</sup>": "<a href=\"https://www.ncbi.nlm.nih.gov/protein/544583214\">BAN84251</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "1C32",
+        "Enzyme": "loxoprofen reductase,  3alpha/17beta/20alpha-HSD",
+        "Species": "Oryctolagus cuniculus (rabbit)",
+        "Accession<sup>1</sup>": "<a href=\"https://www.ncbi.nlm.nih.gov/protein/544583216\">BAN84252</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "1C33",
+        "Enzyme": "Naloxone reductae 2, 3alpha/17beta/20alpha-HSD",
+        "Species": "Oryctolagus cuniculus (rabbit)",
+        "Accession<sup>1</sup>": "<a href=\"https://www.ncbi.nlm.nih.gov/protein/544583218\">BAN84253</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "1C34",
+        "Enzyme": "Morphine-6-dhydrogenase/3b/17b/20a-HSD",
+        "Species": "Mesocricetus auratus (Syrian Golden Hamster)",
+        "Accession<sup>1</sup>": "<a href=\"https://www.ncbi.nlm.nih.gov/protein/698040297\">BAP76082</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "1C35",
+        "Enzyme": "3beta/17beta-hydroxysteroid dehydrogenase",
+        "Species": "Mesocricetus auratus",
+        "Accession<sup>1</sup>": "<a href=\"https://www.ncbi.nlm.nih.gov/protein/698040299\">BAP76083</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "1D1",
+        "Enzyme": "Steroid 5b-Reductase (EC 1.3.99.6)",
+        "Species": "Homo sapiens",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/5174695\">NP_005980</a>",
+        "Alt Splicing": "<a href=\"http://useast.ensembl.org/Homo_sapiens/Transcript/ProteinSummary?g=ENSG00000122787;r=7:138076477-138117986;t=ENST00000242375\">Transcripts</a>",
+        "PDB Link": "<a href=\"https://www.rcsb.org/structure/3CMF\">3CMF</a>",
+        "dbSNP": "<a href=\"https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?geneId=6718\">SNPs</a>",
+        "Ref": "<a href=\"/akr/references/#45\">45</a>"
+    },
+    {
+        "AKR": "1D2 ",
+        "Enzyme": "D4-3-ketosteroid-5b-reductase (AK1D1_RAT)",
+        "Species": "Rattus norvegicus (Norway rat) – liver",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/398962\">P31210</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#46\">46</a>"
+    },
+    {
+        "AKR": "1D3",
+        "Enzyme": "D4-3-ketosteroid-5b-reductase",
+        "Species": "Oryctolagus cuniculus",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/5689216\">BAA82867</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "1D4",
+        "Enzyme": "3-oxo-5-beta-steroid 4-dehydrogenase",
+        "Species": "Mus musculus",
+        "Accession<sup>1</sup>": "<a href=\"https://www.ncbi.nlm.nih.gov/protein/NP_663339.1\">NP_6633397</a>",
+        "Alt Splicing": "<a href=\"http://useast.ensembl.org/Mus_musculus/Gene/Summary?db=core;g=ENSMUSG00000038641;r=6:35174274-35212222\">Transcripts</a>",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "1E1",
+        "Enzyme": "mouse liver keto-reductase",
+        "Species": "Mus musculus",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/1698718\">AAB37274</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#47\">47</a>"
+    },
+    {
+        "AKR": "1E2",
+        "Enzyme": "1,5-Andyro-D-fructose reductase",
+        "Species": "Homo sapiens",
+        "Accession<sup>1</sup>": "<a href=\"https://www.ncbi.nlm.nih.gov/protein/Q96JD6\">Q96JD6</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "<a href=\"https://www.ncbi.nlm.nih.gov/SNP/snp_ref.cgi?locusId=83592\">SNPs</a>",
+        "Ref": ""
+    },
+    {
+        "AKR": "1G1",
+        "Enzyme": "Aldo-keto reductase",
+        "Species": "Caenorhabditis elegans",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/17550248\">NP_509242</a>",
+        "Alt Splicing": "",
+        "PDB Link": "<a href=\"https://www.rcsb.org/structure/1QWK\">1QWK</a>",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "2A1",
+        "Enzyme": "NADP+-dependent sorbitol-6-phosphate reductase (EC 1.1.1.200)",
+        "Species": "Malus domestica",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/134153\">P28475</a>",
+        "Alt Splicing": "<a href=\"http://useast.ensembl.org/Caenorhabditis_elegans/Transcript/ProteinSummary?g=WBGene00015565;r=X:7341509-7342780;t=C07D8.6\">Transcripts</a>",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#48\">48</a>"
+    },
+    {
+        "AKR": "2A2",
+        "Enzyme": "NADPH-dependent mannose-6-phosphate reductase",
+        "Species": "Apium graveolens",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/1835701\">AAB97617</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#49\">49</a>"
+    },
+    {
+        "AKR": "2A3",
+        "Enzyme": "Sorbitol-6-phosphate dehydrogenase",
+        "Species": "Oryza sativa",
+        "Accession<sup>1</sup>": "<a href=\"https://www.ncbi.nlm.nih.gov/protein/1868032478\">QLF98851</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "2B1",
+        "Enzyme": "NAD(P)H dependent xylose reductase",
+        "Species": "Scheffersomyces stipitis",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/401428\">P31867</a>",
+        "Alt Splicing": "",
+        "PDB Link": "<a href=\"https://www.rcsb.org/structure/5Z6U\">5Z6U</a>",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#50\">50</a>"
+    },
+    {
+        "AKR": "2B2",
+        "Enzyme": "NAD(P)H dependent xylose reductase",
+        "Species": "Kluyveromyces lactis",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/1351442\">P49378</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#51\">51</a>"
+    },
+    {
+        "AKR": "2B3",
+        "Enzyme": "NAD(P)H dependent xylose reductase",
+        "Species": "Pachysolen tannophilus",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/2492803\">P78736</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#52\">52</a>"
+    },
+    {
+        "AKR": "2B4",
+        "Enzyme": "NAD(P)H dependent xylose reductase",
+        "Species": "Candida tropicalis",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/1912051\">BAA19477</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#53-54\">53-54</a>"
+    },
+    {
+        "AKR": "2B5",
+        "Enzyme": "NAD(P)H dependent xylose reductase",
+        "Species": "Candida tenuis",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/3289019\">AAC25601</a>",
+        "Alt Splicing": "",
+        "PDB Link": "<a href=\"https://www.rcsb.org/structure/1JEZ\">1JEZ</a>",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#55\">55</a>"
+    },
+    {
+        "AKR": "2B6",
+        "Enzyme": "Gre3p",
+        "Species": "Saccharomyces cerevisiae",
+        "Accession<sup>1</sup>": "<a href=\"https://www.ncbi.nlm.nih.gov/protein/6321896\">NP_011972</a>",
+        "Alt Splicing": "<a href=\"http://useast.ensembl.org/Saccharomyces_cerevisiae/Gene/Summary?g=YHR104W;r=VIII:323409-324392;t=YHR104W_mRNA\">Transcripts</a>",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#56\">56</a>"
+    },
+    {
+        "AKR": "2B7",
+        "Enzyme": "xylose reductase",
+        "Species": "Candida tropicalis",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/1912049\">BAA19476</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#57\">57</a>"
+    },
+    {
+        "AKR": "2B8",
+        "Enzyme": "xylose reductase",
+        "Species": "Pichia guilliermondii",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/4103055\">AAD09330</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#58\">58</a>"
+    },
+    {
+        "AKR": "2B9",
+        "Enzyme": "Dh_XR (reduces xylose to xylitol)",
+        "Species": "Debaryomyces Hansenli",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/XP_460932\">XP_460932</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "2C1",
+        "Enzyme": "4-dihydromethyltrisporate dehydrogenase",
+        "Species": "Mucor mucedo",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/1332539\">CAA98021</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#59\">59</a>"
+    },
+    {
+        "AKR": "2D1",
+        "Enzyme": "D-xylose reductase",
+        "Species": "Aspergillus niger",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/7407095\">AAF61912</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#60\">60</a>"
+    },
+    {
+        "AKR": "2E1",
+        "Enzyme": "3-dehydroecdysone 3b-reductase",
+        "Species": "Spodoptera littoralis",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/4753912\">CAB41997</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#61\">61</a>"
+    },
+    {
+        "AKR": "2E2",
+        "Enzyme": "3-dehydroecdysone 3b-reductase",
+        "Species": "Trichoplusia ni",
+        "Accession<sup>1</sup>": "<a href=https://www.ncbi.nlm.nih.gov/protein/18479021\">AAL73387</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#62\">62</a>"
+    },
+    {
+        "AKR": "2E3",
+        "Enzyme": "DL-glyceraldehyde reductase",
+        "Species": "Drosophila melanogaster",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/5052610\">AAD38635</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "2E4",
+        "Enzyme": "Reductase",
+        "Species": "Bombyx mori",
+        "Accession<sup>1</sup>": "<a href=\"https://www.ncbi.nlm.nih.gov/protein/379698180\">BAL70378</a>",
+        "Alt Splicing": "",
+        "PDB Link": "<a href=\"https://www.rcsb.org/structure/3WCZ\">3WCZ</a>",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "2E5",
+        "Enzyme": "Pheromone biosynthesis",
+        "Species": "Bombyx mori",
+        "Accession<sup>1</sup>": "<a href=\"https://www.ncbi.nlm.nih.gov/protein/830259991\">BAR91212</a>",
+        "Alt Splicing": "",
+        "PDB Link": "<a href=\"https://www.rcsb.org/structure/5AZ1\">5AZ1</a>",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "2E6",
+        "Enzyme": "Aldo-keto (insect steroid) reductase",
+        "Species": "Bombyx mori",
+        "Accession<sup>1</sup>": "<a href=\"https://www.ncbi.nlm.nih.gov/protein/1369098359\">BBD35022</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "2E7",
+        "Enzyme": "Steroid reductase",
+        "Species": "Bombyx mori",
+        "Accession<sup>1</sup>": "<a href=\"https://www.ncbi.nlm.nih.gov/protein/NP_001303998.1\">NP_001303998</a>",
+        "Alt Splicing": "",
+        "PDB Link": "<a href=\"https://www.rcsb.org/structure/5AZ1\">5AZ1</a>",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "2E8",
+        "Enzyme": "Reductase for benzaldehyde, hexanal, heptanal, nonanal, trans-2-nonenal, and citral",
+        "Species": "Bombyx mori",
+        "Accession<sup>1</sup>": "<a href=\"https://www.ncbi.nlm.nih.gov/nuccore/LC595638\">LC595638</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "3A1",
+        "Enzyme": "Gcy1p",
+        "Species": "Saccharomyces cerevisiae",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/121087\">P14065</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#63\">63</a>"
+    },
+    {
+        "AKR": "3A2",
+        "Enzyme": "2-methylbutyraldehydereductase: Ypr1p",
+        "Species": "Saccharomyces cerevisiae",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/6320576\">NP_010656</a>",
+        "Alt Splicing": "<a href=\"http://useast.ensembl.org/Saccharomyces_cerevisiae/Gene/Summary?g=YDR368W;r=IV:1213904-1214842;t=YDR368W_mRNA\">Transcripts</a>",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#56\">56</a>"
+    },
+    {
+        "AKR": "3B1",
+        "Enzyme": "NADPH dependent aldehyde reductase(EC 1.1.1.2)",
+        "Species": "Sporidiobolus salmonicolor",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/1142698\">AAB17362</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#64\">64</a>"
+    },
+    {
+        "AKR": "3B2a",
+        "Enzyme": "erthyrose reductase 1",
+        "Species": "Moniliella megachiliensis<sup>2</sup>",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/60458781\">BAD90687</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "3B2b",
+        "Enzyme": "erthyrose reductase 2",
+        "Species": "Moniliella megachiliensis<sup>2</sup>",
+        "Accession<sup>1</sup>": "<a href=\"https://www.ncbi.nlm.nih.gov/protein/BAD90688\">BAD90688</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "3B3",
+        "Enzyme": "erthyrose reductase 3",
+        "Species": "Moniliella megachiliensis<sup>2</sup>",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/60458785\">BAD90689</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "3C1",
+        "Enzyme": "Ara1p - arabinose dehydrogenase",
+        "Species": "Saccharomyces cerevisiae",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/536474\">CAA85107</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#65\">65</a>"
+    },
+    {
+        "AKR": "3C2",
+        "Enzyme": "indole-3-acetaldehyde reductase",
+        "Species": "Saccharomyces pombe",
+        "Accession<sup>1</sup>": "<a href=\"https://www.ncbi.nlm.nih.gov/protein/O13848\">O13848</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "3C3",
+        "Enzyme": "CPR-C2; polyketone reductase",
+        "Species": "Candida. parpsilosis",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/38423524\">BAD01653</a>",
+        "Alt Splicing": "",
+        "PDB Link": "<a href=\"https://www.rcsb.org/structure/4H8N\">4H8N</a>",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#66\">66</a>"
+    },
+    {
+        "AKR": "3D1",
+        "Enzyme": "aldose reductase",
+        "Species": "Pyricularia grisea",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/31321885\">AAK55762</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "3E1",
+        "Enzyme": "b-ketoester reductase",
+        "Species": "Pencillium citrinum",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/22207641\">CAD43580</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "3F1",
+        "Enzyme": "D,L-glyceraldehyde reductase",
+        "Species": "Thermotoga maritime",
+        "Accession<sup>1</sup>": "<a href=\"https://www.ncbi.nlm.nih.gov/protein/Q9X265\">Q9X265</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#67\">67</a>"
+    },
+    {
+        "AKR": "3F2",
+        "Enzyme": "2,5-diketo-D-gluconic acid reductase B",
+        "Species": "Escherichia coli",
+        "Accession<sup>1</sup>": "<a href=\"https://www.ncbi.nlm.nih.gov/protein/P30863\">P30863</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "3F3",
+        "Enzyme": "isatin reductase",
+        "Species": "Sinorhizobium meliloti",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/81635765\">Q92YU2</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#68\">68</a>"
+    },
+    {
+        "AKR": "4A1",
+        "Enzyme": "NAD(P)H dependent 6'-eoxychalcone synthase",
+        "Species": "Glycine max",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/112837\">P26690</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#69\">69</a>"
+    },
+    {
+        "AKR": "4A2",
+        "Enzyme": "chalcone polyketide reductase",
+        "Species": "Medicago sativa",
+        "Accession<sup>1</sup>": "<a href=\"https://www.ncbi.nlm.nih.gov/protein/Q40333\">Q40333</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#70\">70</a>"
+    },
+    {
+        "AKR": "4A3",
+        "Enzyme": "chalcone polyketide reductase",
+        "Species": "Glycyrrhiza echinata",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/1215788\">BAA12084</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#71\">71</a>"
+    },
+    {
+        "AKR": "4A4",
+        "Enzyme": "chalcone polyketide reductase",
+        "Species": "Glycyrrhiza glabra",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/1514979\">BAA13113</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#72\">72</a>"
+    },
+    {
+        "AKR": "4B1",
+        "Enzyme": "chalcone polyketide reductase",
+        "Species": "Sesbania rostrata",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/2792155\">CAA11226</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#73\">73</a>"
+    },
+    {
+        "AKR": "4B2",
+        "Enzyme": "NADPH-dependent codeinone reductase",
+        "Species": "Papaver somniferum",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/6478210\">AAF13739</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#74\">74</a>"
+    },
+    {
+        "AKR": "4B3",
+        "Enzyme": "codeinone reductase",
+        "Species": "Papaver somniferum",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/6478204\">AAF13736</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#74\">74</a>"
+    },
+    {
+        "AKR": "4B4",
+        "Enzyme": "D-galacturonate reductase",
+        "Species": "Fragaria ananassa",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/2792295\">AAB97005</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "4B5",
+        "Enzyme": "deoxymugineic acid synthase1",
+        "Species": "Zea mays",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/112807104\">BAF03164</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "4B6",
+        "Enzyme": "deoxymugineic acid synthase1",
+        "Species": "Oryza sativa",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/112807098\">BAF03161</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "4B7",
+        "Enzyme": "deoxymugineic acid synthase1",
+        "Species": "Hordeum vulgare",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/112807100\">BAF03162</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "4B8",
+        "Enzyme": "deoxymugineic acid synthase1",
+        "Species": "Triticum aestivum",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/112807102\">BAF03163</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "4B10",
+        "Enzyme": "2-Carbomethoxy-3-tropinone reductase (MecgoR) (a.k.a. methylecgonone)",
+        "Species": "Erythroxylum coca",
+        "Accession<sup>1</sup>": "<a href=\"https://www.ncbi.nlm.nih.gov/protein/302138850\">ADK94763</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "4C1",
+        "Enzyme": "aldehyde reductase (EC 1.1.1.2)",
+        "Species": "Hordeum vulgare",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/113595\">P23901</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#75,76\">75,76</a>"
+    },
+    {
+        "AKR": "4C2",
+        "Enzyme": "aldehyde reductase",
+        "Species": "Bromus inermis",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/167113\">AAA21751</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#77\">77</a>"
+    },
+    {
+        "AKR": "4C3",
+        "Enzyme": "aldehyde reductase",
+        "Species": "Avena fatua",
+        "Accession<sup>1</sup>": "<a href=\"https://www.ncbi.nlm.nih.gov/protein/Q43320\">Q43320</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#78\">78</a>"
+    },
+    {
+        "AKR": "4C4",
+        "Enzyme": "aldehyde reductase",
+        "Species": "Xerophyta viscosa",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/4539944\">AAD22264</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#79\">79</a>"
+    },
+    {
+        "AKR": "4C5",
+        "Enzyme": "aldose reductase",
+        "Species": "Digitalis purpurea",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/13160397\">CAC32834</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#80\">80</a>"
+    },
+    {
+        "AKR": "4C6",
+        "Enzyme": "aldose reductase",
+        "Species": "Digitalis purpurea",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/13160399\">CAC32835</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#80\">80</a>"
+    },
+    {
+        "AKR": "4C7",
+        "Enzyme": "aldehyde reductase",
+        "Species": "Zea mays",
+        "Accession<sup>1</sup>": "<a href=\"https://www.ncbi.nlm.nih.gov/protein/99033786\">ABF61890</a>",
+        "Alt Splicing": "",
+        "PDB Link": "<a href=\"https://www.rcsb.org/structure/5JH2\">5JH2</a>",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "4C8",
+        "Enzyme": "reductase",
+        "Species": "Arabidopsis thaliana",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/111182163\">ABH07514</a>",
+        "Alt Splicing": "",
+        "PDB Link": "<a href=\"https://www.rcsb.org/structure/3H7R\">3H7R</a>",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "4C9",
+        "Enzyme": "reductase",
+        "Species": "Arabidopsis thaliana",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/111182165\">ABH07515</a>",
+        "Alt Splicing": "",
+        "PDB Link": "<a href=\"https://www.rcsb.org/structure/3H7U\">3H7U</a>",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "4C10",
+        "Enzyme": "reductase",
+        "Species": "Arabidopsis thaliana",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/111182167\">ABH07516</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "4C11",
+        "Enzyme": "reductase",
+        "Species": "Arabidopsis thaliana",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/111182169\">ABH07517</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "4C12",
+        "Enzyme": "reductase",
+        "Species": "Aloe arborescens",
+        "Accession<sup>1</sup>": "<a href =\"https://www.ncbi.nlm.nih.gov/protein/119116874\">ABL61257</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "4C14",
+        "Enzyme": "Aldose/aldehyde reductase",
+        "Species": "Thai Jasmine rice (Oryza sativa, Indica)",
+        "Accession<sup>1</sup>": "<a href=\"https://www.ncbi.nlm.nih.gov/protein/242531272\">ACS92968</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "4C15",
+        "Enzyme": "OsI_20197",
+        "Species": "Oryza sativa L. spp. Indica",
+        "Accession<sup>1</sup>": "<a href=\"https://www.ncbi.nlm.nih.gov/protein/950648214\">ALN39070</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "4C16",
+        "Enzyme": "Aldo-keto Reductase",
+        "Species": "Echinochloa colona",
+        "Accession<sup>1</sup>": "<a href=\"https://www.ncbi.nlm.nih.gov/protein/QFG75509.1\">QFG75509</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#135\">135</a>"
+    },
+    {
+        "AKR": "4C17",
+        "Enzyme": "Aldo-keto Reductase",
+        "Species": "Echinochloa colona",
+        "Accession<sup>1</sup>": "<a href=\"https://www.ncbi.nlm.nih.gov/protein/QFG75510.1\">QFG75510</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#135\">135</a>"
+    },
+    {
+        "AKR": "5A1",
+        "Enzyme": "reductase",
+        "Species": "Leishmania major",
+        "Accession<sup>1</sup>": "<a href=\"https://www.ncbi.nlm.nih.gov/protein/P22045\">P22045</a>",
+        "Alt Splicing": "",
+        "PDB Link": "<a href=\"https://www.rcsb.org/structure/4G5D\">4G5D</a>",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#81\">81</a>"
+    },
+    {
+        "AKR": "5A2",
+        "Enzyme": "prostaglandin F synthase (EC 1.1.1.188)",
+        "Species": "Trypanosoma brucei",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/11127591\">BAB17681</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#82\">82</a>"
+    },
+    {
+        "AKR": "5B1",
+        "Enzyme": "morphine dehydrogenase (EC 1.1.1.218), naloxone reductase",
+        "Species": "Pseudomonas putida",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/2506173\">Q02198</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#83\">83</a>"
+    },
+    {
+        "AKR": "5C1",
+        "Enzyme": "2,5-diketo-D-gluconic acid reductase (EC 1.1.1.125)",
+        "Species": "Corynebacterium sp.(Erwinia herbicola)",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/144969\">AAA83534</a>",
+        "Alt Splicing": "",
+        "PDB Link": "<a href=\"https://www.rcsb.org/structure/1HW6\">1HW6</a>",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#84\">84</a>"
+    },
+    {
+        "AKR": "5C2",
+        "Enzyme": "2,5-diketo-D-gluconic acid reductase",
+        "Species": "E. coli",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/3916039\">Q46857</a>",
+        "Alt Splicing": "",
+        "PDB Link": "<a href=\"https://www.rcsb.org/structure/1MZR\">1MZR</a>",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#85\">85</a>"
+    },
+    {
+        "AKR": "5D1",
+        "Enzyme": "2,5-diketo-D-gluconic acid reductase",
+        "Species": "Corynebacterium sp.(Erwinia citreus)",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/112735\">P15339</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#86\">86</a>"
+    },
+    {
+        "AKR": "5E1",
+        "Enzyme": "2,5-diketo-D-gluconic acid reductase",
+        "Species": "Zymomonas mobilis",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/5354195\">AAD42404</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "5F1",
+        "Enzyme": "F51-1-2; 2,5-diketo-D-gluconic acid reductase",
+        "Species": "Klebsiella",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/82504416\">ABB80491</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "5G1",
+        "Enzyme": "reductase",
+        "Species": "Bacillus subtilis",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/16080393\">NP_391220</a>",
+        "Alt Splicing": "",
+        "PDB Link": "<a href=\"https://www.rcsb.org/structure/3D3F\">3D3F</a>",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "5G2",
+        "Enzyme": "reductase",
+        "Species": "Bacillus subtilis",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/16079957\">NP_390783</a>",
+        "Alt Splicing": "",
+        "PDB Link": "<a href=\"https://www.rcsb.org/structure/3B3D\">3B3D</a>",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "5G3",
+        "Enzyme": "Aldo keto reductase",
+        "Species": "Bacillus aryabhattai",
+        "Accession<sup>1</sup>": "<a href=\"https://www.ncbi.nlm.nih.gov/protein/946724998\">ALM30349</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "5H1",
+        "Enzyme": "MSMEg_2407 Reduces Methylglyoxal and Phenylglyoxal",
+        "Species": "Mycobacterium smegmatis",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/A0QV09\">A0QV09</a>",
+        "Alt Splicing": "",
+        "PDB Link": "<a href=\"https://www.rcsb.org/structure/2WZT\">2WZT</a>",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "6A1",
+        "Enzyme": "Shaker channel b-subunit",
+        "Species": "Bos taurus",
+        "Accession<sup>1</sup>": "<a href=\"https://www.ncbi.nlm.nih.gov/protein/Q27955\">Q27955</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#87\">87</a>"
+    },
+    {
+        "AKR": "6A2",
+        "Enzyme": "Shaker channel b-subunit (Kvb2)",
+        "Species": "Rattus norvegicus",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/499328\">CAA54142</a>",
+        "Alt Splicing": "",
+        "PDB Link": "<a href=\"https://www.rcsb.org/structure/6CI1\">6CI1</a>",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#88\">88</a>"
+    },
+    {
+        "AKR": "6A3",
+        "Enzyme": "Potassium voltage gated channel, b-subunit -1",
+        "Species": "Homo sapiens",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/2135947\">S66503</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#89\">89</a>"
+    },
+    {
+        "AKR": "6A4",
+        "Enzyme": "Shaker channel b-subunit (Kvb2)",
+        "Species": "Mus musculus",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/975314\">AAA75174</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#90\">90</a>"
+    },
+    {
+        "AKR": "6A5",
+        "Enzyme": "Potassium voltage gated channel, b-subunit -2",
+        "Species": "Homo sapiens",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/2827466\">AAB99859</a>",
+        "Alt Splicing": "",
+        "PDB Link": "<a href=\"https://www.rcsb.org/structure/1ZSX\">1ZSX</a>",
+        "dbSNP": "<a href=\"https://www.ncbi.nlm.nih.gov/SNP/snp_ref.cgi?locusId=8514",
+        "Ref": ""
+    },
+    {
+        "AKR": "6A6",
+        "Enzyme": "Shaker channel b-subunit (Kvb2.2)",
+        "Species": "Oryctolagus cuniculus",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/7914984\">AAF65463</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "6A7",
+        "Enzyme": "Shaker channel b-subunit (Kvb1.1)",
+        "Species": "Oryctolagus cuniculus",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/5019764\">AAD37853</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "6A8",
+        "Enzyme": "Shaker channel b-subunit (Kvb1)",
+        "Species": "Mus musculus",
+        "Accession<sup>1</sup>": "<a href=\"https://www.ncbi.nlm.nih.gov/protein/NP_034727\">NP_034727</a>",
+        "Alt Splicing": "<a href=\"http://useast.ensembl.org/Mus_musculus/Transcript/ProteinSummary?g=ENSMUSG00000027827;r=3:65109384-65378219;t=ENSMUST00000049230\">Transcripts</a>",
+        "PDB Link": "",
+        "dbSNP": "<a href=\"https://www.ncbi.nlm.nih.gov/SNP/snp_ref.cgi?locusId=16497\">SNPs</a>",
+        "Ref": "<a href=\"/akr/references/#91\">91</a>"
+    },
+    {
+        "AKR": "6A9",
+        "Enzyme": "Potassium voltage gated channel, b-subunit -3",
+        "Species": "Homo sapiens",
+        "Accession<sup>1</sup>": "<a href=\"https://www.ncbi.nlm.nih.gov/protein/NP_004723.2\">NP_004723</a>",
+        "Alt Splicing": "<a href=\"http://useast.ensembl.org/Homo_sapiens/Transcript/ProteinSummary?g=ENSG00000170049;r=17:7921859-7929435;t=ENST00000303790\">Transcripts</a>",
+        "PDB Link": "",
+        "dbSNP": "<a href=\"https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?geneId=9196\">SNPs</a>",
+        "Ref": ""
+    },
+    {
+        "AKR": "6A10a",
+        "Enzyme": "Shaker channel b-subunit (Kvb2)",
+        "Species": "Mustela putorius",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/726465\">AAC48462</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#92\">92</a>"
+    },
+    {
+        "AKR": "6A10b",
+        "Enzyme": "Shaker channel b-subunit (Kvb1.2)",
+        "Species": "Oryctolagus cuniculus",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/5019766\">AAD37854</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "6A11",
+        "Enzyme": "Shaker channel b-subunit (Kvb4)",
+        "Species": "Xenopus laevis",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/5922729\">AAD56313</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#93\">93</a>"
+    },
+    {
+        "AKR": "6A12",
+        "Enzyme": "Shaker channel b-subunit (Kvb3)",
+        "Species": "Rattus norvegicus",
+        "Accession<sup>1</sup>": "<a href=\"https://www.ncbi.nlm.nih.gov/protein/18202597\">Q63494</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "6A13",
+        "Enzyme": "Shaker channel b-subunit (Kvb1)",
+        "Species": "Rattus norvegicus",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/52001073\">P63144</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "6A14",
+        "Enzyme": "Shaker channel b-subunit (Kvb3)",
+        "Species": "Mus musculus",
+        "Accession<sup>1</sup>": "<a href=\"https://www.ncbi.nlm.nih.gov/protein/NP_034729\">NP_034729</a>",
+        "Alt Splicing": "<a href=\"http://useast.ensembl.org/Mus_musculus_WSB_EiJ/Transcript/ProteinSummary?g=MGP_WSBEiJ_G0017890;r=11:69060932-69067712;t=MGP_WSBEiJ_T0029187\">Transcripts</a>",
+        "PDB Link": "",
+        "dbSNP": "<a href=\"https://www.ncbi.nlm.nih.gov/SNP/snp_ref.cgi?locusId=16499\">SNPs</a>",
+        "Ref": ""
+    },
+    {
+        "AKR": "6B1",
+        "Enzyme": "Shaker channel -- HK locus",
+        "Species": "Drosophila melanogaster",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/902000\">AAC46631</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#94\">94</a>"
+    },
+    {
+        "AKR": "6C1",
+        "Enzyme": "Shaker channel b-subunit",
+        "Species": "Arabidopsis thaliana",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/1063415\">AAA87294</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#95\">95</a>"
+    },
+    {
+        "AKR": "6C2",
+        "Enzyme": "Shaker channel b-subunit",
+        "Species": "Egeria densa",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/2832783\">CAA12646</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "7A1",
+        "Enzyme": "Rat aflatoxin aldehyde reductase",
+        "Species": "Rattus norvegicus -- liver",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/39932720\">P38918</a>",
+        "Alt Splicing": "",
+        "PDB Link": "<a href=\"https://www.rcsb.org/structure/1GVE\">1GVE</a>",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#96\">96</a>"
+    },
+    {
+        "AKR": "7A2",
+        "Enzyme": "Aflatoxin aldehyde reductase",
+        "Species": "Homo sapiens",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/41327764\">NP_003680</a>",
+        "Alt Splicing": "<a href=\"http://useast.ensembl.org/Homo_sapiens/Transcript/ProteinSummary?g=ENSG00000053371;r=1:19303965-19312146;t=ENST00000235835\">Transcripts</a>",
+        "PDB Link": "<a href=\"https://www.rcsb.org/structure/2BP1\">2BP1</a>",
+        "dbSNP": "<a href=\"https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?geneId=8574\">SNPs</a>",
+        "Ref": "<a href=\"/akr/references/#97\">97</a>"
+    },
+    {
+        "AKR": "7A3",
+        "Enzyme": "Aflatoxin aldehyde reductase",
+        "Species": "Homo sapiens",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/41152114\">NP_036199</a>",
+        "Alt Splicing": "<a href=\"http://useast.ensembl.org/Homo_sapiens/Transcript/ProteinSummary?g=ENSG00000162482;r=1:19282558-19289250;t=ENST00000361640\">Transcripts</a>",
+        "PDB Link": "<a href=\"https://www.rcsb.org/structure/2CLP\">2CLP</a>",
+        "dbSNP": "<a href=\"https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?geneId=22977\">SNPs</a>",
+        "Ref": "<a href=\"/akr/references/#98\">98</a>"
+    },
+    {
+        "AKR": "7A4",
+        "Enzyme": "Rat aflatoxin aldehyde reductase",
+        "Species": "Rattus norvegicus",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/6815049\">BAA90396</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "7A5 ",
+        "Enzyme": "Mouse aflatoxin aldehyde reductase (Removed)",
+        "Species": "Mus musculus",
+        "Accession<sup>1</sup>": "<a href=\"https://www.ncbi.nlm.nih.gov/protein/BAB23073.1?report=genpept\">BAB23073</a>",
+        "Alt Splicing": "<a href=\"https://www.rcsb.org/structure/2C91\">2C91</a>",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#99\">99</a>"
+    },
+    {
+        "AKR": "8A1",
+        "Enzyme": "pyridoxal reductase",
+        "Species": "Schizosaccharomyces pombe",
+        "Accession<sup>1</sup>": "<a href=\"https://www.ncbi.nlm.nih.gov/protein/O14295\">O14295</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#100\">100</a>"
+    },
+    {
+        "AKR": "8A2",
+        "Enzyme": "pyridoxal reductase",
+        "Species": "Schizosaccharomyces pombe",
+        "Accession<sup>1</sup>": "<a href=\"https://www.ncbi.nlm.nih.gov/protein/O94521\">O94521</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#100\">100</a>"
+    },
+    {
+        "AKR": "9A1",
+        "Enzyme": "sterogmatocystin dehydrogenase -- StcV",
+        "Species": "Aspergillus nidulans",
+        "Accession<sup>1</sup>": "<a href=\"https://www.ncbi.nlm.nih.gov/protein/Q00727\">Q00727</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#101\">101</a>"
+    },
+    {
+        "AKR": "9A2",
+        "Enzyme": "norsolorinic acid reductase",
+        "Species": "Aspergillus flavus",
+        "Accession<sup>1</sup>": "<a href=\"https://www.ncbi.nlm.nih.gov/protein/Q00049\">Q00049</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#102\">102</a>"
+    },
+    {
+        "AKR": "9A3",
+        "Enzyme": "aryl-alcohol dehydrogenase",
+        "Species": "Phanerochaete chrysosporium",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/2492798\">Q01752</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#103\">103</a>"
+    },
+    {
+        "AKR": "9B1",
+        "Enzyme": "aryl-alcohol dehydrogenase (Aad14p)",
+        "Species": "Saccharomyces cerevisiae",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/6323998\">NP_014068</a>",
+        "Alt Splicing": "<a href=\"http://useast.ensembl.org/Saccharomyces_cerevisiae/Gene/Summary?g=YNL331C;r=XIV:16118-17248;t=YNL331C_mRNA\">Transcripts</a>",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#56\">56</a>"
+    },
+    {
+        "AKR": "9B2",
+        "Enzyme": "aryl-alcohol dehydrogenase (Aad3p)",
+        "Species": "Saccharomyces cerevisiae",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/6319951\">NP_010032</a>",
+        "Alt Splicing": "<a href=\"http://useast.ensembl.org/Saccharomyces_cerevisiae/Gene/Summary?g=YCR107W;r=III:313890-314981;t=YCR107W_mRNA\">Transcripts</a>",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#56\">56</a>"
+    },
+    {
+        "AKR": "9B3",
+        "Enzyme": "aryl-alcohol dehydrogenase (Aad4p)",
+        "Species": "Saccharomyces cerevisiae",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/6319958\">NP_010038</a>",
+        "Alt Splicing": "<a href=\"http://useast.ensembl.org/Saccharomyces_cerevisiae/Gene/Summary?g=YDL243C;r=IV:17577-18566;t=YDL243C_mRNA\">Transcripts</a>",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#56\">56</a>"
+    },
+    {
+        "AKR": "9B4",
+        "Enzyme": "aryl-alcohol dehydrogenase (Aad10p)",
+        "Species": "Saccharomyces cerevisiae",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/6322615\">NP_012689</a>",
+        "Alt Splicing": "<a href=\"http://useast.ensembl.org/Saccharomyces_cerevisiae/Gene/Summary?g=YJR155W;r=X:727405-728271;t=YJR155W_mRNA\">Transcripts</a>",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#104\">104</a>"
+    },
+    {
+        "AKR": "9C1",
+        "Enzyme": "reductase",
+        "Species": "Haloferax volcanii",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/2459734\">AAB71807</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "10A1",
+        "Enzyme": "bluensomycin akr -- BlmT",
+        "Species": "Streptomyces bluensis",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/4731595\">AAD28516</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "10A2",
+        "Enzyme": "streptomycin akr -- StrT",
+        "Species": "Streptomyces glaucescens",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/3256056\">CAA07384</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#105\">105</a>"
+    },
+    {
+        "AKR": "11A1",
+        "Enzyme": "vegetative protein 147",
+        "Species": "Bacillus subtilis",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/1176985\">P46336</a>",
+        "Alt Splicing": "",
+        "PDB Link": "<a href=\"https://www.rcsb.org/structure/1PZ0\">1PZ0</a>",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#106\">106</a>"
+    },
+    {
+        "AKR": "11B1",
+        "Enzyme": "general stress protein 69",
+        "Species": "Bacillus subtilis",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/3123233\">P80874</a>",
+        "Alt Splicing": "",
+        "PDB Link": "<a href=\"https://www.rcsb.org/structure/1PZ1\">1PZ1</a>",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#107\">107</a>"
+    },
+    {
+        "AKR": "11B2",
+        "Enzyme": "methylglyoxal reductase",
+        "Species": "E. coli",
+        "Accession<sup>1</sup>": "<a href=\"https://www.ncbi.nlm.nih.gov/protein/P77256\">P77256</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#108\">108</a>"
+    },
+    {
+        "AKR": "11B3",
+        "Enzyme": "methylglyoxal reductase",
+        "Species": "Synechococcus sp.",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/85062654\">ABC69170</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "11C1",
+        "Enzyme": "aldo-keto reductase",
+        "Species": "Bacillus halodurans",
+        "Accession<sup>1</sup>": "<a href=\"https://www.ncbi.nlm.nih.gov/protein/Q9KE47\">Q9KE47</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#109\">109</a>"
+    },
+    {
+        "AKR": "11D1",
+        "Enzyme": "Aldo keto reductase",
+        "Species": "Bacillus aryabhattai",
+        "Accession<sup>1</sup>": "<a href=\"https://www.ncbi.nlm.nih.gov/protein/946725000\">ALM30350</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "12A1",
+        "Enzyme": "NDP-hexose-2,3-enoyl-reductase TylCII",
+        "Species": "Streptomyces fradiae",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/5305791\">AAD41821</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#110\">110</a>"
+    },
+    {
+        "AKR": "12B1",
+        "Enzyme": "mycarose/desosamine reductase EryBII",
+        "Species": "Saccharopolyspora erythraea",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/2599278\">AAB84068</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#111\">111</a>"
+    },
+    {
+        "AKR": "12C1",
+        "Enzyme": "dTDP-4-keto-6-deoxy-L-hexose-2,3-reductase",
+        "Species": "Streptomyces avermitilis",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/5921163\">BAA84599</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#112\">112</a>"
+    },
+    {
+        "AKR": "13A1",
+        "Enzyme": "YakC aldo-keto reductase",
+        "Species": "Schizosaccharomyces pombe",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/1351673\">Q09923</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#113\">113</a>"
+    },
+    {
+        "AKR": "13B1",
+        "Enzyme": "Phenylacetaldehyde dehydrogenase",
+        "Species": "Xylella fastidiosa",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/9106797\">AAF84538</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "13C1",
+        "Enzyme": "Aldehyde reductase",
+        "Species": "Helicobacter pyroli",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/81555851\">O25804</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#114\">114</a>"
+    },
+    {
+        "AKR": "13C2",
+        "Enzyme": "TmAKR: Reduces: 1,2,3,6-tetrahydrobenzaldehyde (this is the best substrate) Benzaldehyde Para-anisaldehye",
+        "Species": "Thermotoga maritima",
+        "Accession<sup>1</sup>": "<a href=\"https://www.ncbi.nlm.nih.gov/protein/AAD36088\">AAD36088</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "13D1 ",
+        "Enzyme": "Perakine reductase",
+        "Species": "Rauvolfia serpentina",
+        "Accession<sup>1</sup>": "<a href=\"https://www.ncbi.nlm.nih.gov/protein/59896631\">AAX11684</a>",
+        "Alt Splicing": "",
+        "PDB Link": "<a href=\"https://www.rcsb.org/structure/3V0U\">3V0U</a>",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "14A1",
+        "Enzyme": "E. coli aldehyde reductase",
+        "Species": "Escherichia coli",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/882530\">AAA69168</a>",
+        "Alt Splicing": "",
+        "PDB Link": "<a href=\"https://www.rcsb.org/structure/4AUB\">4AUB</a>",
+        "dbSNP": "",
+        "Ref": ""
+    },
+    {
+        "AKR": "15A1",
+        "Enzyme": "Pyridoxal dehydrogenase",
+        "Species": "Microbacteriun luteolum",
+        "Accession<sup>1</sup>": "<a href=\"http://www.ncbi.nlm.nih.gov/protein/37196700\">BAC97800</a>",
+        "Alt Splicing": "",
+        "PDB Link": "",
+        "dbSNP": "",
+        "Ref": "<a href=\"/akr/references/#115\">115</a>"
+    }
+]
