@@ -34,7 +34,7 @@ ui <- fluidPage(
             tabPanel(
                 "Protein Structures",
                 includeMarkdown("text/aboutAKR_protein.md")
-            ),
+            )
         ),
         navbarMenu(
             "AKR Members",
@@ -197,7 +197,7 @@ ui <- fluidPage(
                                      )
                              )
                 )
-            ),
+            )
         )
     )
 )
