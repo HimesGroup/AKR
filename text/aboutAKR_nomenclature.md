@@ -7,14 +7,14 @@ representing the unique protein sequence. Under the system, the protein AKR1A1
 would be the first AKR in family 1, subfamily A, and in this instance
 corresponds to human aldehyde reductase.
 
-**Definition of Families.** Delineation of families occurs at the 40% amino acid
-identity level. Members of an AKR family should have < 40% amino acid identity
-with any other family. At present, the fourteen families defined by our cluster
-analysis satisfy this criterion.
+**<u>Definition of Families.</u>** Delineation of families occurs at the 40%
+amino acid identity level. Members of an AKR family should have < 40% amino acid
+identity with any other family. At present, the fourteen families defined by our
+cluster analysis satisfy this criterion.
 
-**Definition of Subfamilies.** Within a given family, subfamilies may be defined
-by a > 60% identity in amino acid sequence among subfamily members. By this
-definition, nine of fourteen AKR families include multiple subfamilies. For
+**<u>Definition of Subfamilies.</u>** Within a given family, subfamilies may be
+defined by a > 60% identity in amino acid sequence among subfamily members. By
+this definition, nine of fourteen AKR families include multiple subfamilies. For
 example, family AKR1 includes the following subfamilies: A) mammalian aldehyde
 reductases; B) mammalian aldose reductases; C) hydroxysteroid dehydrogenases
 (HSDs); and D) Δ4-3-ketosteroid-5β-reductase. Numbering of the known members of
@@ -22,7 +22,7 @@ each subfamily was assigned in an arbitrary fashion. For example, AKR1A1,
 AKR1A2, and AKR1A3 are the aldehyde reductases from human, pig, and rat,
 respectively. Any new additions to a subfamily are numbered chronologically.
 
-**Allelic Variants versus Isoforms.** Allelic variation may occur between
+**<u>Allelic Variants versus Isoforms.</u>** Allelic variation may occur between
 superfamily members. We propose that proteins with > 97% amino acid sequence
 identity are alleles of the same gene unless: they have different enzyme
 activities; they are encoded by different cDNA's, usually evident by a distinct
@@ -35,14 +35,15 @@ function of these proteins are quite different. AKR1C1 is predominantly a
 Based on these functional differences, we have assigned AKR1C1 and AKR1C2 as
 unique members of the AKR superfamily.
 
-**Dimeric Proteins.** Currently, the AKR2, AKR6, and AKR7 families have been shown to
-form multimers. To expand the nomenclature to accommodate multimers we recommend
-that the composition and stoichiometry be listed. For example, AKR7A1:AKR7A4
-(1:3) would designate a tetramer of the composition indicated.
+**<u>Dimeric Proteins.</u>** Currently, the AKR2, AKR6, and AKR7 families have
+been shown to form multimers. To expand the nomenclature to accommodate
+multimers we recommend that the composition and stoichiometry be listed. For
+example, AKR7A1:AKR7A4 (1:3) would designate a tetramer of the composition
+indicated.
 
-**AKR Genes.** The designation for an AKR superfamily gene should be noted in
-italics to distinguish between the gene and the protein. For example, the gene
-*AKR1A1* encodes the protein AKR1A1.
+**<u>AKR Genes.</u>** The designation for an AKR superfamily gene should be
+noted in italics to distinguish between the gene and the protein. For example,
+the gene *AKR1A1* encodes the protein AKR1A1.
 
 The above nomenclature system was adopted at the 8th International Workshop on
 the Enzymology and Molecular Biology of Carbonyl Metabolism. It is similar to
