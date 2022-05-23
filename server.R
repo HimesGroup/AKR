@@ -73,7 +73,7 @@ server <- function(input, output, session) {
             email <- emayili::envelope(
                 from = "akrsuperfamily@outlook.com",
                 to = "jaehyun.joo@pennmedicine.upenn.edu",
-                ## cc = "bhimes@pennmedicine.upenn.edu",
+                cc = "bhimes@pennmedicine.upenn.edu",
                 subject = "New AKR sequence submission",
                 text = "A new AKR sequence has been submitted. Please find the attachment."
             )
