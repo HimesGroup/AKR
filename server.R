@@ -57,7 +57,7 @@ server <- function(input, output, session) {
                         digest::digest(d))
         fpath <- file.path(submission_dir, fname)
         write.table(x = d, file = fpath, col.names = FALSE,
-                    row.names = FALSE, quote = TRUE, sep = "\t")
+                    row.names = FALSE, quote = FALSE, sep = "\t")
         fpath
     }
     ## action to take when submit button is pressed
@@ -71,15 +71,17 @@ server <- function(input, output, session) {
             shinyjs::hide("form")
             shinyjs::show("thankyou_msg")
             email <- emayili::envelope(
-                from = "akrsuperfamily@gmail.com",
+                from = "akrsuperfamily@outlook.com",
                 to = "jaehyun.joo@pennmedicine.upenn.edu",
-                cc = "bhimes@pennmedicine.upenn.edu",
+                ## cc = "bhimes@pennmedicine.upenn.edu",
                 subject = "New AKR sequence submission",
                 text = "A new AKR sequence has been submitted. Please find the attachment."
             )
             email <- emayili::attachment(email, path = fpath, name = "submission.txt")
-            smtp <- emayili::gmail(
-                                 username = "akrsuperfamily@gmail.com",
+            smtp <- emayili::server(
+                                 host = "smtp-mail.outlook.com",
+                                 port = 587,
+                                 username = "akrsuperfamily@outlook.com",
                                  password = email_pw,
                                  max_times = 1
                              )
