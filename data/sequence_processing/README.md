@@ -71,6 +71,6 @@ iqtree -s akr_msa.fasta
 iqtree -s akr_msa.fasta -B 1000 -alrt 1000
 ```
 
-The resulting tree (`akr_msa.treefile`) can be visualized using R with `treeio`
-and `ggtree` packages. Please check [Data Inegration, Manipulation and
+The resulting tree (`akr_msa.fasta.treefile`) can be visualized using R with
+`treeio` and `ggtree` packages. Please check [Data Inegration, Manipulation and
 Visualization of Phylogenetic Trees](https://yulab-smu.top/treedata-book/).

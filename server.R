@@ -72,8 +72,8 @@ server <- function(input, output, session) {
             shinyjs::show("thankyou_msg")
             email <- emayili::envelope(
                 from = "akrsuperfamily@outlook.com",
-                to = "jaehyun.joo@pennmedicine.upenn.edu",
-                cc = "bhimes@pennmedicine.upenn.edu",
+                to = "penning@upenn.edu",
+                cc = c("bhimes@pennmedicine.upenn.edu", "jaehyun.joo@pennmedicine.upenn.edu"),
                 subject = "New AKR sequence submission",
                 text = "A new AKR sequence has been submitted. Please find the attachment."
             )
