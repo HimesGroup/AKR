@@ -1,0 +1,11 @@
+name: akr
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - mafft
+  - iqtree
+  - r-base
+  - r-seqinr
+  - bioconductor-treeio
+  - bioconductor-ggtree
