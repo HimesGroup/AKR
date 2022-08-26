@@ -9,18 +9,19 @@ corresponds to human aldehyde reductase.
 
 **<u>Definition of Families.</u>** Delineation of families occurs at the 40%
 amino acid identity level. Members of an AKR family should have < 40% amino acid
-identity with any other family. At present, the fourteen families defined by our
+identity with any other family. At present, the sixteen families defined by our
 cluster analysis satisfy this criterion.
 
 **<u>Definition of Subfamilies.</u>** Within a given family, subfamilies may be
 defined by a > 60% identity in amino acid sequence among subfamily members. By
-this definition, nine of fourteen AKR families include multiple subfamilies. For
-example, family AKR1 includes the following subfamilies: A) mammalian aldehyde
-reductases; B) mammalian aldose reductases; C) hydroxysteroid dehydrogenases
-(HSDs); and D) Δ4-3-ketosteroid-5β-reductase. Numbering of the known members of
-each subfamily was assigned in an arbitrary fashion. For example, AKR1A1,
-AKR1A2, and AKR1A3 are the aldehyde reductases from human, pig, and rat,
-respectively. Any new additions to a subfamily are numbered chronologically.
+this definition, nine of sixteen AKR families include multiple subfamilies. For
+example, family AKR1 includes the following subfamilies: AKR1C1-AKR1C4 and
+AKR1D1, which play critical roles in the metabolism of all steroid hormones,
+conjugated steroids, synthetic therapeutic steroids, and the synthesis of
+neurosteroids and bile acids. Numbering of the known members of each subfamily
+was assigned in an arbitrary fashion. For example, AKR1A1, AKR1A2, and AKR1A3
+are the aldehyde reductases from human, pig, and rat, respectively. Any new
+additions to a subfamily are numbered chronologically.
 
 **<u>Allelic Variants versus Isoforms.</u>** Allelic variation may occur between
 superfamily members. We propose that proteins with > 97% amino acid sequence
@@ -35,8 +36,12 @@ function of these proteins are quite different. AKR1C1 is predominantly a
 Based on these functional differences, we have assigned AKR1C1 and AKR1C2 as
 unique members of the AKR superfamily.
 
-**<u>Dimeric Proteins.</u>** Currently, the AKR2, AKR6, and AKR7 families have
-been shown to form multimers. To expand the nomenclature to accommodate
+**<u>Dimeric Proteins.</u>** Multimers are proteins which consist of multiple
+monomers. Although majority of all AKR proteins are monomeric proteins,
+approximately 320 amino acids in length, the AKR2 (which includes the xylose
+reductases), AKR6 (which includes the b-subunits of the voltage-gated potassium
+channel), and AKR7 (which contains the aflatoxin dialdehyde reductases) families
+have been shown to form multimers. To expand the nomenclature to accommodate
 multimers we recommend that the composition and stoichiometry be listed. For
 example, AKR7A1:AKR7A4 (1:3) would designate a tetramer of the composition
 indicated.

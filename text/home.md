@@ -17,15 +17,16 @@ features that influence their substrates and kinetics.
 
 ### Contributors
 
-Coding and design by Jaehyun Joo, Blanca Himes, and Trevor Penning. Full code
-for this Shiny app is available in [GitHub](https://github.com/HimesGroup/AKR).
+Coding and design by Jaehyun Joo, Blanca Himes, Anisha Tehim, and Trevor
+Penning. Full code for this Shiny app is available in
+[GitHub](https://github.com/HimesGroup/AKR).
 
 ### References
 
 <p style="margin: 0">
     Mindnich RD, Penning TM. <a href="https://pubmed.ncbi.nlm.nih.gov/19706366/">
-    Aldo-keto reductase (AKR) superfamily: genomics and annotation.</a> 
-    Hum Genomics. 2009 Jul;3(4):362-70. doi: 10.1186/1479-7364-3-4-362. 
+    Aldo-keto reductase (AKR) superfamily: genomics and annotation.</a>
+    Hum Genomics. 2009 Jul;3(4):362-70. doi: 10.1186/1479-7364-3-4-362.
     PMID: 19706366; PMCID: PMC3206293.
 </p>
 
