@@ -10,8 +10,5 @@ AKR10) make it unfeasible to construct a phylogenetic tree for these families.
 The Method Used to Create the Phylogenetic Trees, organized by AKR Family can be
 found
 <a
-href="https://docs.google.com/document/d/1-IvhK3u0HxuzeH4vEgYIJjF2PxluFCcUS3kYRVkzRo4/edit?usp=sharing"
+href="https://github.com/HimesGroup/AKR/data/Phylogeny_Anisha_08.08.2022.md"
 target="_blank">here</a>.
-
-
-
