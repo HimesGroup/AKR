@@ -35,7 +35,7 @@ server <- function(input, output, session) {
            "AKR11" = renderImage100("www/AKR11.png"),
            "AKR12" = renderImage100("www/AKR12.png"),
            "AKR13" = renderImage100("www/AKR13.png"),
-           "All AKRs" = renderImage100("www/ALL_t.png"),
+           ## "All AKRs" = renderImage100("www/ALL_t.png"),
            "Bacterial AKRs" = renderImage100("www/Bacteria.png"),
            "Fungal AKRs" = renderImage100("www/Fungus.png"),
            "Plant AKRs" = renderImage100("www/Plant.png"),
