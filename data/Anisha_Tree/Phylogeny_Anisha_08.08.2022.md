@@ -29,4 +29,4 @@ to construct a phylogenetic tree).
   which infer a maximum likelihood tree with model selection.
 
 - The R codes used for visualizing phylogenetic trees are available
-  [here](https://htmlpreview.github.io/?https://github.com/HimesGroup/AKR/data/Anisha_Tree/AKR-Phylogenetic-Trees.html).
+  [here](https://htmlpreview.github.io/?https://github.com/HimesGroup/AKR/blob/main/data/Anisha_Tree/AKR-Phylogenetic-Trees.html).
