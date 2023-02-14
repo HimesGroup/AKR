@@ -17,8 +17,8 @@ features that influence their substrates and kinetics.
 
 ### Contributors
 
-Coding and design by Jaehyun Joo, Blanca Himes, Anisha Tehim, and Trevor
-Penning. Full code for this Shiny app is available in
+Coding and design by Jaehyun Joo, Blanca Himes, Anisha Tehim, Nisha Narayanan,
+and Trevor Penning. Full code for this Shiny app is available in
 [GitHub](https://github.com/HimesGroup/AKR).
 
 ### References

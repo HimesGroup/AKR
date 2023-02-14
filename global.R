@@ -8,11 +8,11 @@ linebreaks <- function(n = 1) {
     HTML(strrep(br(), n))
 }
 
-renderImage100 <- function(path) {
+renderImageWidthPct <- function(path, pct = 50) {
     renderImage({
         list(
             src = file.path(path),
-            width = "100%",
+            width = paste0(pct, "%"),
             style="display: block; margin-left: auto; margin-right: auto;"
         )
     }, deleteFile = FALSE)

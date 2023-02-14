@@ -72,16 +72,32 @@ ui <- fluidPage(
     tabPanel(
       "Phylogenies",
       includeMarkdown("text/phylogenies.md"),
-      selectInput("Phylogeny",
-                  label = "Select an AKR Phylogeny Diagram",
-                  choices = c("Overview", "AKR1", "AKR2", "AKR3", "AKR4",
-                              "AKR5", "AKR6", "AKR7", "AKR9", "AKR11",
-                              "AKR12", "AKR13",
-                              ## "All AKRs",
-                              "Bacterial AKRs",
-                              "Fungal AKRs", "Plant AKRs", "Mammalian AKRs",
-                              "Rodent AKRs", "Human AKRs"),
-                  selected = "Overview"),
+      selectInput(
+        "Phylogeny",
+        label = "Select an AKR Phylogeny Diagram",
+        ## choices = c(
+        ##   "Overview", "AKR1", "AKR2", "AKR3", "AKR4",
+        ##   "AKR5", "AKR6", "AKR7", "AKR9", "AKR11",
+        ##   "AKR12", "AKR13",
+        ##   ## "All AKRs",
+        ##   "Bacterial AKRs",
+        ##   "Fungal AKRs", "Plant AKRs", "Mammalian AKRs",
+        ##   "Rodent AKRs", "Human AKRs"
+        ## ),
+        choices = list(
+          ` ` = list(
+            "Overview", "AKR1", "AKR2", "AKR3", "AKR4", "AKR5", "AKR6", "AKR7",
+            "AKR9", "AKR11", "AKR12", "AKR13"
+          ),
+          `Taxonomic group` = list(
+            "Eukaryote",
+            "Animalia", "Bacteria", "Fungi", "Plantae",
+            "Amphibia", "Insecta", "Mammalia",
+            "Anura", "Aritiodactyla", "Lagomorpha", "Lepidoptera", "Rodentia",
+            "Human"
+          )
+        ),
+        selected = "Overview"),
       uiOutput("AKR_trees")
     ),
     tabPanel(

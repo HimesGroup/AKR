@@ -10,38 +10,34 @@ server <- function(input, output, session) {
     DT::datatable(potential_members, escape = FALSE)
   )
   output$pdb <- DT::renderDataTable(DT::datatable(pdb_list, escape = FALSE))
-  output$family_tree <- renderImage({
-    list(
-      src = file.path("www/family_tree.png"),
-      width = "70%",
-      ## width = 850,
-      ## height = 800,
-      style="display: block; margin-left: auto; margin-right: auto;"
-    )
-  }, deleteFile = FALSE)
   output$AKR_trees <- renderUI({
     switch(input$Phylogeny,
-           "Overview" = renderImage100("www/All_AKRs_color_coded.png"),
-           "AKR1" = renderImage100("www/AKR1.png"),
-           "AKR2" = renderImage100("www/AKR2.png"),
-           "AKR3" = renderImage100("www/AKR3.png"),
-           "AKR4" = renderImage100("www/AKR4.png"),
-           "AKR5" = renderImage100("www/AKR5.png"),
-           "AKR6" = renderImage100("www/AKR6.png"),
-           "AKR7" = renderImage100("www/AKR7.png"),
-           ## "AKR8" = renderImage100("www/AKR8.png"),
-           "AKR9" = renderImage100("www/AKR9.png"),
-           ## "AKR10" = renderImage100("www/AKR10.png"),
-           "AKR11" = renderImage100("www/AKR11.png"),
-           "AKR12" = renderImage100("www/AKR12.png"),
-           "AKR13" = renderImage100("www/AKR13.png"),
-           ## "All AKRs" = renderImage100("www/ALL_t.png"),
-           "Bacterial AKRs" = renderImage100("www/Bacteria.png"),
-           "Fungal AKRs" = renderImage100("www/Fungus.png"),
-           "Plant AKRs" = renderImage100("www/Plant.png"),
-           "Mammalian AKRs" = renderImage100("www/Mammal.png"),
-           "Rodent AKRs" = renderImage100("www/Rodent.png"),
-           "Human AKRs" = renderImage100("www/Human.png"),
+           "Overview" = renderImageWidthPct("www/All_AKR.png"),
+           "AKR1" = renderImageWidthPct("www/AKR1.png"),
+           "AKR2" = renderImageWidthPct("www/AKR2.png"),
+           "AKR3" = renderImageWidthPct("www/AKR3.png"),
+           "AKR4" = renderImageWidthPct("www/AKR4.png"),
+           "AKR5" = renderImageWidthPct("www/AKR5.png"),
+           "AKR6" = renderImageWidthPct("www/AKR6.png"),
+           "AKR7" = renderImageWidthPct("www/AKR7.png"),
+           "AKR9" = renderImageWidthPct("www/AKR9.png"),
+           "AKR11" = renderImageWidthPct("www/AKR11.png"),
+           "AKR12" = renderImageWidthPct("www/AKR12.png"),
+           "AKR13" = renderImageWidthPct("www/AKR13.png"),
+           "Eukaryote" = renderImageWidthPct("www/Eukaryote.png"),
+           "Animalia" = renderImageWidthPct("www/Kingdom_Animalia.png"),
+           "Bacteria" = renderImageWidthPct("www/Kingdom_Bacteria.png"),
+           "Fungi" = renderImageWidthPct("www/Kingdom_Fungi.png"),
+           "Plantae" = renderImageWidthPct("www/Kingdom_Plante.png"),
+           "Amphibia" = renderImageWidthPct("www/Class_Amphibia.png"),
+           "Insecta" = renderImageWidthPct("www/Class_Insecta.png"),
+           "Mammalia" = renderImageWidthPct("www/Class_Mammalia.png"),
+           "Anura" = renderImageWidthPct("www/Order_Anura.png"),
+           "Artiodactyla" = renderImageWidthPct("www/Order_Artiodactyla.png"),
+           "Lagomorpha" = renderImageWidthPct("www/Order_Lagomorpha.png"),
+           "Lepidoptera" = renderImageWidthPct("www/Order_Lepidoptera.png"),
+           "Rodentia" = renderImageWidthPct("www/Order_Rodentia.png"),
+           "Human" = renderImageWidthPct("www/Human.png")
     )
   })
   ## AKR submission form
