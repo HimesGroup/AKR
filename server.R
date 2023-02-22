@@ -24,11 +24,11 @@ server <- function(input, output, session) {
            "AKR11" = renderImageWidthPct("www/AKR11.png"),
            "AKR12" = renderImageWidthPct("www/AKR12.png"),
            "AKR13" = renderImageWidthPct("www/AKR13.png"),
-           "Eukaryote" = renderImageWidthPct("www/Eukaryote.png"),
+           "Eukarya" = renderImageWidthPct("www/Domain_Eukarya.png"),
            "Animalia" = renderImageWidthPct("www/Kingdom_Animalia.png"),
            "Bacteria" = renderImageWidthPct("www/Kingdom_Bacteria.png"),
            "Fungi" = renderImageWidthPct("www/Kingdom_Fungi.png"),
-           "Plantae" = renderImageWidthPct("www/Kingdom_Plante.png"),
+           "Plantae" = renderImageWidthPct("www/Kingdom_Plantae.png"),
            "Amphibia" = renderImageWidthPct("www/Class_Amphibia.png"),
            "Insecta" = renderImageWidthPct("www/Class_Insecta.png"),
            "Mammalia" = renderImageWidthPct("www/Class_Mammalia.png"),
@@ -37,7 +37,7 @@ server <- function(input, output, session) {
            "Lagomorpha" = renderImageWidthPct("www/Order_Lagomorpha.png"),
            "Lepidoptera" = renderImageWidthPct("www/Order_Lepidoptera.png"),
            "Rodentia" = renderImageWidthPct("www/Order_Rodentia.png"),
-           "Human" = renderImageWidthPct("www/Human.png")
+           "Homo sapiens" = renderImageWidthPct("www/Species_Homo_sapiens.png")
     )
   })
   ## AKR submission form

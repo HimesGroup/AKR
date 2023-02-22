@@ -1,0 +1,42 @@
+CLUSTAL format alignment by MAFFT L-INS-i (v7.490)
+
+
+P2_015|AKR2E3   M-----------------------------------------------------------
+P6_015|AKR6B1   MSMALCNLNGDGSAAQSTSQSQSPAATAAAAPLLPHSHSHTLQPESTPLLLGHEQSGSAA
+                *                                                           
+
+P2_015|AKR2E3   ------------------------------------------------------------
+P6_015|AKR6B1   PEGSGGGDVADGAVTSIEMPTVVADDAGVPPLPLPLPQSTPQPLLMALPANLNFITGPTT
+                                                                            
+
+P2_015|AKR2E3   ------------------------------------------------------------
+P6_015|AKR6B1   QQLMIGNGAMGVIPSTNDSNNNNNNNNNVDNTSDESNPVTIYRCRAPIASLDCMEEFSGR
+                                                                            
+
+P2_015|AKR2E3   ---------------SSKIPYVKHNN----GTQIQSIGLGTY----TSLGGDCERATLH-
+P6_015|AKR6B1   SISLGSNPALPLRHGSTPTPGLRYKNLGKSGLRISNVGLGTWPVFSPGVSDDQAEAILKL
+                               *:  * ::::*    * :*..:****:    ..:..*  .* *: 
+
+P2_015|AKR2E3   AIDVGYRHIDTAYFYENENEVGAAVQRKIAEGVIKREDIHITTKLWCHFHEPKR------
+P6_015|AKR6B1   AIESGINLFDISEAH-SETEIGKILQR----AGWKRTAYVITTKVYWSTKSEERGLSRKH
+                **: * . :* :  : .*.*:*  :**    .  **    ****::   :. :*      
+
+P2_015|AKR2E3   VEYACRKTLQNFGLQYVDLYLMHWPYSYVYRGDNEMMPTDAKGEVELNDIDYLDTWREME
+P6_015|AKR6B1   IIECVRASLQRLQLQYIDIVIIH--------KADPMCP--------------MEVVRAMS
+                :  . * :**.: ***:*: ::*          : * *              ::. * *.
+
+P2_015|AKR2E3   KLVELGLTKSIGVSNFNSEQLTRLLANCK----IKPIHNQIECHPALNQK---KLIALCK
+P6_015|AKR6B1   YVIQQGWAMYWGTARWSQVEIMEAYTNCRQFNCITPIVEQSEYHMFCREKCELYLPEMYN
+                 ::: * :   *.:.:.. :: .  :**:    *.** :* * *   .:*    *  : :
+
+P2_015|AKR2E3   KNDIVVTAYCPLGRPNPAEKTPNYIYDAK-------------------------------
+P6_015|AKR6B1   KIGVGLMAWGPLSMALSDTQNGDKLFLPKGSFKTKSFSWTEDEINRNAALSPQGSWGKDR
+                * .: : *: **. . .  :. : :: .*                               
+
+P2_015|AKR2E3   -------------VQAIGDKYKKSTAQVVLRYLIEIGTIP--LPKSSNPKRIEENFQIFD
+P6_015|AKR6B1   IDEGRRHCDRLRDLAALAEKLGCSPTQLSIAWSLKHEPVQCLLLGATSAEQLHQSLQSLQ
+                             : *:.:*   *.:*: : : ::  .:   *  ::..:::.:.:* ::
+
+P2_015|AKR2E3   FQLDAEDHAILDSYNTGERLI-------PMTHAIKSKNYPFNIEF
+P6_015|AKR6B1   LLPRLSSSVMLEL----ERILENKPVRPPMISTLALR--------
+                :    .. .:*:     **::       **  ::  :        

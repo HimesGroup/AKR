@@ -75,26 +75,17 @@ ui <- fluidPage(
       selectInput(
         "Phylogeny",
         label = "Select an AKR Phylogeny Diagram",
-        ## choices = c(
-        ##   "Overview", "AKR1", "AKR2", "AKR3", "AKR4",
-        ##   "AKR5", "AKR6", "AKR7", "AKR9", "AKR11",
-        ##   "AKR12", "AKR13",
-        ##   ## "All AKRs",
-        ##   "Bacterial AKRs",
-        ##   "Fungal AKRs", "Plant AKRs", "Mammalian AKRs",
-        ##   "Rodent AKRs", "Human AKRs"
-        ## ),
         choices = list(
           ` ` = list(
             "Overview", "AKR1", "AKR2", "AKR3", "AKR4", "AKR5", "AKR6", "AKR7",
             "AKR9", "AKR11", "AKR12", "AKR13"
           ),
           `Taxonomic group` = list(
-            "Eukaryote",
+            "Eukarya",
             "Animalia", "Bacteria", "Fungi", "Plantae",
             "Amphibia", "Insecta", "Mammalia",
-            "Anura", "Aritiodactyla", "Lagomorpha", "Lepidoptera", "Rodentia",
-            "Human"
+            "Anura", "Artiodactyla", "Lagomorpha", "Lepidoptera", "Rodentia",
+            "Homo sapiens"
           )
         ),
         selected = "Overview"),
@@ -103,9 +94,15 @@ ui <- fluidPage(
     tabPanel(
       "Multiple Sequence Alignment",
       includeMarkdown("text/msa.md"),
-      selectInput("msa_dropdown",
-                  label = NULL,
-                  choice = akr_msa_files),
+      selectInput(
+        "msa_dropdown",
+        label = NULL,
+        ## choice = akr_msa_files
+        choice = list(
+          ` ` = akr_msa_by_fam,
+          `Taxonomic group` = akr_msa_by_taxonomy
+        )
+      ),
       msaROutput("msa_viewer", width = "100%")
     ),
     tabPanel(

@@ -1,0 +1,158 @@
+CLUSTAL format alignment by MAFFT L-INS-i (v7.490)
+
+
+P_001|AKR1H1    MSARLTN-----------------------------------------------------
+P2_015|AKR2E3   MS----------------------------------------------------------
+P_002|AKR1I1    ------------------------------------------------------------
+P2_013|AKR2E1   MF----------------------------------------------------------
+P2_014|AKR2E2   MKLYLLP-----------------------------------------------------
+P2_016|AKR2E4   MAV---------------------------------------------------------
+P2_018|AKR2E6   MNIKRDS-----------------------------------------------------
+P2_021|AKR2E8   MVVY--------------------------------------------------------
+P2_017|AKR2E5   MNKV--------------------------------------------------------
+P2_019|AKR2E7   MNKV--------------------------------------------------------
+P6_015|AKR6B1   MSMALCNLNGDGSAAQSTSQSQSPAATAAAAPLLPHSHSHTLQPESTPLLLGHEQSGSAA
+                                                                            
+
+P_001|AKR1H1    ------------------------------------------------------------
+P2_015|AKR2E3   ------------------------------------------------------------
+P_002|AKR1I1    ------------------------------------------------------------
+P2_013|AKR2E1   ------------------------------------------------------------
+P2_014|AKR2E2   ------------------------------------------------------------
+P2_016|AKR2E4   ------------------------------------------------------------
+P2_018|AKR2E6   ------------------------------GRPCPIER----------------------
+P2_021|AKR2E8   ------------------------------------------------------------
+P2_017|AKR2E5   ------------------------------------------------------------
+P2_019|AKR2E7   ------------------------------------------------------------
+P6_015|AKR6B1   PEGSGGGDVADGAVTSIEMPTVVADDAGVPPLPLPLPQSTPQPLLMALPANLNFITGPTT
+                                                                            
+
+P_001|AKR1H1    ----------------------------------------------------SVRRFT--
+P2_015|AKR2E3   ------------------------------------------------------------
+P_002|AKR1I1    ------------------------------------------------------------
+P2_013|AKR2E1   ----------------------------------RASFILLLAC----------------
+P2_014|AKR2E2   --------------------------------------VALWAL----------------
+P2_016|AKR2E4   ------------------------------------------------------------
+P2_018|AKR2E6   ----------------------------------D-----LYEF----------------
+P2_021|AKR2E8   ----------------------------------KYSFVFVFAA----------------
+P2_017|AKR2E5   ------------------------------------------------------------
+P2_019|AKR2E7   ------------------------------------------------------------
+P6_015|AKR6B1   QQLMIGNGAMGVIPSTNDSNNNNNNNNNVDNTSDESNPVTIYRCRAPIASLDCMEEFSGR
+                                                                            
+
+P_001|AKR1H1    --------ATVMAFKLEKTPTVKFNN----GIEFPIFGLGTW---------KSKPGE---
+P2_015|AKR2E3   ----------------SKIPYVKHNN----GTQIQSIGLGTY---------TSLGGD---
+P_002|AKR1I1    --------GSHMASMPKQLSSVTFHN----GRKMPVVGLGTW---------QSPPEE---
+P2_013|AKR2E1   --------CGAMSATI-DVPMLKMLN----DREMPAIALGTYLGFDKGGAVTSKDKQ---
+P2_014|AKR2E2   --------VNAISGEPGKAPLKQLND----GNAIPSLALGTF--------GFGDIPK---
+P2_016|AKR2E4   -----------------QAPCIQLND----GNTIPIVALGTGRGTAKE---SDSIDE---
+P2_018|AKR2E6   --------LIPQSAEL-IVPTLQLSS----GGNIPVVALGTWLGHRPKGKVVQVTND---
+P2_021|AKR2E8   --------VIHLSPSAGLAPVLKLNN----GKEIPGFGIGTWLGTNSN---ELKGDE---
+P2_017|AKR2E5   -----------------NVPNFKLNN----GDEIPALGYGTWLGVSEKSSGADQPAEEFG
+P2_019|AKR2E7   -----------------NVPNFKLNN----GDEIPALGYGTWLGVSEKSSGADQPAEEFG
+P6_015|AKR6B1   SISLGSNPALPLRHGSTPTPGLRYKNLGKSGLRISNVGLGTWPVFSP----GVSDDQ---
+                                   .     .    .  :  .. **               .   
+
+P_001|AKR1H1    ----------VTQAVKDAIDVGYRHIDCAHVYGNEPEVGAAIKAKIGEKVVKREDLFITS
+P2_015|AKR2E3   ----------CERATLHAIDVGYRHIDTAYFYENENEVGAAVQRKIAEGVIKREDIHITT
+P_002|AKR1I1    ----------VTAAIDVALEVGYRHIDTAFMYQNEAAIGKTLKKWFDSGKLKREDVFIVT
+P2_013|AKR2E1   ----------LRNVVMQAIDLGYRHFDTAAIYNTEAEVGEAIRMKIDEGVIKREDVFLTT
+P2_014|AKR2E2   ----------VRQAVLWAIQAGYRHIDTAALYGNEEEVGKGIADAIQQGLVKREELFVTT
+P2_016|AKR2E4   ----------VRQAVYWAIEAGYRHIDTAAVYQDEEQVGQGIAEAIANGLVTREELFVTT
+P2_018|AKR2E6   ----------TEQAVIYALEAGYTHIDTAYKYGIEDQVGRALTKKFSEG-LKRESIFITT
+P2_021|AKR2E8   ----------VQKSVEWAIDAGYRHIDTAAIYSTEDQVGRAIKKKIAEGVVKREDLFVTT
+P2_017|AKR2E5   FDFDGTDIPKLLDALSYAIDIGYRHIDTAHFYRVEPEIGQVVQEKINEGVVRREDLFITT
+P2_019|AKR2E7   FDFDGTDIPKLLDALSYAIDIGYRHIDTAHFYRVEPEIGQVVQEKINEGVVRREDLFITT
+P6_015|AKR6B1   ----------AEAILKLAIESGINLFDISEAH-SETEIGKILQR----AGWKRTAYVITT
+                                 *:: *   :* :  :  *  :*  :          *    :.:
+
+P_001|AKR1H1    KL-WNTFHR-----PDLVAPAIKQTLTDLGLDYLDLYLIHWPMAYKEGDD--LFP-EKDG
+P2_015|AKR2E3   KL-WCHFHE-----PKRVEYACRKTLQNFGLQYVDLYLMHWPYSYVYRGDNEMMPTDAKG
+P_002|AKR1I1    KL-PPIGNR-----AESVEKFLTKSLEALQLDYVDLYLIHLPVGFQYKGDDNLWPRGEAG
+P2_013|AKR2E1   KL-WNTHHK-----REQVAVAMKETLNKTGLDYVDLFLMHWPIALNEDYS----------
+P2_014|AKR2E2   KL-WNDKHG-----RHQVVPALRESLTKLGLSYVDLYLIHSPEATNENGD----------
+P2_016|AKR2E4   KL-WNDKHA-----RDQVVPALQESLKKLGLDYIDLYLIHFPIATKPDDS----------
+P2_018|AKR2E6   KL-WNSYHE-----REQVIPALRKSLENLNLEYVDLYLIHWPIAMFENDT----------
+P2_021|AKR2E8   KL-WNTNHK-----KEAVLPALRKSLKNLDLDYVDLYLIHWPIALHDNAS----------
+P2_017|AKR2E5   KV-WQHYHR-----AADVEVSLRASLHRLGLDHVNLVLMHWPMSISQEGV----------
+P2_019|AKR2E7   KV-WQHYHR-----AADVEVSLRASLHRLGLDHVNLVLMHWPMSISQEGV----------
+P6_015|AKR6B1   KVYWSTKSEERGLSRKHIIECVRASLQRLQLQYIDIVIIHK-------------------
+                *:               :      :*    *.:::: ::*                    
+
+P_001|AKR1H1    KT-LYSDVDYVDTWKELEKLVDQGLTKSIGVSNFSSQQLERVLANAR----IKPVTNQVE
+P2_015|AKR2E3   EV-ELNDIDYLDTWREMEKLVELGLTKSIGVSNFNSEQLTRLLANCK----IKPIHNQIE
+P_002|AKR1I1    EFLIDTSTDLISLWKAMEAQVDAGRTRSVGLSNFNSRQIARIVKSAR----IRPANLQVE
+P2_013|AKR2E1   ----HSNTDYLETWRATEEMVKLGYTKSIGLSNFNKLQVATVLQECT----IKPVALQIE
+P2_014|AKR2E2   ----PVDIDVLNTWNGMEEAKKLGLAKSIGVSNFDTALLDRLIAGSN----TVPAVNQIE
+P2_016|AKR2E4   ----PDNIDYLETWQGMQDARQLGLARSIGVSNFNATQITRLVSNSY----IRPVINQIE
+P2_018|AKR2E6   ---LLDNVDFLDTWRGMIDAKKLGLTKSIGISNFNQEQIQRIIDSGL----EKPSALQIE
+P2_021|AKR2E8   ----ISQTDYVETWQAMTDVLNQGLTKSIGVSNFNIQQLERLKSEGG----VTPSVLQVE
+P2_017|AKR2E5   ----DEKIDYLETWRGFEEVLKKGLTKAIGVSNFNIEQMKRLLTNCN----VPPAVNQIE
+P2_019|AKR2E7   ----DEKIDYLETWRGFEEVLKKGLTKAIGVSNFNIEQMKRLLTNCN----VPPAVNQIE
+P6_015|AKR6B1   ----ADPMCPMEVVRAMSYVIQQGWAMYWGTARWSQVEIMEAYTNCRQFNCITPIVEQSE
+                          :.  .      . * :   * :.:.   :              *   * *
+
+P_001|AKR1H1    CHPYLNQK---KLIEFSKAKGVTITAYSPLGSP---------------------------
+P2_015|AKR2E3   CHPALNQK---KLIALCKKNDIVVTAYCPLGRP---------------------------
+P_002|AKR1I1    LNVYFQQR---ELVAFCRALDITVCAYAPIGSPGLANV----------------------
+P2_013|AKR2E1   VHPQIIQE---DLITYAKDEGIIVMGYSPFGSL---------------------------
+P2_014|AKR2E2   VHPSKTQE---KLVADSHERGIEVMAYSPFGFY---------------------------
+P2_016|AKR2E4   VNPTNTQE---PLVAHCQSLGIAVMAYSPFGFV---------------------------
+P2_018|AKR2E6   LNLNLQQP---ELFKFCRENDIVVMAYTPFGSL---------------------------
+P2_021|AKR2E8   INLNLQQP---ALLDYCKAQGIVVVAYTPFGNL---------------------------
+P2_017|AKR2E5   VNLNLSQA---DLVDYCQANEVVVVAYSPFGTM---------------------------
+P2_019|AKR2E7   VNLNLSQA---DLVDYCQANEVVVVAYSPFGTM---------------------------
+P6_015|AKR6B1   YHMFCREKCELYLPEMYNKIGVGLMAWGPLSMA-LSDTQNGDKLFLPKGSFKTKSFSWTE
+                 :    :     *    .   : : .: *:.                             
+
+P_001|AKR1H1    --DRPWATPDDP------QLLEDPK--------VKAVAAKYEKTPAQILLRYQVQQGNIT
+P2_015|AKR2E3   --NPAEKTPN---------YIYDAK--------VQAIGDKYKKSTAQVVLRYLIEIGTIP
+P_002|AKR1I1    --IKARGAEVPESAKF--DPLTDPV--------VLKIAEHHKKTPAQVLLRHCMQRDIVV
+P2_013|AKR2E1   --V-KRFGMDLPG-----PKMDDPV--------LTSLAKKYEKTPAQIVLRWLVDRKVVP
+P2_014|AKR2E2   --V-SRGSHNNPV-------KNDRT--------VADIARKYNKTVNQVLVRYLLERSLIP
+P2_016|AKR2E4   --V-SRGQTGAPP-----PRSDDPT--------LTALANKYRKSVGQILLRYLIDRGLIP
+P2_018|AKR2E6   --FPSKAQPDAPP-----PRIDDER--------LVSIAQKYNKTVPQVALRFLIELGAVV
+P2_021|AKR2E8   --F-NR-QPSAPA-----PRADDQR--------LVAIAQKYKKTVPQIVLRYLVELGVIP
+P2_017|AKR2E5   --VPSRATLNSPE-----PKLDNPA--------MLAIGRKYGKTVTQVNLGYLYQRGIVS
+P2_019|AKR2E7   --VPSRATLNSPE-----PKLDNPA--------MLAIGRKYGKTVTQVNLGYLYQRGIVS
+P6_015|AKR6B1   DEI-NRNAALSPQGSWGKDRIDEGRRHCDRLRDLAALAEKLGCSPTQLSIAWSLKHEPVQ
+                                      :          :  :. :   :  *: :    .   : 
+
+P_001|AKR1H1    --IPKSVTKSRIVENAQIFDFELS------------------------------------
+P2_015|AKR2E3   --LPKSSNPKRIEENFQIFDFQLD------------------------------------
+P_002|AKR1I1    --IPKSTNAGRIKENFQVFDFELSKAEVDELDSLDKRAAGRRFRMDQYKGLREHPEHPYD
+P2_013|AKR2E1   --IPKTVSPKRLLENINIFDFKLK------------------------------------
+P2_014|AKR2E2   --IPKSTNQQRIRENIDVFDFQLS------------------------------------
+P2_016|AKR2E4   --IPKSTNKQRIAQNIDLFDFQLT------------------------------------
+P2_018|AKR2E6   --LPKSVHKERIEQNIQLFDFSLT------------------------------------
+P2_021|AKR2E8   --IPKSLHKDRVEENIQIYDFSLT------------------------------------
+P2_017|AKR2E5   --IPKTVTKSRVLENASIFDFQLD------------------------------------
+P2_019|AKR2E7   --IPKTVTKSRVLENASIFDFQLD------------------------------------
+P6_015|AKR6B1   CLLLGATSAEQLHQSLQ-------------------------------------------
+                  :  :    :: :. .                                           
+
+P_001|AKR1H1    ------------------------AEDVATIDSFDCNGRVCHLDWIKDHKDYPFNIEF--
+P2_015|AKR2E3   ------------------------AEDHAILDSYNTGERLIPMTHAIKSKNYPFNIEF--
+P_002|AKR1I1    EPYPKSVTKSRIVENAQIFDFELSAEDVATIDSFDCNGRVCHLDWIKDHKDYPFNIEF--
+P2_013|AKR2E1   ------------------------EEEIEKINQFNSNTRYTLPSFWQKHPFYPFDMVPNP
+P2_014|AKR2E2   ------------------------PEDINAIGKLDKDLSIFD------------------
+P2_016|AKR2E4   ------------------------FEEVAAINQFNKNHRVIDISDWKDYPNYPN------
+P2_018|AKR2E6   ------------------------PEEFNLLKSFDTGYRTLPQTKWSKHPDYPFQLA---
+P2_021|AKR2E8   ------------------------PDEIQLLKSFDNGYRTLSPLFWAHSPYFPFESKN--
+P2_017|AKR2E5   ------------------------DEDVATLAQFDNGFRTVRPLFWQPYENYPFDVVPGQ
+P2_019|AKR2E7   ------------------------DEDVATLAQFDNGFRTVRPLFWQPYENYPFDVVPGQ
+P6_015|AKR6B1   --------------------------SLQLLPRLSSSVMLELERILENKPVRPPMIST--
+                                          .   :   . .                       
+
+P_001|AKR1H1    ----------------------
+P2_015|AKR2E3   ----------------------
+P_002|AKR1I1    ----------------------
+P2_013|AKR2E1   ----IPDPFRS-------EMKS
+P2_014|AKR2E2   ----------------------
+P2_016|AKR2E4   ----------------------
+P2_018|AKR2E6   ----------------------
+P2_021|AKR2E8   ----------------------
+P2_017|AKR2E5   KHVDIPIAMRKWKNGANGDID-
+P2_019|AKR2E7   KHVDIPIAMRKWKNGANGDID-
+P6_015|AKR6B1   ------LALR------------
+                                      

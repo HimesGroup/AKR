@@ -64,10 +64,29 @@ submission_dir <- file.path("submission")
 mandatory_fields <- setdiff(all_fields, c("address2", "state"))
 mandatory_star_css <- ".mandatory_star {color: red;}"
 
-akr_msa_files <- c(paste0("./data/msa/", setdiff(1:13, 10), ".aln"),
-                   "./data/msa/all_akr.aln")
-names(akr_msa_files) <- c(paste0("AKR", setdiff(1:13, 10), " Sequence Alignment"),
-                          "All AKR sequence alignment")
+akr_msa_by_fam <- as.list(
+  c("./data/msa/All_AKR.aln", paste0("./data/msa/AKR", 1:13, ".aln"))
+)
+names(akr_msa_by_fam) <- c(
+  "All AKR sequence alignment",
+  paste0("AKR", 1:13, " sequence alignment")
+)
+akr_msa_by_taxonomy <-  list(
+  "Eukarya" = "./data/msa/Domain_Eukarya.aln",
+  "Animalia" = "./data/msa/Kingdom_Animalia.aln",
+  "Bacteria" = "./data/msa/Kingdom_Bacteria.aln",
+  "Fungi" = "./data/msa/Kingdom_Fungi.aln",
+  "Plantae" = "./data/msa/Kingdom_Plantae.aln",
+  "Amphibia" = "./data/msa/Class_Amphibia.aln",
+  "Insecta" = "./data/msa/Class_Insecta.aln",
+  "Mammalia" = "./data/msa/Class_Mammalia.aln",
+  "Anura" = "./data/msa/Order_Anura.aln",
+  "Artiodactyla" = "./data/msa/Order_Artiodactyla.aln",
+  "Lagomorpha" = "./data/msa/Order_Lagomorpha.aln",
+  "Lepidoptera" = "./data/msa/Order_Lepidoptera.aln",
+  "Rodentia" = "./data/msa/Order_Rodentia.aln",
+  "Homo Sapiens" = "./data/msa/Species_Homo_sapiens.aln"
+)
 
 pdb_list <- as.data.frame(
     jsonlite::fromJSON("./data/table/pdb_list.json")
