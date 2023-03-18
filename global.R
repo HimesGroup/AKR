@@ -36,19 +36,22 @@ read_akr_msa <- function(aln, format = "clustal") {
     readAAMultipleAlignment(aln, format = format)
 }
 
-existing_members <- as.data.frame(
-    jsonlite::fromJSON("./data/table/existing_members.json")
-)
-existing_members <- existing_members[, -8]
+## existing_members <- as.data.frame(
+##     jsonlite::fromJSON("./data/table/existing_members.json")
+## )
+## existing_members <- existing_members[, -8]
 
-potential_members <- as.data.frame(
-    jsonlite::fromJSON("./data/table/potential_members.json")
-)
-potential_members <- potential_members[, -4]
-potential_members$Name <- gsub("\n", "<br/>", potential_members$Name, fixed = TRUE)
-potential_members$Accession <- sub("^<td>", "", potential_members$Accession)
-potential_members$Accession <- sub("<td>$", "", potential_members$Accession)
-potential_members$Accession <- sub("\n", "", potential_members$Accession, fixed = TRUE)
+## potential_members <- as.data.frame(
+##     jsonlite::fromJSON("./data/table/potential_members.json")
+## )
+## potential_members <- potential_members[, -4]
+## potential_members$Name <- gsub("\n", "<br/>", potential_members$Name, fixed = TRUE)
+## potential_members$Accession <- sub("^<td>", "", potential_members$Accession)
+## potential_members$Accession <- sub("<td>$", "", potential_members$Accession)
+## potential_members$Accession <- sub("\n", "", potential_members$Accession, fixed = TRUE)
+
+existing_members <- read.csv("./data/table/existing_members.csv")
+potential_members <- read.csv("./data/table/potential_members.csv")
 
 all_fields <- c(
     "name", "email", "phone", "address1", "address2", "city", "state", "zipcode",
