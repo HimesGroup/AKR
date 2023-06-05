@@ -50,7 +50,8 @@ read_akr_msa <- function(aln, format = "clustal") {
 ## potential_members$Accession <- sub("<td>$", "", potential_members$Accession)
 ## potential_members$Accession <- sub("\n", "", potential_members$Accession, fixed = TRUE)
 
-existing_members <- read.csv("./data/table/existing_members.csv")
+## check.names = FALSE to prevent from html tag auto correction in col names
+existing_members <- read.csv("./data/table/existing_members.csv", check.names = FALSE)
 potential_members <- read.csv("./data/table/potential_members.csv")
 
 all_fields <- c(
