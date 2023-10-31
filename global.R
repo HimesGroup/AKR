@@ -1,5 +1,6 @@
 library(shiny)
 library(bslib)
+library(markdown)
 library(msaR)
 library(Biostrings)
 options(repos = BiocManager::repositories())
