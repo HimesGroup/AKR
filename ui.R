@@ -81,10 +81,9 @@ ui <- fluidPage(
             "AKR9", "AKR11", "AKR12", "AKR13"
           ),
           `Taxonomic group` = list(
-            "Eukarya",
             "Animalia", "Bacteria", "Fungi", "Plantae",
-            "Amphibia", "Insecta", "Mammalia",
-            "Anura", "Artiodactyla", "Lagomorpha", "Lepidoptera", "Rodentia",
+            "Insecta", "Mammalia",
+            "Lagomorpha", "Rodentia",
             "Homo sapiens"
           )
         ),

@@ -12,7 +12,7 @@ server <- function(input, output, session) {
   output$pdb <- DT::renderDataTable(DT::datatable(pdb_list, escape = FALSE))
   output$AKR_trees <- renderUI({
     switch(input$Phylogeny,
-           "Overview" = renderImageWidthPct("www/All_AKR.png"),
+           "Overview" = renderImageWidthPct("www/All_AKRs.png"),
            "AKR1" = renderImageWidthPct("www/AKR1.png"),
            "AKR2" = renderImageWidthPct("www/AKR2.png"),
            "AKR3" = renderImageWidthPct("www/AKR3.png"),
@@ -24,20 +24,15 @@ server <- function(input, output, session) {
            "AKR11" = renderImageWidthPct("www/AKR11.png"),
            "AKR12" = renderImageWidthPct("www/AKR12.png"),
            "AKR13" = renderImageWidthPct("www/AKR13.png"),
-           "Eukarya" = renderImageWidthPct("www/Domain_Eukarya.png"),
-           "Animalia" = renderImageWidthPct("www/Kingdom_Animalia.png"),
-           "Bacteria" = renderImageWidthPct("www/Kingdom_Bacteria.png"),
-           "Fungi" = renderImageWidthPct("www/Kingdom_Fungi.png"),
-           "Plantae" = renderImageWidthPct("www/Kingdom_Plantae.png"),
-           "Amphibia" = renderImageWidthPct("www/Class_Amphibia.png"),
-           "Insecta" = renderImageWidthPct("www/Class_Insecta.png"),
-           "Mammalia" = renderImageWidthPct("www/Class_Mammalia.png"),
-           "Anura" = renderImageWidthPct("www/Order_Anura.png"),
-           "Artiodactyla" = renderImageWidthPct("www/Order_Artiodactyla.png"),
-           "Lagomorpha" = renderImageWidthPct("www/Order_Lagomorpha.png"),
-           "Lepidoptera" = renderImageWidthPct("www/Order_Lepidoptera.png"),
-           "Rodentia" = renderImageWidthPct("www/Order_Rodentia.png"),
-           "Homo sapiens" = renderImageWidthPct("www/Species_Homo_sapiens.png")
+           "Animalia" = renderImageWidthPct("www/Animalia_AKRs.png"),
+           "Bacteria" = renderImageWidthPct("www/Bacteria_AKRs.png"),
+           "Fungi" = renderImageWidthPct("www/Fungi_AKRs.png"),
+           "Plantae" = renderImageWidthPct("www/Plantae_AKRs.png"),
+           "Insecta" = renderImageWidthPct("www/Insecta_AKRs.png"),
+           "Mammalia" = renderImageWidthPct("www/Mammalia_AKRs.png"),
+           "Lagomorpha" = renderImageWidthPct("www/Lagomorpha_AKRs.png"),
+           "Rodentia" = renderImageWidthPct("www/Rodentia_AKRs.png"),
+           "Homo sapiens" = renderImageWidthPct("www/Homo_sapiens_AKRs.png")
     )
   })
   ## AKR submission form

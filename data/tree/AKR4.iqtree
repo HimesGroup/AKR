@@ -1,0 +1,218 @@
+IQ-TREE 2.2.0.3 COVID-edition built May 11 2022
+
+Input file name: msa/AKR4.aln
+Type of analysis: ModelFinder + tree reconstruction
+Random seed number: 854160
+
+REFERENCES
+----------
+
+To cite IQ-TREE please use:
+
+Bui Quang Minh, Heiko A. Schmidt, Olga Chernomor, Dominik Schrempf,
+Michael D. Woodhams, Arndt von Haeseler, and Robert Lanfear (2020)
+IQ-TREE 2: New models and efficient methods for phylogenetic inference
+in the genomic era. Mol. Biol. Evol., in press.
+https://doi.org/10.1093/molbev/msaa015
+
+To cite ModelFinder please use: 
+
+Subha Kalyaanamoorthy, Bui Quang Minh, Thomas KF Wong, Arndt von Haeseler,
+and Lars S Jermiin (2017) ModelFinder: Fast model selection for
+accurate phylogenetic estimates. Nature Methods, 14:587–589.
+https://doi.org/10.1038/nmeth.4285
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 30 sequences with 350 amino-acid sites
+Number of constant sites: 60 (= 17.1429% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 60 (= 17.1429% of all sites)
+Number of parsimony informative sites: 263
+Number of distinct site patterns: 322
+
+ModelFinder
+-----------
+
+Best-fit model according to BIC: LG+I+G4
+
+List of models sorted by BIC scores: 
+
+Model                  LogL         AIC      w-AIC        AICc     w-AICc         BIC      w-BIC
+LG+I+G4           -8763.147   17644.295 +     0.94   17668.709 +    0.988   17871.913 +    0.997
+Q.pfam+I+G4       -8769.052   17656.103 -  0.00257   17680.517 -   0.0027   17883.721 -  0.00272
+LG+G4             -8774.724   17665.447 -  2.4e-05   17688.966 - 3.94e-05   17889.208 - 0.000175
+LG+I+I+R2         -8769.167   17658.334 - 0.000841   17683.663 - 0.000559   17889.810 -  0.00013
+LG+I+I+R3         -8763.532   17651.063 -   0.0319   17678.283 -  0.00824   17890.255 - 0.000104
+LG+R3             -8769.438   17660.876 - 0.000236   17687.140 - 9.83e-05   17896.210 - 5.28e-06
+LG+R4             -8768.138   17662.276 - 0.000117   17690.472 - 1.86e-05   17905.326 - 5.53e-08
+WAG+I+G4          -8786.363   17690.725 - 7.78e-11   17715.139 - 8.18e-11   17918.343 - 8.25e-11
+LG+R2             -8799.718   17717.436 - 1.23e-16   17741.850 -  1.3e-16   17945.054 - 1.31e-16
+Q.insect+I+G4     -8801.085   17720.170 - 3.14e-17   17744.584 -  3.3e-17   17947.788 - 3.33e-17
+LG+F+I+G4         -8747.824   17651.648 -   0.0238   17697.124 - 6.68e-07   17952.567 - 3.05e-18
+Q.yeast+I+G4      -8807.084   17732.167 -  7.8e-20   17756.581 -  8.2e-20   17959.785 - 8.27e-20
+Q.plant+I+G4      -8807.179   17732.358 - 7.09e-20   17756.772 - 7.45e-20   17959.976 - 7.51e-20
+Q.pfam+F+I+G4     -8753.900   17663.800 - 5.47e-05   17709.276 - 1.53e-09   17964.719 - 7.02e-21
+JTT+I+G4          -8819.336   17756.673 - 3.72e-25   17781.087 - 3.91e-25   17984.291 - 3.95e-25
+JTTDCMut+I+G4     -8819.460   17756.920 - 3.29e-25   17781.334 - 3.46e-25   17984.539 - 3.49e-25
+Q.yeast+F+I+G4    -8764.228   17684.455 - 1.79e-09   17729.931 - 5.02e-14   17985.374 -  2.3e-25
+VT+I+G4           -8823.646   17765.292 -    5e-27   17789.706 - 5.26e-27   17992.910 -  5.3e-27
+Q.insect+F+I+G4   -8780.917   17717.834 - 1.01e-16   17763.310 - 2.83e-21   18018.753 -  1.3e-32
+WAG+F+I+G4        -8781.440   17718.879 - 5.99e-17   17764.355 - 1.68e-21   18019.798 - 7.69e-33
+Q.plant+F+I+G4    -8791.293   17738.586 - 3.15e-21   17784.062 - 8.84e-26   18039.505 - 4.04e-37
+JTT+F+I+G4        -8801.808   17759.616 - 8.54e-26   17805.092 -  2.4e-30   18060.535 -  1.1e-41
+JTTDCMut+F+I+G4   -8802.466   17760.933 - 4.42e-26   17806.409 - 1.24e-30   18061.852 - 5.68e-42
+rtREV+F+I+G4      -8811.394   17778.789 - 5.87e-30   17824.265 - 1.65e-34   18079.708 - 7.53e-46
+VT+F+I+G4         -8812.743   17781.486 - 1.52e-30   17826.962 - 4.27e-35   18082.405 - 1.95e-46
+cpREV+I+G4        -8870.328   17858.656 - 2.66e-47   17883.070 -  2.8e-47   18086.274 - 2.82e-47
+Dayhoff+I+G4      -8874.403   17866.807 - 4.52e-49   17891.221 - 4.75e-49   18094.425 - 4.79e-49
+DCMut+I+G4        -8874.859   17867.719 - 2.87e-49   17892.133 - 3.01e-49   18095.337 - 3.04e-49
+rtREV+I+G4        -8879.944   17877.888 - 1.78e-51   17902.302 - 1.87e-51   18105.506 - 1.88e-51
+cpREV+F+I+G4      -8828.457   17812.913 - 2.28e-37   17858.389 -  6.4e-42   18113.832 - 2.93e-53
+Blosum62+I+G4     -8893.485   17904.969 - 2.34e-57   17929.383 - 2.46e-57   18132.587 - 2.48e-57
+LG+I              -8902.266   17920.533 - 9.75e-61   17944.052 -  1.6e-60   18144.293 - 7.11e-60
+PMB+I+G4          -8901.138   17920.276 - 1.11e-60   17944.690 - 1.17e-60   18147.894 - 1.18e-60
+mtInv+F+I+G4      -8846.787   17849.575 -  2.5e-45   17895.051 -    7e-50   18150.494 -  3.2e-61
+Dayhoff+F+I+G4    -8850.003   17856.006 -    1e-46   17901.482 - 2.81e-51   18156.925 - 1.29e-62
+DCMut+F+I+G4      -8850.398   17856.795 - 6.75e-47   17902.271 - 1.89e-51   18157.714 - 8.66e-63
+Q.mammal+I+G4     -8911.565   17941.129 - 3.29e-65   17965.543 - 3.45e-65   18168.747 - 3.48e-65
+mtZOA+F+I+G4      -8880.773   17917.545 - 4.34e-60   17963.021 - 1.22e-64   18218.464 - 5.57e-76
+Blosum62+F+I+G4   -8884.812   17925.624 - 7.65e-62   17971.100 - 2.15e-66   18226.543 - 9.81e-78
+PMB+F+I+G4        -8887.465   17930.929 - 5.39e-63   17976.405 - 1.51e-67   18231.848 - 6.91e-79
+Q.bird+I+G4       -8952.732   18023.463 - 4.35e-83   18047.877 - 4.57e-83   18251.081 - 4.61e-83
+Q.mammal+F+I+G4   -8898.065   17952.129 - 1.34e-67   17997.605 - 3.77e-72   18253.048 - 1.72e-83
+mtMet+F+I+G4      -8901.590   17959.180 - 3.95e-69   18004.656 - 1.11e-73   18260.099 - 5.07e-85
+mtREV+F+I+G4      -8940.674   18037.348 -  4.2e-86   18082.824 - 1.18e-90   18338.267 - 5.39e-102
+Q.bird+F+I+G4     -8946.535   18049.070 -  1.2e-88   18094.546 - 3.35e-93   18349.989 - 1.53e-104
+FLU+F+I+G4        -8952.665   18061.330 -  2.6e-91   18106.806 -  7.3e-96   18362.248 - 3.34e-107
+HIVb+F+I+G4       -8956.658   18069.316 -  4.8e-93   18114.792 - 1.35e-97   18370.235 - 6.16e-109
+HIVb+I+G4         -9024.316   18166.632 - 3.54e-114   18191.045 - 3.72e-114   18394.250 - 3.76e-114
+FLU+I+G4          -9032.911   18183.822 - 6.55e-118   18208.236 - 6.89e-118   18411.440 - 6.95e-118
+LG                -9047.282   18208.563 - 2.78e-123   18231.207 - 7.08e-123   18428.465 - 1.4e-121
+mtVer+F+I+G4      -9007.307   18170.615 - 4.84e-115   18216.091 - 1.36e-119   18471.534 - 6.2e-131
+mtART+F+I+G4      -9019.035   18194.070 - 3.9e-120   18239.546 - 1.09e-124   18494.989 - 5.01e-136
+mtMAM+F+I+G4      -9121.423   18398.846 - 1.33e-164   18444.322 - 3.74e-169   18699.764 - 1.71e-180
+FLAVI+F+I+G4      -9143.109   18442.217 - 5.09e-174   18487.693 - 1.43e-178   18743.136 - 6.53e-190
+mtZOA+I+G4        -9204.356   18526.712 - 2.29e-192   18551.126 - 2.4e-192   18754.330 - 2.42e-192
+FLAVI+I+G4        -9207.040   18532.080 - 1.56e-193   18556.494 - 1.64e-193   18759.698 - 1.65e-193
+HIVw+F+I+G4       -9274.714   18705.428 - 3.56e-231   18750.904 - 9.98e-236   19006.347 - 4.56e-247
+mtMet+I+G4        -9348.724   18815.448 - 4.58e-255   18839.862 - 4.81e-255   19043.066 - 4.85e-255
+mtREV+I+G4        -9369.525   18857.050 - 4.23e-264   18881.464 - 4.45e-264   19084.669 - 4.49e-264
+mtInv+I+G4        -9392.031   18902.062 - 7.13e-274   18926.475 - 7.49e-274   19129.680 - 7.55e-274
+mtVer+I+G4        -9416.989   18951.977 - 1.03e-284   18976.391 - 1.08e-284   19179.595 - 1.09e-284
+HIVw+I+G4         -9433.182   18984.363 - 9.58e-292   19008.777 - 1.01e-291   19211.981 - 1.02e-291
+mtART+I+G4        -9461.768   19041.537 - 3.68e-304   19065.950 - 3.87e-304   19269.155 - 3.9e-304
+mtMAM+I+G4        -9571.734   19261.468 -        0   19285.882 -        0   19489.086 -        0
+
+AIC, w-AIC   : Akaike information criterion scores and weights.
+AICc, w-AICc : Corrected AIC scores and weights.
+BIC, w-BIC   : Bayesian information criterion scores and weights.
+
+Plus signs denote the 95% confidence sets.
+Minus signs denote significant exclusion.
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: LG+I+G4
+
+State frequencies: (model)
+
+Model of rate heterogeneity: Invar+Gamma with 4 categories
+Proportion of invariable sites: 0.0999
+Gamma shape alpha: 1.8471
+
+ Category  Relative_rate  Proportion
+  0         0              0.0999
+  1         0.3048         0.2250
+  2         0.7085         0.2250
+  3         1.1839         0.2250
+  4         2.2468         0.2250
+Relative rates are computed as MEAN of the portion of the Gamma distribution falling in the category.
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -8762.1871 (s.e. 280.0682)
+Unconstrained log-likelihood (without tree): -2003.5695
+Number of free parameters (#branches + #model parameters): 59
+Akaike information criterion (AIC) score: 17642.3742
+Corrected Akaike information criterion (AICc) score: 17666.7880
+Bayesian information criterion (BIC) score: 17869.9923
+
+Total tree length (sum of branch lengths): 7.9692
+Sum of internal branch lengths: 4.3414 (54.4772% of tree length)
+
+NOTE: Tree is UNROOTED although outgroup taxon 'AKR4A1|P26690.1|Glycine' is drawn at root
+
++--AKR4A1|P26690.1|Glycine
+|
+|  +--AKR4A2|Q40333|Medicago
++--|
+|  |  +--AKR4A3|BAA12084.1|Glycyrrhiza
+|  +--|
+|     +--AKR4A4|BAA13113.1|Glycyrrhiza
+|
+|                      +--------AKR4B1|CAA11226.1|Sesbania
+|                 +----|
+|                 |    +----------AKR4B10|ADK94763.1|Erythroxylum
+|              +--|
+|              |  |            +--AKR4B5|BAF03164.1|Zea
+|              |  |  +---------|
+|              |  |  |         |  +--AKR4B6|BAF03161.1|Oryza
+|              |  |  |         +--|
+|              |  |  |            |  +--AKR4B7|BAF03162.1|Hordeum
+|              |  |  |            +--|
+|              |  |  |               +--AKR4B8|BAF03163.1|Triticum
+|              |  +--|
+|              |     |                                      +--AKR4C1|P23901.1|Hordeum
+|              |     |                                   +--|
+|              |     |                                   |  |  +--AKR4C2|AAA21751.1|Bromus
+|              |     |                                   |  +--|
+|              |     |                                   |     +--AKR4C13|ADU32868.1|Zea
+|              |     |                              +----|
+|              |     |                              |    +--AKR4C3|Q43320|Avena
+|              |     |              +---------------|
+|              |     |              |               +-------AKR4C4|AAD22264.1|Xerophyta
+|              |     +--------------|
+|              |                    |                        +--AKR4C5|CAC32834.1|Digitalis
+|              |                    |                 +------|
+|              |                    |                 |      +--AKR4C6|CAC32835.1|Digitalis
+|              |                    |              +--|
+|              |                    |              |  |     +--AKR4C9|ABH07515.1|Arabidopsis
+|              |                    |              |  |  +--|
+|              |                    |              |  |  |  +-----AKR4C11|ABH07517.1|Arabidopsis
+|              |                    |              |  +--|
+|              |                    |              |     +--AKR4C10|ABH07516.1|Arabidopsis
+|              |                    |           +--|
+|              |                    |           |  +---------AKR4C8|ABH07514.1|Arabidopsis
+|              |                    +-----------|
+|              |                                |            +--AKR4C7|ABF61890.1|Zea
+|              |                                |         +--|
+|              |                                |         |  |  +**AKR4C16|QFG75509.1|Echinochloa
+|              |                                |         |  +--|
+|              |                                |         |     +--AKR5C17|QFG75510.1|Echinochloa
+|              |                                |     +---|
+|              |                                |     |   +--AKR4C14|ACS92968.1|Oryza
+|              |                                |  +--|
+|              |                                |  |  +---AKR4C15|ALN39070.1|Oryza
+|              |                                +--|
+|              |                                   +------AKR4C12|ABL61257.1|Aloe
+|           +--|
+|           |  +--------------AKR4B4|AAB97005.1|Fragaria
++-----------|
+            |            +**AKR4B2|AAF13739.1|Papaver
+            +------------|
+                         +--AKR4B3|AAF13736.1|Papaver
+
+Tree in newick format:
+
+(AKR4A1|P26690.1|Glycine:0.0507812897,(AKR4A2|Q40333|Medicago:0.1042848496,(AKR4A3|BAA12084.1|Glycyrrhiza:0.0092808076,AKR4A4|BAA13113.1|Glycyrrhiza:0.0140855492):0.0461523794):0.0566437188,((((AKR4B1|CAA11226.1|Sesbania:0.3385479612,AKR4B10|ADK94763.1|Erythroxylum:0.3978429385):0.1980805337,((AKR4B5|BAF03164.1|Zea:0.1153070879,(AKR4B6|BAF03161.1|Oryza:0.1118105345,(AKR4B7|BAF03162.1|Hordeum:0.0223057322,AKR4B8|BAF03163.1|Triticum:0.0056722523):0.0715122832):0.0498329693):0.3638354942,((((AKR4C1|P23901.1|Hordeum:0.0251769953,(AKR4C2|AAA21751.1|Bromus:0.0458744460,AKR4C13|ADU32868.1|Zea:0.1051279051):0.0145961295):0.0105043478,AKR4C3|Q43320|Avena:0.0364748184):0.1893910559,AKR4C4|AAD22264.1|Xerophyta:0.2906645038):0.5783413839,((((AKR4C5|CAC32834.1|Digitalis:0.0070869128,AKR4C6|CAC32835.1|Digitalis:0.0103840392):0.2524538388,((AKR4C9|ABH07515.1|Arabidopsis:0.0987180758,AKR4C11|ABH07517.1|Arabidopsis:0.2080912906):0.0350044984,AKR4C10|ABH07516.1|Arabidopsis:0.1245095662):0.0493147012):0.0313814561,AKR4C8|ABH07514.1|Arabidopsis:0.3691843779):0.0512586168,((((AKR4C7|ABF61890.1|Zea:0.0275004559,(AKR4C16|QFG75509.1|Echinochloa:0.0000020544,AKR5C17|QFG75510.1|Echinochloa:0.0250630942):0.0117873907):0.0529015801,AKR4C14|ACS92968.1|Oryza:0.0790499199):0.1598250330,AKR4C15|ALN39070.1|Oryza:0.1643248022):0.0594282378,AKR4C12|ABL61257.1|Aloe:0.2535705304):0.0451610326):0.4137761953):0.5240499341):0.0378919700):0.1120931200,AKR4B4|AAB97005.1|Fragaria:0.5447400631):0.0558881028,(AKR4B2|AAF13739.1|Papaver:0.0000020320,AKR4B3|AAF13736.1|Papaver:0.0423431647):0.4537706830):0.4165269258);
+
+TIME STAMP
+----------
+
+Date and time: Sun Oct 29 20:31:38 2023
+Total CPU time used: 33.189 seconds (0h:0m:33s)
+Total wall-clock time used: 33.247 seconds (0h:0m:33s)
+

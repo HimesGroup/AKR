@@ -1,0 +1,401 @@
+IQ-TREE multicore version 2.2.0.3 COVID-edition for Linux 64-bit built May 11 2022
+Developed by Bui Quang Minh, James Barbetti, Nguyen Lam Tung,
+Olga Chernomor, Heiko Schmidt, Dominik Schrempf, Michael Woodhams, Ly Trong Nhan.
+
+Host:    H1 (AVX2, FMA3, 31 GB RAM)
+Command: iqtree -s msa/Mammalia_AKRs.aln --prefix tree/Mammalia_AKRs
+Seed:    414620 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Mon Oct 30 03:56:19 2023
+Kernel:  AVX+FMA - 1 threads (16 CPU cores detected)
+
+HINT: Use -nt option to specify number of threads because your CPU has 16 cores!
+HINT: -nt AUTO will automatically determine the best number of threads to use.
+
+Reading alignment file msa/Mammalia_AKRs.aln ... Fasta format detected
+Reading fasta file: done in 0.000556595 secs using 99.89% CPU
+Alignment most likely contains protein sequences
+Constructing alignment: done in 0.000523952 secs using 99.82% CPU
+Alignment has 78 sequences with 693 columns, 546 distinct patterns
+391 parsimony-informative, 65 singleton sites, 237 constant sites
+                                                                    Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 4.4103e-05 secs using 99.77% CPU
+   1  AKR1A1|NP_006057.1|Homo                                              53.10%    passed     92.72%
+   2  AKR1A2|P50578.3|Sus                                                  53.10%    passed     86.06%
+   3  AKR1A3|P51635.2|Rattus                                               53.10%    passed     92.77%
+   4  AKR1A4|NP_067448.1|Mus                                               53.10%    passed     89.73%
+   5  AKR1B1|NP_001619.1|Homo                                              54.40%    passed     99.96%
+   6  AKR1B2|P15122.3|Oryctolagus|cuniculus|Animalia|Mammalia|Lagomorpha   54.40%    passed     99.63%
+   7  AKR1B3|P45376.3|Mus                                                  54.40%    passed     97.25%
+   8  AKR1B4|NP_036630.1|Rattus                                            54.40%    passed     98.44%
+   9  AKR1B5|P16116.2|Bos                                                  54.55%    passed     82.76%
+  10  AKR1B6|P80276.2|Sus                                                  54.40%    passed     98.41%
+  11  AKR1B7|P21300.4|Mus                                                  54.40%    passed     93.33%
+  12  AKR1B8|NP_032038.1|Mus                                               54.40%    passed     93.54%
+  13  AKR1B9|AAC53199.1|Cricetulus                                         54.40%    passed     94.84%
+  14  AKR1B10|NP_064695.3|Homo                                             54.40%    passed     86.87%
+  15  AKR1B13|CAC80649.1|Rattus                                            54.40%    passed     90.51%
+  16  AKR1B14|NP_446233.2|Rattus                                           54.40%    passed     90.16%
+  17  AKR1B15|EAL24068.1|Homo                                              47.76%    passed     27.43%
+  18  AKR1B18|NP_001013102.1|Rattus                                        54.40%    passed     89.50%
+  19  AKR1B19|NP_001254517.1|Oryctolagus                                   54.40%    passed     77.54%
+  20  AKR1C1|NP_001344.2|Homo                                              53.39%    passed     97.57%
+  21  AKR1C2|NP_001345.1|Homo                                              53.39%    passed     96.74%
+  22  AKR1C3|NP_003730.4|Homo                                              53.39%    passed     97.98%
+  23  AKR1C4|P17516.3|Homo                                                 53.39%    passed     89.89%
+  24  AKR1C5|P80508.1|Oryctolagus                                          53.39%    passed     97.57%
+  25  AKR1C6|NP_085114.1|Mus                                               53.39%    passed     95.75%
+  26  AKR1C7|P05980.3|Bos                                                  53.39%    passed     85.98%
+  27  AKR1C8|P51652.1|Rattus                                               53.39%    passed     57.96%
+  28  AKR1C9|P23457.1|Rattus                                               53.54%    passed     73.16%
+  29  AKR1C11|BAA13690.1|Bos                                               53.39%    passed     96.67%
+  30  AKR1C12|NP_038805.2|Mus                                              53.39%    passed     68.19%
+  31  AKR1C13|NP_038806.2|Mus                                              53.39%    passed     74.32%
+  32  AKR1C14|NP_598833.1|Mus                                              53.39%    passed     88.13%
+  33  AKR1C15|2008147B|Rattus                                              53.39%    passed     97.47%
+  34  AKR1C16|2008147A|Rattus                                              54.11%    passed     87.82%
+  35  AKR1C17|2008147C|Rattus                                              53.68%    passed     86.37%
+  36  AKR1C18|NP_001333464.1|Mus                                           57.14%    passed     65.57%
+  37  AKR1C19|NP_001013807.2|Mus                                           53.39%    passed     97.92%
+  38  AKR1C20|NP_473421.1|Mus                                              62.19%    passed     91.65%
+  39  AKR1C21|NP_084177.2|Mus                                              53.39%    passed     99.74%
+  40  AKR1C22|BAD02825.1|Mus                                               53.39%    passed     67.74%
+  41  AKR1C23|AAY16444.1|Equus                                             53.54%    passed     99.98%
+  42  AKR1C24|BAE75957.1|Rattus                                            53.39%    passed     78.38%
+  43  AKR1C25|BAB63209.2|Macaca                                            53.39%    passed     72.89%
+  44  AKR1C26|BAM37087.1|Oryctolagus                                       53.39%    passed     99.42%
+  45  AKR1C27|BAM37088.1|Oryctolagus                                       53.39%    passed     96.77%
+  46  AKR1C28|BAM37089.1|Oryctolagus                                       53.39%    passed     95.81%
+  47  AKR1C29|BAN20006.1|Oryctolagus                                       53.39%    passed     99.38%
+  48  AKR1C30|BAN84250.1|Oryctolagus                                       53.39%    passed     99.88%
+  49  AKR1C31|BAN84251.1|Oryctolagus                                       53.39%    passed     99.76%
+  50  AKR1C32|BAN84252.1|Oryctolagus                                       53.39%    passed     98.89%
+  51  AKR1C33|BAN84253.1|Oryctolagus                                       53.54%    passed     97.38%
+  52  AKR1C34|BAP76082.1|Mesocricetus                                      53.39%    passed     96.87%
+  53  AKR1C35|BAP76083.1|Mesocricetus                                      53.39%    passed     88.47%
+  54  AKR1D1|NP_005980.1|Homo                                              52.96%    passed     99.01%
+  55  AKR1D2|NP_620239.2|Rattus                                            53.10%    passed     90.29%
+  56  AKR1D3|BAA82867.1|Oryctolagus                                        52.96%    passed     80.45%
+  57  AKR1D4|NP_663397.1|Mus                                               27.13%    failed      0.13%
+  58  AKR1E1|AAB37274.1|Mus                                                56.57%    passed     64.32%
+  59  AKR1E2|Q96JD6.2|Homo                                                 53.82%    passed     64.49%
+  60  AKR6A1|Q27955.1|Bos                                                  47.04%    failed      4.08%
+  61  AKR6A2|CAA54142.1|Rattus                                             47.04%    passed      7.49%
+  62  AKR6A3||S66503|Homo                                                  42.14%    passed      6.56%
+  63  AKR6A4|AAA75174.1|Mus                                                47.04%    passed     11.15%
+  64  AKR6A5|AAB99859.1|Homo                                               49.06%    passed      8.14%
+  65  AKR6A6|AAF65463.2|Oryctolagus                                        49.06%    passed      6.01%
+  66  AKR6A7|AAD37853.1|Oryctolagus                                        42.14%    passed      7.12%
+  67  AKR6A8|NP_034727.3|Mus                                               42.14%    passed      7.12%
+  68  AKR6A9|NP_004723.2|Homo                                              41.70%    failed      0.02%
+  69  AKR6A10a|AAC48462.1|Mustela                                          41.13%    passed     15.80%
+  70  AKR6A10b|AAD37854.1|Oryctolagus                                      41.13%    passed     12.70%
+  71  AKR6A12|Q63494.1|Rattus                                              41.70%    failed      0.04%
+  72  AKR6A13|P63144.1|Rattus                                              42.14%    passed      6.56%
+  73  AKR6A14|NP_034729.3|Mus                                              41.70%    failed      0.04%
+  74  AKR7A1|P38918.2|Rattus                                               52.81%    passed     40.94%
+  75  AKR7A2|NP_003680.2|Homo                                              48.20%    failed      0.27%
+  76  AKR7A3|NP_036199.2|Homo                                              52.24%    failed      4.27%
+  77  AKR7A4|BAA90396.1|Rattus                                             51.23%    failed      4.19%
+  78  AKR7A5|BAB23073.1|Mus                                                47.19%    failed      0.11%
+WARNING: 60 sequences contain more than 50% gaps/ambiguity
+****  TOTAL                                                                51.47%  9 sequences failed composition chi2 test (p-value<5%; df=19)
+NOTE: AKR6A13|P63144.1|Rattus is identical to AKR6A3||S66503|Homo but kept for subsequent analysis
+NOTE: AKR6A8|NP_034727.3|Mus is identical to AKR6A7|AAD37853.1|Oryctolagus but kept for subsequent analysis
+Checking for duplicate sequences: done in 0.000121916 secs using 100.1% CPU
+
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.011 seconds
+Perform fast likelihood tree search using LG+I+G model...
+Estimate model parameters (epsilon = 5.000)
+Perform nearest neighbor interchange...
+Optimizing NNI: done in 0.810175 secs using 99.99% CPU
+Estimate model parameters (epsilon = 1.000)
+1. Initial log-likelihood: -18478.251
+Optimal log-likelihood: -18477.263
+Proportion of invariable sites: 0.021
+Gamma shape alpha: 1.395
+Parameters optimization took 1 rounds (0.212 sec)
+Time for fast ML tree search: 2.125 seconds
+
+NOTE: ModelFinder requires 68 MB RAM!
+ModelFinder will test up to 1232 protein models (sample size: 693) ...
+ No. Model         -LnL         df  AIC          AICc         BIC
+  1  LG            18997.933    153 38301.866    38389.295    38996.644
+  2  LG+I          18948.017    154 38204.035    38292.771    38903.353
+  3  LG+G4         18484.321    154 37276.641    37365.377    37975.960
+  4  LG+I+G4       18476.834    155 37263.667    37353.723    37967.527
+  5  LG+R2         18556.903    155 37423.807    37513.863    38127.666
+  6  LG+R3         18474.726    157 37263.451    37356.184    37976.393
+  7  LG+R4         18460.442    159 37238.884    37334.344    37960.908
+  8  LG+R5         18451.317    161 37224.635    37322.872    37955.741
+  9  LG+R6         18450.124    163 37226.249    37327.315    37966.436
+ 14  LG+I+I+R2     18535.785    156 37383.570    37474.958    38091.970
+ 15  LG+I+I+R3     18459.882    158 37235.765    37329.854    37953.247
+ 16  LG+I+I+R4     18445.451    160 37210.901    37307.743    37937.466
+ 17  LG+I+I+R5     18443.936    162 37211.871    37311.516    37947.518
+ 38  LG+F+I+I+R4   18426.911    179 37211.821    37337.435    38024.666
+ 60  WAG+I+I+R4    18459.917    160 37239.834    37336.677    37966.399
+ 82  WAG+F+I+I+R4  18468.050    179 37294.099    37419.713    38106.943
+104  JTT+I+I+R4    18386.547    160 37093.094    37189.936    37819.659
+126  JTT+F+I+I+R4  18375.703    179 37109.405    37235.019    37922.249
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+148  Q.pfam+I+I+R4 18442.188    160 37204.376    37301.218    37930.941
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+170  Q.pfam+F+I+I+R4 18417.910    179 37193.819    37319.434    38006.664
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+192  Q.bird+I+I+R4 18541.274    160 37402.548    37499.390    38129.113
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+214  Q.bird+F+I+I+R4 18523.826    179 37405.652    37531.266    38218.496
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+236  Q.mammal+I+I+R4 18471.051    160 37262.101    37358.943    37988.666
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+258  Q.mammal+F+I+I+R4 18445.612    179 37249.225    37374.839    38062.069
+280  Q.insect+I+I+R4 18468.267    160 37256.534    37353.376    37983.099
+302  Q.insect+F+I+I+R4 18433.662    179 37225.323    37350.938    38038.168
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+324  Q.plant+I+I+R4 18382.460    160 37084.920    37181.762    37811.484
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+346  Q.plant+F+I+I+R4 18359.564    179 37077.127    37202.741    37889.972
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+368  Q.yeast+I+I+R4 18537.820    160 37395.639    37492.482    38122.204
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+390  Q.yeast+F+I+I+R4 18452.121    179 37262.242    37387.856    38075.086
+412  JTTDCMut+I+I+R4 18390.528    160 37101.056    37197.898    37827.621
+434  JTTDCMut+F+I+I+R4 18381.352    179 37120.704    37246.318    37933.548
+456  DCMut+I+I+R4  18644.321    160 37608.642    37705.484    38335.207
+478  DCMut+F+I+I+R4 18620.139    179 37598.278    37723.892    38411.122
+500  VT+I+I+R4     18505.474    160 37330.948    37427.790    38057.512
+522  VT+F+I+I+R4   18507.734    179 37373.468    37499.082    38186.313
+544  PMB+I+I+R4    18692.446    160 37704.892    37801.734    38431.457
+566  PMB+F+I+I+R4  18724.254    179 37806.508    37932.122    38619.352
+588  Blosum62+I+I+R4 18702.387    160 37724.775    37821.617    38451.339
+610  Blosum62+F+I+I+R4 18732.740    179 37823.479    37949.093    38636.324
+632  Dayhoff+I+I+R4 18642.843    160 37605.686    37702.528    38332.251
+654  Dayhoff+F+I+I+R4 18618.748    179 37595.497    37721.111    38408.341
+676  mtREV+I+I+R4  19250.235    160 38820.470    38917.312    39547.035
+698  mtREV+F+I+I+R4 18626.952    179 37611.904    37737.518    38424.748
+720  mtART+I+I+R4  19622.412    160 39564.824    39661.666    40291.389
+742  mtART+F+I+I+R4 18957.577    179 38273.154    38398.768    39085.999
+764  mtZOA+I+I+R4  19145.566    160 38611.131    38707.973    39337.696
+786  mtZOA+F+I+I+R4 18670.920    179 37699.839    37825.453    38512.684
+808  mtMet+I+I+R4  19196.456    160 38712.912    38809.755    39439.477
+830  mtMet+F+I+I+R4 18541.630    179 37441.260    37566.874    38254.105
+852  mtVer+I+I+R4  19323.884    160 38967.768    39064.610    39694.333
+874  mtVer+F+I+I+R4 18712.478    179 37782.957    37908.571    38595.801
+896  mtInv+I+I+R4  19351.602    160 39023.204    39120.046    39749.769
+918  mtInv+F+I+I+R4 18520.489    179 37398.978    37524.592    38211.823
+940  mtMAM+I+I+R4  19607.019    160 39534.039    39630.881    40260.603
+962  mtMAM+F+I+I+R4 18929.325    179 38216.649    38342.263    39029.494
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+984  FLAVI+I+I+R4  19015.832    160 38351.663    38448.506    39078.228
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+1006  FLAVI+F+I+I+R4 18924.214    179 38206.428    38332.042    39019.272
+1028  HIVb+I+I+R4   18688.009    160 37696.018    37792.860    38422.583
+1050  HIVb+F+I+I+R4 18589.799    179 37537.598    37663.213    38350.443
+1072  HIVw+I+I+R4   19385.599    160 39091.198    39188.040    39817.762
+1094  HIVw+F+I+I+R4 19100.307    179 38558.615    38684.229    39371.459
+1116  FLU+I+I+R4    18773.559    160 37867.118    37963.960    38593.683
+1138  FLU+F+I+I+R4  18672.144    179 37702.288    37827.902    38515.132
+1160  rtREV+I+I+R4  18691.409    160 37702.818    37799.660    38429.383
+1182  rtREV+F+I+I+R4 18591.567    179 37541.133    37666.747    38353.978
+1204  cpREV+I+I+R4  18581.490    160 37482.980    37579.823    38209.545
+1226  cpREV+F+I+I+R4 18585.543    179 37529.087    37654.701    38341.931
+Akaike Information Criterion:           Q.plant+F+I+I+R4
+Corrected Akaike Information Criterion: Q.plant+I+I+R4
+Bayesian Information Criterion:         Q.plant+I+I+R4
+Best-fit model: Q.plant+I+I+R4 chosen according to BIC
+
+All model information printed to tree/Mammalia_AKRs.model.gz
+CPU time for ModelFinder: 222.431 seconds (0h:3m:42s)
+Wall-clock time for ModelFinder: 222.546 seconds (0h:3m:42s)
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+
+NOTE: 27 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -18382.460
+Optimal log-likelihood: -18382.438
+Proportion of invariable sites: 0.016
+Site proportion and rates:  (0.380,0.265) (0.318,0.722) (0.211,1.609) (0.075,4.397)
+Parameters optimization took 1 rounds (0.588 sec)
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 0.41704 secs using 99.99% CPU
+Computing ML distances took 0.417162 sec (of wall-clock time) 0.417142 sec (of CPU time)
+Setting up auxiliary I and S matrices: done in 0.000102321 secs using 99.69% CPU
+Constructing RapidNJ tree: done in 0.000253365 secs using 99.86% CPU
+Computing RapidNJ tree took 0.000383 sec (of wall-clock time) 0.000382 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -18455.950
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 1.008 second
+Computing log-likelihood of 98 initial trees ... 6.509 seconds
+Current best score: -18382.438
+
+Do NNI search on 20 best initial trees
+Optimizing NNI: done in 0.778838 secs using 99.99% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -18367.636
+Optimizing NNI: done in 0.955676 secs using 99.57% CPU
+Optimizing NNI: done in 1.14128 secs using 99.99% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 3: -18365.741
+Optimizing NNI: done in 1.24804 secs using 99.99% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 4: -18364.754
+Optimizing NNI: done in 1.2187 secs using 99.99% CPU
+Optimizing NNI: done in 1.13045 secs using 99.64% CPU
+Optimizing NNI: done in 1.11272 secs using 99.99% CPU
+Optimizing NNI: done in 1.24082 secs using 99.99% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 8: -18363.396
+Optimizing NNI: done in 1.24259 secs using 99.99% CPU
+Optimizing NNI: done in 1.21229 secs using 99.66% CPU
+Iteration 10 / LogL: -18365.641 / Time: 0h:0m:24s
+Optimizing NNI: done in 1.17852 secs using 99.99% CPU
+Optimizing NNI: done in 1.26761 secs using 99.68% CPU
+Optimizing NNI: done in 1.21256 secs using 99.66% CPU
+Optimizing NNI: done in 1.21127 secs using 99.99% CPU
+Optimizing NNI: done in 1.26301 secs using 99.99% CPU
+Optimizing NNI: done in 1.36282 secs using 99.99% CPU
+Optimizing NNI: done in 1.21127 secs using 99.99% CPU
+Optimizing NNI: done in 1.28761 secs using 99.99% CPU
+Optimizing NNI: done in 1.23401 secs using 99.67% CPU
+Optimizing NNI: done in 1.27096 secs using 99.99% CPU
+Iteration 20 / LogL: -18365.204 / Time: 0h:0m:37s
+Finish initializing candidate tree set (10)
+Current best tree score: -18363.396 / CPU time: 35.601
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Optimizing NNI: done in 1.53523 secs using 99.73% CPU
+Optimizing NNI: done in 1.5858 secs using 99.99% CPU
+Optimizing NNI: done in 1.6815 secs using 99.75% CPU
+Optimizing NNI: done in 1.401 secs using 99.71% CPU
+Optimizing NNI: done in 1.28568 secs using 99.99% CPU
+Optimizing NNI: done in 1.46721 secs using 99.99% CPU
+Optimizing NNI: done in 1.61038 secs using 99.99% CPU
+Optimizing NNI: done in 1.43569 secs using 99.99% CPU
+Optimizing NNI: done in 1.7083 secs using 99.99% CPU
+Optimizing NNI: done in 1.26733 secs using 99.68% CPU
+Iteration 30 / LogL: -18370.551 / Time: 0h:0m:52s (0h:2m:21s left)
+Optimizing NNI: done in 1.49646 secs using 99.99% CPU
+Optimizing NNI: done in 1.78131 secs using 99.77% CPU
+Optimizing NNI: done in 1.59834 secs using 99.74% CPU
+Optimizing NNI: done in 1.54418 secs using 99.73% CPU
+Optimizing NNI: done in 1.30967 secs using 99.69% CPU
+Optimizing NNI: done in 1.61693 secs using 99.99% CPU
+Optimizing NNI: done in 1.37494 secs using 99.41% CPU
+Optimizing NNI: done in 1.1736 secs using 99.99% CPU
+Optimizing NNI: done in 1.33675 secs using 99.69% CPU
+Optimizing NNI: done in 1.53113 secs using 99.47% CPU
+Iteration 40 / LogL: -18368.787 / Time: 0h:1m:7s (0h:1m:57s left)
+Optimizing NNI: done in 1.52019 secs using 99.99% CPU
+Optimizing NNI: done in 1.22308 secs using 99.99% CPU
+Optimizing NNI: done in 1.29599 secs using 99.99% CPU
+Optimizing NNI: done in 1.56889 secs using 99.99% CPU
+Optimizing NNI: done in 1.80461 secs using 99.99% CPU
+Optimizing NNI: done in 1.92405 secs using 99.79% CPU
+Optimizing NNI: done in 1.39309 secs using 99.71% CPU
+Optimizing NNI: done in 1.28829 secs using 99.99% CPU
+Optimizing NNI: done in 2.01899 secs using 99.79% CPU
+Optimizing NNI: done in 1.31393 secs using 99.39% CPU
+Iteration 50 / LogL: -18364.670 / Time: 0h:1m:23s (0h:1m:38s left)
+Optimizing NNI: done in 1.64693 secs using 99.99% CPU
+Optimizing NNI: done in 1.36533 secs using 99.7% CPU
+Optimizing NNI: done in 1.75469 secs using 99.99% CPU
+Optimizing NNI: done in 1.45561 secs using 99.99% CPU
+Optimizing NNI: done in 1.17268 secs using 99.99% CPU
+Optimizing NNI: done in 1.58972 secs using 99.99% CPU
+Optimizing NNI: done in 1.53179 secs using 99.99% CPU
+Optimizing NNI: done in 1.55976 secs using 99.99% CPU
+Optimizing NNI: done in 1.69878 secs using 99.76% CPU
+Optimizing NNI: done in 1.44512 secs using 99.99% CPU
+Iteration 60 / LogL: -18394.344 / Time: 0h:1m:38s (0h:1m:20s left)
+Optimizing NNI: done in 1.37684 secs using 99.7% CPU
+Optimizing NNI: done in 1.26948 secs using 99.68% CPU
+Optimizing NNI: done in 1.32152 secs using 99.69% CPU
+Optimizing NNI: done in 1.21997 secs using 99.99% CPU
+Optimizing NNI: done in 1.5651 secs using 99.99% CPU
+Optimizing NNI: done in 1.45647 secs using 99.99% CPU
+Optimizing NNI: done in 1.46509 secs using 99.99% CPU
+Optimizing NNI: done in 1.64826 secs using 99.99% CPU
+Optimizing NNI: done in 1.61269 secs using 99.99% CPU
+Optimizing NNI: done in 1.5502 secs using 99.74% CPU
+Iteration 70 / LogL: -18364.533 / Time: 0h:1m:53s (0h:1m:2s left)
+Optimizing NNI: done in 1.14129 secs using 99.99% CPU
+Optimizing NNI: done in 1.35776 secs using 99.99% CPU
+Optimizing NNI: done in 1.30514 secs using 99.99% CPU
+Optimizing NNI: done in 1.57979 secs using 99.99% CPU
+Optimizing NNI: done in 1.50386 secs using 99.99% CPU
+Optimizing NNI: done in 1.23592 secs using 99.99% CPU
+Optimizing NNI: done in 1.62677 secs using 99.75% CPU
+Optimizing NNI: done in 1.30297 secs using 99.99% CPU
+Optimizing NNI: done in 1.49178 secs using 99.99% CPU
+Optimizing NNI: done in 1.28803 secs using 99.68% CPU
+Iteration 80 / LogL: -18365.478 / Time: 0h:2m:7s (0h:0m:45s left)
+Optimizing NNI: done in 1.50802 secs using 99.99% CPU
+Optimizing NNI: done in 1.10773 secs using 99.99% CPU
+Optimizing NNI: done in 1.62178 secs using 99.99% CPU
+Optimizing NNI: done in 1.5549 secs using 99.99% CPU
+Optimizing NNI: done in 1.43786 secs using 99.99% CPU
+Optimizing NNI: done in 1.47279 secs using 99.99% CPU
+Optimizing NNI: done in 1.58518 secs using 99.74% CPU
+Optimizing NNI: done in 1.51417 secs using 99.73% CPU
+Optimizing NNI: done in 1.54691 secs using 99.99% CPU
+Optimizing NNI: done in 1.34319 secs using 99.99% CPU
+Iteration 90 / LogL: -18375.810 / Time: 0h:2m:21s (0h:0m:28s left)
+Optimizing NNI: done in 1.28066 secs using 100% CPU
+Optimizing NNI: done in 1.56151 secs using 99.99% CPU
+Optimizing NNI: done in 1.45222 secs using 99.99% CPU
+Optimizing NNI: done in 1.47756 secs using 99.99% CPU
+Optimizing NNI: done in 1.72991 secs using 99.76% CPU
+Optimizing NNI: done in 1.87529 secs using 99.78% CPU
+Optimizing NNI: done in 1.42149 secs using 99.99% CPU
+Optimizing NNI: done in 1.58457 secs using 99.99% CPU
+Optimizing NNI: done in 1.31619 secs using 99.69% CPU
+Optimizing NNI: done in 1.53706 secs using 99.98% CPU
+Iteration 100 / LogL: -18368.143 / Time: 0h:2m:37s (0h:0m:12s left)
+Optimizing NNI: done in 1.59597 secs using 99.99% CPU
+Optimizing NNI: done in 1.19246 secs using 99.66% CPU
+Optimizing NNI: done in 1.52408 secs using 99.99% CPU
+Optimizing NNI: done in 1.77019 secs using 99.77% CPU
+Optimizing NNI: done in 1.3437 secs using 99.99% CPU
+Optimizing NNI: done in 1.17253 secs using 99.65% CPU
+Optimizing NNI: done in 1.06901 secs using 100% CPU
+Optimizing NNI: done in 1.30936 secs using 99.99% CPU
+Optimizing NNI: done in 1.53523 secs using 99.99% CPU
+TREE SEARCH COMPLETED AFTER 109 ITERATIONS / Time: 0h:2m:49s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -18363.396
+2. Current log-likelihood: -18363.386
+Optimal log-likelihood: -18363.378
+Proportion of invariable sites: 0.016
+Site proportion and rates:  (0.364,0.258) (0.318,0.688) (0.224,1.550) (0.079,4.306)
+Parameters optimization took 2 rounds (1.077 sec)
+BEST SCORE FOUND : -18363.378
+Total tree length: 25.415
+
+Total number of iterations: 109
+CPU time used for tree search: 167.860 sec (0h:2m:47s)
+Wall-clock time used for tree search: 168.040 sec (0h:2m:48s)
+Total CPU time used: 170.871 sec (0h:2m:50s)
+Total wall-clock time used: 171.038 sec (0h:2m:51s)
+
+Analysis results written to: 
+  IQ-TREE report:                tree/Mammalia_AKRs.iqtree
+  Maximum-likelihood tree:       tree/Mammalia_AKRs.treefile
+  Likelihood distances:          tree/Mammalia_AKRs.mldist
+  Screen log file:               tree/Mammalia_AKRs.log
+
+ALISIM COMMAND
+--------------
+--alisim simulated_MSA -t tree/Mammalia_AKRs.treefile -m "Q.plant+I{0.0156911}+R4{0.363748,0.257816,0.317562,0.687876,0.223822,1.54972,0.0791775,4.30573}" --length 693
+
+Date and Time: Mon Oct 30 04:02:53 2023
