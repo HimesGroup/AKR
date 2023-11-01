@@ -1,8 +1,8 @@
-IQ-TREE 2.2.0.3 COVID-edition built May 11 2022
+IQ-TREE 2.2.5 COVID-edition built Sep 15 2023
 
 Input file name: msa/AKR12.aln
 Type of analysis: ModelFinder + tree reconstruction
-Random seed number: 847472
+Random seed number: 273353
 
 REFERENCES
 ----------
@@ -58,7 +58,7 @@ WAG+F+R2          -2548.877    5149.754 +    0.189    5154.008 +     0.17    525
 WAG+F+I+G4        -2549.848    5151.696 +   0.0717    5155.951 +   0.0645    5252.517 - 3.51e-08
 PMB+R2            -2605.710    5225.420 - 7.03e-18    5225.741 - 4.51e-17    5252.564 - 3.43e-08
 Q.pfam+F+R2       -2549.885    5151.770 +   0.0691    5156.025 +   0.0621    5252.592 - 3.38e-08
-LG+I+I+R2         -2602.804    5221.607 - 4.73e-17    5222.021 -  2.9e-16    5252.629 - 3.32e-08
+LG+I+R2           -2602.804    5221.607 - 4.73e-17    5222.021 -  2.9e-16    5252.629 - 3.32e-08
 LG+F+G4           -2552.847    5155.694 -  0.00972    5159.621 -   0.0103    5252.637 -  3.3e-08
 LG+I              -2609.021    5230.043 - 6.97e-19    5230.283 - 4.66e-18    5253.309 - 2.36e-08
 VT+F+G4           -2553.362    5156.725 -  0.00581    5160.652 -  0.00614    5253.668 - 1.97e-08
@@ -75,7 +75,7 @@ VT+F+R2           -2553.373    5158.746 -  0.00211    5163.001 -   0.0019    525
 LG+F+I+G4         -2553.651    5159.302 -   0.0016    5163.557 -  0.00144    5260.123 - 7.82e-10
 VT+F+I+G4         -2554.285    5160.570 - 0.000849    5164.824 - 0.000763    5261.391 - 4.15e-10
 Blosum62+R2       -2610.178    5234.355 - 8.07e-20    5234.676 - 5.18e-19    5261.499 - 3.93e-10
-LG+I+I+R3         -2601.954    5223.909 -  1.5e-17    5224.545 - 8.21e-17    5262.686 - 2.17e-10
+LG+I+R3           -2601.954    5223.909 -  1.5e-17    5224.545 - 8.21e-17    5262.686 - 2.17e-10
 PMB+F+G4          -2557.896    5165.793 - 6.23e-05    5169.720 - 6.59e-05    5262.736 - 2.12e-10
 JTT+R2            -2610.935    5235.869 - 3.78e-20    5236.190 - 2.43e-19    5263.014 - 1.84e-10
 Blosum62+I+G4     -2611.034    5236.068 - 3.42e-20    5236.389 -  2.2e-19    5263.212 - 1.67e-10
@@ -264,10 +264,26 @@ Tree in newick format:
 
 (AKR12A1|AAD41821.1|Streptomyces:0.2003355535,AKR12B1|AAB84068.1|Saccharopolyspora:0.1691375732,(AKR12C1|BAA84599.1|Streptomyces:0.3285367674,AKR12D1|AAK90112.1|Agrobacterium:1.5944623546):0.1632969555);
 
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t tree/AKR12.treefile -m "Q.pfam+G4{2.13596}" --length 357
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s msa/AKR12.aln --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s msa/AKR12.aln --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
 TIME STAMP
 ----------
 
-Date and time: Sun Oct 29 20:29:01 2023
-Total CPU time used: 0.424648 seconds (0h:0m:0s)
-Total wall-clock time used: 0.421932 seconds (0h:0m:0s)
+Date and time: Tue Oct 31 17:48:09 2023
+Total CPU time used: 0.677121 seconds (0h:0m:0s)
+Total wall-clock time used: 0.686759 seconds (0h:0m:0s)
 

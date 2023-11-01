@@ -1,8 +1,8 @@
-IQ-TREE 2.2.0.3 COVID-edition built May 11 2022
+IQ-TREE 2.2.5 COVID-edition built Sep 15 2023
 
 Input file name: msa/Insecta_AKRs.aln
 Type of analysis: ModelFinder + tree reconstruction
-Random seed number: 100501
+Random seed number: 724548
 
 REFERENCES
 ----------
@@ -45,8 +45,8 @@ Q.pfam+G4         -7234.530   14505.060 -  0.00931   14506.187 -   0.0099   1458
 Q.pfam+I+G4       -7233.027   14504.054 -   0.0154   14505.308 -   0.0154   14588.402 -  0.00383
 LG+R2             -7235.237   14508.475 -  0.00169   14509.729 -  0.00168   14592.822 -  0.00042
 LG+R3             -7229.422   14500.843 +   0.0767   14502.373 +   0.0667   14594.070 - 0.000225
-LG+I+I+R2         -7232.708   14505.416 -  0.00779   14506.805 -  0.00727   14594.203 -  0.00021
-LG+I+I+R3         -7228.603   14501.206 +    0.064   14502.884 +   0.0516   14598.871 - 2.04e-05
+LG+I+R2           -7232.708   14505.416 -  0.00779   14506.805 -  0.00727   14594.203 -  0.00021
+LG+I+R3           -7228.603   14501.206 +    0.064   14502.884 +   0.0516   14598.871 - 2.04e-05
 WAG+G4            -7248.619   14533.238 - 7.08e-09   14534.365 - 7.53e-09   14613.146 - 1.62e-08
 WAG+I+G4          -7245.884   14529.767 - 4.02e-08   14531.021 - 4.01e-08   14614.115 - 9.98e-09
 VT+G4             -7263.841   14563.683 - 1.73e-15   14564.810 - 1.84e-15   14643.591 - 3.97e-15
@@ -173,58 +173,74 @@ Model of substitution: LG+G4
 State frequencies: (model)
 
 Model of rate heterogeneity: Gamma with 4 categories
-Gamma shape alpha: 1.3195
+Gamma shape alpha: 1.3211
 
  Category  Relative_rate  Proportion
-  1         0.1960         0.2500
-  2         0.5555         0.2500
-  3         1.0378         0.2500
-  4         2.2107         0.2500
+  1         0.1963         0.2500
+  2         0.5558         0.2500
+  3         1.0379         0.2500
+  4         2.2100         0.2500
 Relative rates are computed as MEAN of the portion of the Gamma distribution falling in the category.
 
 MAXIMUM LIKELIHOOD TREE
 -----------------------
 
-Log-likelihood of the tree: -7230.8056 (s.e. 230.7387)
+Log-likelihood of the tree: -7230.8045 (s.e. 230.7817)
 Unconstrained log-likelihood (without tree): -3477.8127
 Number of free parameters (#branches + #model parameters): 18
-Akaike information criterion (AIC) score: 14497.6111
-Corrected Akaike information criterion (AICc) score: 14498.7380
-Bayesian information criterion (BIC) score: 14577.5194
+Akaike information criterion (AIC) score: 14497.6090
+Corrected Akaike information criterion (AICc) score: 14498.7358
+Bayesian information criterion (BIC) score: 14577.5173
 
-Total tree length (sum of branch lengths): 9.3100
-Sum of internal branch lengths: 1.1917 (12.7998% of tree length)
+Total tree length (sum of branch lengths): 9.2280
+Sum of internal branch lengths: 1.2934 (14.0155% of tree length)
 
 NOTE: Tree is UNROOTED although outgroup taxon 'AKR1H1|AFV36370.1|Reticulitermes' is drawn at root
 
-+------AKR1H1|AFV36370.1|Reticulitermes
++-------AKR1H1|AFV36370.1|Reticulitermes
 |
-|  +---------------------AKR1I1|5KET_A|Coptotermes
-+--|
-|  |     +------------AKR2E1|CAB41997.1|Spodoptera
-|  |  +--|
-|  |  |  |          +--------AKR2E2|AAL73387.1|Trichoplusia
-|  |  |  |  +-------|
-|  |  |  |  |       +---AKR2E4|BAL70378.1|Bombyx
-|  |  |  +--|
-|  |  |     |  +-------------AKR2E5|BAR91212.1|Bombyx
-|  |  |     +--|
-|  |  |        |    +--------AKR2E6|BBD35022.1|Bombyx
-|  |  |        +----|
-|  |  |             +------AKR2E7|BCN86447.1|Bombyx
+|     +-------------------AKR1I1|5KET_A|Coptotermes
 |  +--|
-|     +------------------------------------------------------AKR6B1|AAC46631.1|Drosophila
+|  |  +------------------------------------------------------AKR6B1|AAC46631.1|Drosophila
++--|
+|  |         +------------AKR2E1|CAB41997.1|Spodoptera
+|  |      +--|
+|  |      |  +-------------AKR2E5|BAR91212.1|Bombyx
+|  |   +--|
+|  |   |  |       +--------AKR2E2|AAL73387.1|Trichoplusia
+|  |   |  +-------|
+|  |   |          +---AKR2E4|BAL70378.1|Bombyx
+|  +---|
+|      |    +--------AKR2E6|BBD35022.1|Bombyx
+|      +----|
+|           +------AKR2E8|BCN86447.1|Bombyx
 |
 +----------AKR2E3|AAD38635.1|Drosophila
 
 Tree in newick format:
 
-(AKR1H1|AFV36370.1|Reticulitermes:0.4077365232,(AKR1I1|5KET_A|Coptotermes:1.1403588865,((AKR2E1|CAB41997.1|Spodoptera:0.7218054043,((AKR2E2|AAL73387.1|Trichoplusia:0.5043796334,AKR2E4|BAL70378.1|Bombyx:0.2457347535):0.4293654488,(AKR2E5|BAR91212.1|Bombyx:0.7609664231,(AKR2E6|BBD35022.1|Bombyx:0.5023061113,AKR2E7|BCN86447.1|Bombyx:0.3689188514):0.2693109035):0.0437310760):0.0448941854):0.1599923383,AKR6B1|AAC46631.1|Drosophila:2.8604370514):0.1017062567):0.1426528421,AKR2E3|AAD38635.1|Drosophila:0.6056670030);
+(AKR1H1|AFV36370.1|Reticulitermes:0.4187919079,((AKR1I1|5KET_A|Coptotermes:1.0638086042,AKR6B1|AAC46631.1|Drosophila:2.8227206895):0.0755340985,(((AKR2E1|CAB41997.1|Spodoptera:0.6953062562,AKR2E5|BAR91212.1|Bombyx:0.7262223530):0.0675073379,(AKR2E2|AAL73387.1|Trichoplusia:0.5009055185,AKR2E4|BAL70378.1|Bombyx:0.2462464604):0.4219274698):0.0533710511,(AKR2E6|BBD35022.1|Bombyx:0.4930679525,AKR2E8|BCN86447.1|Bombyx:0.3766405408):0.2666699838):0.2435659567):0.1647793682,AKR2E3|AAD38635.1|Drosophila:0.5909544429);
+
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t tree/Insecta_AKRs.treefile -m "LG+G4{1.32112}" --length 626
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s msa/Insecta_AKRs.aln --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s msa/Insecta_AKRs.aln --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
 
 TIME STAMP
 ----------
 
-Date and time: Mon Oct 30 03:55:46 2023
-Total CPU time used: 7.23734 seconds (0h:0m:7s)
-Total wall-clock time used: 7.23547 seconds (0h:0m:7s)
+Date and time: Wed Nov  1 02:00:37 2023
+Total CPU time used: 11.1687 seconds (0h:0m:11s)
+Total wall-clock time used: 11.1787 seconds (0h:0m:11s)
 

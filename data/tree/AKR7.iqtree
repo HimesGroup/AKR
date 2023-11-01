@@ -1,8 +1,8 @@
-IQ-TREE 2.2.0.3 COVID-edition built May 11 2022
+IQ-TREE 2.2.5 COVID-edition built Sep 15 2023
 
 Input file name: msa/AKR7.aln
 Type of analysis: ModelFinder + tree reconstruction
-Random seed number: 474760
+Random seed number: 904229
 
 REFERENCES
 ----------
@@ -87,7 +87,7 @@ HIVb+R2           -1986.610    3991.221 - 8.88e-13    3991.718 -  8.7e-13    402
 HIVb+I+G4         -1986.616    3991.232 - 8.83e-13    3991.730 - 8.65e-13    4026.502 - 1.62e-13
 LG+R2             -1986.726    3991.451 - 7.91e-13    3991.948 - 7.75e-13    4026.721 - 1.45e-13
 LG+I+G4           -1987.283    3992.566 - 4.53e-13    3993.063 - 4.44e-13    4027.836 -  8.3e-14
-LG+I+I+R2         -1987.124    3994.248 - 1.95e-13    3994.858 - 1.81e-13    4033.437 - 5.04e-15
+LG+I+R2           -1987.124    3994.248 - 1.95e-13    3994.858 - 1.81e-13    4033.437 - 5.04e-15
 cpREV+I           -1994.509    4005.018 - 8.96e-16    4005.414 - 9.23e-16    4036.369 - 1.16e-15
 cpREV+G4          -1994.582    4005.164 - 8.33e-16    4005.561 - 8.58e-16    4036.516 - 1.08e-15
 LG+R3             -1986.775    3995.551 - 1.02e-13    3996.284 - 8.87e-14    4038.659 - 3.71e-16
@@ -96,7 +96,7 @@ cpREV+R2          -1994.344    4006.687 - 3.89e-16    4007.184 - 3.81e-16    404
 cpREV+I+G4        -1994.376    4006.753 - 3.76e-16    4007.250 - 3.69e-16    4042.023 - 6.89e-17
 FLAVI+G4          -1997.628    4011.256 - 3.96e-17    4011.653 - 4.08e-17    4042.607 - 5.14e-17
 PMB+I             -1998.026    4012.052 - 2.66e-17    4012.449 - 2.74e-17    4043.403 - 3.46e-17
-LG+I+I+R3         -1986.974    3997.948 - 3.07e-14    3998.817 -  2.5e-14    4044.974 - 1.58e-17
+LG+I+R3           -1986.974    3997.948 - 3.07e-14    3998.817 -  2.5e-14    4044.974 - 1.58e-17
 FLAVI+R2          -1995.977    4009.954 - 7.59e-17    4010.451 - 7.44e-17    4045.224 - 1.39e-17
 PMB+G4            -1999.350    4014.700 - 7.08e-18    4015.097 - 7.29e-18    4046.051 - 9.19e-18
 FLAVI+I+G4        -1997.001    4012.002 - 2.73e-17    4012.500 - 2.67e-17    4047.272 - 4.99e-18
@@ -318,10 +318,26 @@ Tree in newick format:
 
 (AKR7A1|P38918.2|Rattus:0.2170032967,(AKR7A2|NP_003680.2|Homo:0.0210480039,(AKR7A4|BAA90396.1|Rattus:0.0591793800,AKR7A5|BAB23073.1|Mus:0.0889018676):0.0831917084):0.0778087175,AKR7A3|NP_036199.2|Homo:0.0544812756);
 
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t tree/AKR7.treefile -m "JTT+I{0.510224}" --length 372
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s msa/AKR7.aln --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s msa/AKR7.aln --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
 TIME STAMP
 ----------
 
-Date and time: Sun Oct 29 20:33:48 2023
-Total CPU time used: 0.167744 seconds (0h:0m:0s)
-Total wall-clock time used: 0.157513 seconds (0h:0m:0s)
+Date and time: Tue Oct 31 17:55:30 2023
+Total CPU time used: 0.241008 seconds (0h:0m:0s)
+Total wall-clock time used: 0.244877 seconds (0h:0m:0s)
 

@@ -1,18 +1,18 @@
-IQ-TREE multicore version 2.2.0.3 COVID-edition for Linux 64-bit built May 11 2022
+IQ-TREE multicore version 2.2.5 COVID-edition for Linux 64-bit built Sep 15 2023
 Developed by Bui Quang Minh, James Barbetti, Nguyen Lam Tung,
 Olga Chernomor, Heiko Schmidt, Dominik Schrempf, Michael Woodhams, Ly Trong Nhan.
 
-Host:    H1 (AVX2, FMA3, 31 GB RAM)
+Host:    ceb-khas-002 (AVX2, FMA3, 15 GB RAM)
 Command: iqtree -s msa/AKR15.aln --prefix tree/AKR15
-Seed:    964950 (Using SPRNG - Scalable Parallel Random Number Generator)
-Time:    Sun Oct 29 20:29:06 2023
+Seed:    96040 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Tue Oct 31 17:48:18 2023
 Kernel:  AVX+FMA - 1 threads (16 CPU cores detected)
 
 HINT: Use -nt option to specify number of threads because your CPU has 16 cores!
 HINT: -nt AUTO will automatically determine the best number of threads to use.
 
 Reading alignment file msa/AKR15.aln ... Fasta format detected
-Reading fasta file: done in 1.3621e-05 secs
+Reading fasta file: done in 2.23e-05 secs using 94.17% CPU
 Alignment most likely contains protein sequences
-Constructing alignment: done in 8.0565e-05 secs
+Constructing alignment: done in 0.0001119 secs using 99.2% CPU
 ERROR: Alignment must have at least 3 sequences

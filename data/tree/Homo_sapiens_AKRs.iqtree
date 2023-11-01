@@ -1,8 +1,8 @@
-IQ-TREE 2.2.0.3 COVID-edition built May 11 2022
+IQ-TREE 2.2.5 COVID-edition built Sep 15 2023
 
 Input file name: msa/Homo_sapiens_AKRs.aln
 Type of analysis: ModelFinder + tree reconstruction
-Random seed number: 333651
+Random seed number: 136462
 
 REFERENCES
 ----------
@@ -43,9 +43,9 @@ Q.pfam+G4         -7206.311   14468.623 -   0.0283   14471.923 +    0.165   1458
 LG+G4             -7206.752   14469.503 -   0.0182   14472.804 +    0.107   14588.664 +    0.345
 Q.pfam+I+G4       -7205.327   14468.655 -   0.0279   14472.198 +    0.144   14592.071 +   0.0628
 LG+I+G4           -7205.488   14468.976 -   0.0237   14472.520 +    0.123   14592.393 +   0.0535
-LG+I+I+R2         -7205.964   14471.929 -  0.00542   14475.724 -   0.0247   14599.601 -  0.00146
+LG+I+R2           -7205.964   14471.929 -  0.00542   14475.724 -   0.0247   14599.601 -  0.00146
 LG+R3             -7202.957   14467.914 -   0.0404   14471.971 +    0.162   14599.842 -  0.00129
-LG+I+I+R3         -7202.853   14469.707 -   0.0165   14474.035 +   0.0576   14605.891 - 6.27e-05
+LG+I+R3           -7202.853   14469.707 -   0.0165   14474.035 +   0.0576   14605.891 - 6.27e-05
 LG+R2             -7212.886   14483.771 - 1.45e-05   14487.315 - 7.53e-05   14607.188 - 3.28e-05
 LG+R4             -7202.637   14471.274 -  0.00752   14475.882 -   0.0229   14611.714 - 3.41e-06
 WAG+G4            -7224.345   14504.689 - 4.17e-10   14507.990 - 2.44e-09   14623.850 - 7.89e-09
@@ -174,27 +174,27 @@ Model of substitution: Q.pfam+G4
 State frequencies: (model)
 
 Model of rate heterogeneity: Gamma with 4 categories
-Gamma shape alpha: 1.9287
+Gamma shape alpha: 1.9296
 
  Category  Relative_rate  Proportion
-  1         0.2846         0.2500
-  2         0.6472         0.2500
+  1         0.2847         0.2500
+  2         0.6473         0.2500
   3         1.0681         0.2500
-  4         2.0001         0.2500
+  4         1.9998         0.2500
 Relative rates are computed as MEAN of the portion of the Gamma distribution falling in the category.
 
 MAXIMUM LIKELIHOOD TREE
 -----------------------
 
-Log-likelihood of the tree: -7205.9427 (s.e. 200.8173)
+Log-likelihood of the tree: -7205.9441 (s.e. 200.8166)
 Unconstrained log-likelihood (without tree): -3194.2463
 Number of free parameters (#branches + #model parameters): 28
-Akaike information criterion (AIC) score: 14467.8854
-Corrected Akaike information criterion (AICc) score: 14471.1862
-Bayesian information criterion (BIC) score: 14587.0464
+Akaike information criterion (AIC) score: 14467.8883
+Corrected Akaike information criterion (AICc) score: 14471.1891
+Bayesian information criterion (BIC) score: 14587.0493
 
-Total tree length (sum of branch lengths): 8.1062
-Sum of internal branch lengths: 5.6608 (69.8328% of tree length)
+Total tree length (sum of branch lengths): 8.1048
+Sum of internal branch lengths: 5.6593 (69.8265% of tree length)
 
 NOTE: Tree is UNROOTED although outgroup taxon 'AKR1A1|NP_006057.1|Homo' is drawn at root
 
@@ -230,12 +230,28 @@ NOTE: Tree is UNROOTED although outgroup taxon 'AKR1A1|NP_006057.1|Homo' is draw
 
 Tree in newick format:
 
-(AKR1A1|NP_006057.1|Homo:0.4743128546,(((AKR1B1|NP_001619.1|Homo:0.1739066417,(AKR1B10|NP_064695.3|Homo:0.0094270813,AKR1B15|EAL24068.1|Homo:0.0901491947):0.2537956996):0.0860963583,AKR1E2|Q96JD6.2|Homo:0.5109339772):0.1609822970,((((AKR1C1|NP_001344.2|Homo:0.0034357854,AKR1C2|NP_001345.1|Homo:0.0200444697):0.0712429526,AKR1C3|NP_003730.4|Homo:0.0779902630):0.0388919173,AKR1C4|P17516.3|Homo:0.1042315373):0.3391051014,AKR1D1|NP_005980.1|Homo:0.3511152293):0.2438417844):0.1926210047,(((AKR6A3||S66503|Homo:0.1228225075,AKR6A9|NP_004723.2|Homo:0.3069583414):0.0747985286,AKR6A5|AAB99859.1|Homo:0.0480848728):1.3855873656,(AKR7A2|NP_003680.2|Homo:0.0174409578,AKR7A3|NP_036199.2|Homo:0.1345520270):1.4815554122):1.3322555882);
+(AKR1A1|NP_006057.1|Homo:0.4739660141,(((AKR1B1|NP_001619.1|Homo:0.1738916308,(AKR1B10|NP_064695.3|Homo:0.0094271654,AKR1B15|EAL24068.1|Homo:0.0901460883):0.2537894735):0.0861075553,AKR1E2|Q96JD6.2|Homo:0.5108886622):0.1609373362,((((AKR1C1|NP_001344.2|Homo:0.0034357896,AKR1C2|NP_001345.1|Homo:0.0200442755):0.0712421760,AKR1C3|NP_003730.4|Homo:0.0779886483):0.0388866028,AKR1C4|P17516.3|Homo:0.1042324318):0.3390970811,AKR1D1|NP_005980.1|Homo:0.3510934347):0.2438118314):0.1929959235,(((AKR6A3||S66503|Homo:0.1228145143,AKR6A9|NP_004723.2|Homo:0.3069420812):0.0743153218,AKR6A5|AAB99859.1|Homo:0.0486220557):1.3852005486,(AKR7A2|NP_003680.2|Homo:0.0179329798,AKR7A3|NP_036199.2|Homo:0.1340801304):1.4806636797):1.3322648270);
+
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t tree/Homo_sapiens_AKRs.treefile -m "Q.pfam+G4{1.92961}" --length 521
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s msa/Homo_sapiens_AKRs.aln --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s msa/Homo_sapiens_AKRs.aln --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
 
 TIME STAMP
 ----------
 
-Date and time: Mon Oct 30 20:23:46 2023
-Total CPU time used: 18.9511 seconds (0h:0m:18s)
-Total wall-clock time used: 19.0265 seconds (0h:0m:19s)
+Date and time: Wed Nov  1 02:00:12 2023
+Total CPU time used: 21.9089 seconds (0h:0m:21s)
+Total wall-clock time used: 21.9177 seconds (0h:0m:21s)
 
