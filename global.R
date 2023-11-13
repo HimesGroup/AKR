@@ -35,7 +35,8 @@ mandatory_star <- function(label) {
 
 read_akr_msa <- function(aln, format = "fasta") {
   x <- readAAMultipleAlignment(aln, format = format)
-  rownames(x) <- sub("^(AKR)(\\d+)(.*)", "\\1\\2", rownames(x))
+  rownames(x) <- sub("(.*?)\\|(.*)", "\\1", rownames(x))
+  ## rownames(x) <- sub("^(AKR)(\\d+)(.*)", "\\1\\2", rownames(x))
   x
 }
 
