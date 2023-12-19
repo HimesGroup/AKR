@@ -4,15 +4,15 @@ Olga Chernomor, Heiko Schmidt, Dominik Schrempf, Michael Woodhams, Ly Trong Nhan
 
 Host:    ceb-khas-002 (AVX2, FMA3, 15 GB RAM)
 Command: iqtree -s msa/AKR15.aln --prefix tree/AKR15
-Seed:    96040 (Using SPRNG - Scalable Parallel Random Number Generator)
-Time:    Tue Oct 31 17:48:18 2023
+Seed:    951745 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Tue Dec 19 09:46:09 2023
 Kernel:  AVX+FMA - 1 threads (16 CPU cores detected)
 
 HINT: Use -nt option to specify number of threads because your CPU has 16 cores!
 HINT: -nt AUTO will automatically determine the best number of threads to use.
 
 Reading alignment file msa/AKR15.aln ... Fasta format detected
-Reading fasta file: done in 2.23e-05 secs using 94.17% CPU
+Reading fasta file: done in 4.11e-05 secs using 99.76% CPU
 Alignment most likely contains protein sequences
-Constructing alignment: done in 0.0001119 secs using 99.2% CPU
+Constructing alignment: done in 0.0001855 secs using 99.73% CPU
 ERROR: Alignment must have at least 3 sequences

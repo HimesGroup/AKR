@@ -2,7 +2,7 @@ IQ-TREE 2.2.5 COVID-edition built Sep 15 2023
 
 Input file name: msa/AKR11.aln
 Type of analysis: ModelFinder + tree reconstruction
-Random seed number: 503735
+Random seed number: 132470
 
 REFERENCES
 ----------
@@ -380,7 +380,7 @@ NOTE: Tree is UNROOTED although outgroup taxon 'AKR11A1|P46336.1|Bacillus' is dr
 
 Tree in newick format:
 
-(AKR11A1|P46336.1|Bacillus:0.2389152102,((((AKR11B1|P80874.2|Bacillus:0.2584493161,(AKR11B4|WP_011253139.1|Gluconobacter:0.3763957655,AKR11E1|NP_249818.1|Pseudomonas:0.2899670822):0.1923392540):0.5421208335,AKR11B2|P77256.1|Escherichia:0.9809196841):0.0997509166,AKR11B3|ABC69170.1|Synechococcus:0.8455841661):0.2260958306,AKR11C1|Q9KE47|Bacillus:1.3647138157):0.5375006920,AKR11D1|ALM30350.1|Bacillus:0.3314641061);
+(AKR11A1|P46336.1|Bacillus:0.2389152352,((((AKR11B1|P80874.2|Bacillus:0.2584492409,(AKR11B4|WP_011253139.1|Gluconobacter:0.3763959676,AKR11E1|NP_249818.1|Pseudomonas:0.2899674828):0.1923391683):0.5421208335,AKR11B2|P77256.1|Escherichia:0.9809196078):0.0997508454,AKR11B3|ABC69170.1|Synechococcus:0.8455831042):0.2260961886,AKR11C1|Q9KE47|Bacillus:1.3647137075):0.5375005874,AKR11D1|ALM30350.1|Bacillus:0.3314640485);
 
 ALISIM COMMAND
 --------------
@@ -401,7 +401,7 @@ For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
 TIME STAMP
 ----------
 
-Date and time: Tue Oct 31 17:48:03 2023
-Total CPU time used: 5.02207 seconds (0h:0m:5s)
-Total wall-clock time used: 5.02273 seconds (0h:0m:5s)
+Date and time: Tue Dec 19 09:45:54 2023
+Total CPU time used: 5.03533 seconds (0h:0m:5s)
+Total wall-clock time used: 5.04521 seconds (0h:0m:5s)
 

@@ -928,6 +928,21 @@ K-----------------------------RIAKEHGKSPAQI---LIRFQIQRNVI---
 ---------------------------------------VIPG-----------------
 -------------SITPSHIKENIQVFDF--ELTQHDMDNILSLNR-----NLRLAMFPI
 TKN---------HKDYPFHIEY------------------------------
+>AKR1F1|AAD38635.1|Drosophila melanogaster|Animalia|Insecta|Diptera
+------MS----------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------------------SKIPYVKHNNGTQIQ------SI
+GLGTYT----------------------SLGGDCERATLHAIDVGYR----HIDTAYFY-
+--ENENEVGAAVQRKIAEG-VIKREDIHITTK------LWCHF------HEPKRVEYACR
+KTLQ--------NFGLQYVDLYLMHWPYSYVYRG--------------------------
+--------------DN-------------------EMMPTDAKGEVELN-DIDYLDTWRE
+MEKLVELGLTKSIGVSNFNSEQLTRLL--ANCK--IKPIHN-QIECHPALNQ------KK
+LIALCKKNDIVVTAYCPLGRP--------NP----AEKTP------------NYIYDAKV
+Q-----------------------------AIGDKYKKSTAQV---VLRYLIEIGTI---
+---------------------------------------PLPK-----------------
+-------------SSNPKRIEENFQIFDF--QLDAEDHAILDSYNT-----GERLIPMTH
+AIK---------SKNYPFNIEF------------------------------
 >AKR1G1|NP_509242.1|Caenorhabditis elegans|Animalia|Chromadorea|Rhabditida
 ------MS----------------------------------------------------
 ------------------------------------------------------------
@@ -1003,21 +1018,6 @@ A-----------------------------DIARKYNKTVNQV---LVRYLLERSLI---
 ---------------------------------------PIPK-----------------
 -------------STNQQRIRENIDVFDF--QLSPEDINAIGKLDK-----DLSIFD---
 ----------------------------------------------------
->AKR2E3|AAD38635.1|Drosophila melanogaster|Animalia|Insecta|Diptera
-------MS----------------------------------------------------
-------------------------------------------------------------
-------------------------------------------------------------
--------------------------------------SKIPYVKHNNGTQIQ------SI
-GLGTYT----------------------SLGGDCERATLHAIDVGYR----HIDTAYFY-
---ENENEVGAAVQRKIAEG-VIKREDIHITTK------LWCHF------HEPKRVEYACR
-KTLQ--------NFGLQYVDLYLMHWPYSYVYRG--------------------------
---------------DN-------------------EMMPTDAKGEVELN-DIDYLDTWRE
-MEKLVELGLTKSIGVSNFNSEQLTRLL--ANCK--IKPIHN-QIECHPALNQ------KK
-LIALCKKNDIVVTAYCPLGRP--------NP----AEKTP------------NYIYDAKV
-Q-----------------------------AIGDKYKKSTAQV---VLRYLIEIGTI---
----------------------------------------PLPK-----------------
--------------SSNPKRIEENFQIFDF--QLDAEDHAILDSYNT-----GERLIPMTH
-AIK---------SKNYPFNIEF------------------------------
 >AKR2E4|BAL70378.1|Bombyx mori|Animalia|Insecta|Lepidoptera
 ------MA----------------------------------------------------
 ------------------------------------------------------------

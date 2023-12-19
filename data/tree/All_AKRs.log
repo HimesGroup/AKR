@@ -4,852 +4,691 @@ Olga Chernomor, Heiko Schmidt, Dominik Schrempf, Michael Woodhams, Ly Trong Nhan
 
 Host:    ceb-khas-002 (AVX2, FMA3, 15 GB RAM)
 Command: iqtree -s msa/All_AKRs.aln --prefix tree/All_AKRs
-Seed:    800691 (Using SPRNG - Scalable Parallel Random Number Generator)
-Time:    Tue Oct 31 17:55:52 2023
+Seed:    589245 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Tue Dec 19 09:52:53 2023
 Kernel:  AVX+FMA - 1 threads (16 CPU cores detected)
 
 HINT: Use -nt option to specify number of threads because your CPU has 16 cores!
 HINT: -nt AUTO will automatically determine the best number of threads to use.
 
 Reading alignment file msa/All_AKRs.aln ... Fasta format detected
-Reading fasta file: done in 0.0033957 secs using 99.98% CPU
+Reading fasta file: done in 0.0031611 secs
 Alignment most likely contains protein sequences
-Constructing alignment: done in 0.0021636 secs using 20.94% CPU
-Alignment has 205 sequences with 956 columns, 783 distinct patterns
-497 parsimony-informative, 150 singleton sites, 309 constant sites
+Constructing alignment: done in 0.0020571 secs
+Alignment has 207 sequences with 979 columns, 775 distinct patterns
+501 parsimony-informative, 138 singleton sites, 340 constant sites
                                                                      Gap/Ambiguity  Composition  p-value
-Analyzing sequences: done in 0.0004986 secs
-   1  AKR1A1|NP_006057.1|Homo                                               66.00%    passed     92.01%
-   2  AKR1A2|P50578.3|Sus                                                   66.00%    passed     87.69%
-   3  AKR1A3|P51635.2|Rattus                                                66.00%    passed     95.02%
-   4  AKR1A4|NP_067448.1|Mus                                                66.00%    passed     92.58%
-   5  AKR1B1|NP_001619.1|Homo                                               66.95%    passed     99.47%
-   6  AKR1B2|P15122.3|Oryctolagus|cuniculus|Animalia|Mammalia|Lagomorpha    66.95%    passed     98.64%
-   7  AKR1B3|P45376.3|Mus                                                   66.95%    passed     94.66%
-   8  AKR1B4|NP_036630.1|Rattus                                             66.95%    passed     93.71%
-   9  AKR1B5|P16116.2|Bos                                                   67.05%    passed     77.38%
-  10  AKR1B6|P80276.2|Sus                                                   66.95%    passed     95.05%
-  11  AKR1B7|P21300.4|Mus                                                   66.95%    passed     87.13%
-  12  AKR1B8|NP_032038.1|Mus                                                66.95%    passed     82.06%
-  13  AKR1B9|AAC53199.1|Cricetulus                                          66.95%    passed     90.16%
-  14  AKR1B10|NP_064695.3|Homo                                              66.95%    passed     82.77%
-  15  AKR1B12|CAC40811.1|Gallus                                             66.84%    passed     41.73%
-  16  AKR1B13|CAC80649.1|Rattus                                             66.95%    passed     77.66%
-  17  AKR1B14|NP_446233.2|Rattus                                            66.95%    passed     75.19%
-  18  AKR1B15|EAL24068.1|Homo                                               62.13%    passed     24.24%
-  19  AKR1B18|NP_001013102.1|Rattus                                         66.95%    passed     79.01%
-  20  AKR1B19|NP_001254517.1|Oryctolagus                                    66.95%    passed     70.51%
-  21  AKR1C1|NP_001344.2|Homo                                               66.21%    passed     74.77%
-  22  AKR1C2|NP_001345.1|Homo                                               66.21%    passed     75.09%
-  23  AKR1C3|NP_003730.4|Homo                                               66.21%    passed     81.64%
-  24  AKR1C4|P17516.3|Homo                                                  66.21%    passed     51.78%
-  25  AKR1C5|P80508.1|Oryctolagus                                           66.21%    passed     95.51%
-  26  AKR1C6|NP_085114.1|Mus                                                66.21%    passed     76.72%
-  27  AKR1C7|P05980.3|Bos                                                   66.21%    passed     44.41%
-  28  AKR1C8|P51652.1|Rattus                                                66.21%    passed     33.52%
-  29  AKR1C9|P23457.1|Rattus                                                66.32%    passed     50.29%
-  30  AKR1C10a|P02532.3|Rana                                                66.11%    passed     79.66%
-  31  AKR1C10b|P17264.2|Rana                                                66.11%    passed     76.73%
-  32  AKR1C11|BAA13690.1|Bos                                                66.21%    passed     83.22%
-  33  AKR1C12|NP_038805.2|Mus                                               66.21%    passed     15.33%
-  34  AKR1C13|NP_038806.2|Mus                                               66.21%    passed     16.86%
-  35  AKR1C14|NP_598833.1|Mus                                               66.21%    passed     68.72%
-  36  AKR1C15|2008147B|Rattus                                               66.21%    passed     87.82%
-  37  AKR1C16|2008147A|Rattus                                               66.74%    passed     33.92%
-  38  AKR1C17|2008147C|Rattus                                               66.42%    passed     34.34%
-  39  AKR1C18|NP_001333464.1|Mus                                            68.93%    passed     29.95%
-  40  AKR1C19|NP_001013807.2|Mus                                            66.21%    passed     67.32%
-  41  AKR1C20|NP_473421.1|Mus                                               72.59%    passed     66.87%
-  42  AKR1C21|NP_084177.2|Mus                                               66.21%    passed     91.29%
-  43  AKR1C22|BAD02825.1|Mus                                                66.21%    passed     13.19%
-  44  AKR1C23|AAY16444.1|Equus                                              66.32%    passed     98.56%
-  45  AKR1C24|BAE75957.1|Rattus                                             66.21%    passed     24.21%
-  46  AKR1C25|BAB63209.2|Macaca                                             66.21%    passed     35.74%
-  47  AKR1C26|BAM37087.1|Oryctolagus                                        66.21%    passed     93.08%
-  48  AKR1C27|BAM37088.1|Oryctolagus                                        66.21%    passed     78.87%
-  49  AKR1C28|BAM37089.1|Oryctolagus                                        66.21%    passed     79.80%
-  50  AKR1C29|BAN20006.1|Oryctolagus                                        66.21%    passed     94.47%
-  51  AKR1C30|BAN84250.1|Oryctolagus                                        66.21%    passed     98.74%
-  52  AKR1C31|BAN84251.1|Oryctolagus                                        66.21%    passed     97.68%
-  53  AKR1C32|BAN84252.1|Oryctolagus                                        66.21%    passed     96.38%
-  54  AKR1C33|BAN84253.1|Oryctolagus                                        66.32%    passed     83.33%
-  55  AKR1C34|BAP76082.1|Mesocricetus                                       66.21%    passed     60.45%
-  56  AKR1C35|BAP76083.1|Mesocricetus                                       66.21%    passed     31.51%
-  57  AKR1D1|NP_005980.1|Homo                                               65.90%    passed     98.12%
-  58  AKR1D2|NP_620239.2|Rattus                                             66.00%    passed     82.02%
-  59  AKR1D3|BAA82867.1|Oryctolagus                                         65.90%    passed     64.62%
-  60  AKR1D4|NP_663397.1|Mus                                                47.18%    failed      1.21%
-  61  AKR1E1|AAB37274.1|Mus                                                 68.51%    passed     65.27%
-  62  AKR1E2|Q96JD6.2|Homo                                                  66.53%    passed     48.81%
-  63  AKR1G1|NP_509242.1|Caenorhabditis                                     66.84%    passed     86.86%
-  64  AKR1H1|AFV36370.1|Reticulitermes                                      64.96%    passed     54.47%
-  65  AKR1I1|5KET_A|Coptotermes                                             64.44%    passed     98.09%
-  66  AKR2A1|P28475.1|Malus                                                 67.57%    passed     90.88%
-  67  AKR2A2|AAB97617.1|Apium                                               67.68%    passed     81.49%
-  68  AKR2A3|QLF98851.1|Oryza                                               65.90%    passed     41.34%
-  69  AKR2B1|P31867.1|Scheffersomyces                                       66.74%    passed     68.05%
-  70  AKR2B2|P49378.1|Kluyveromyces                                         65.59%    passed     86.03%
-  71  AKR2B3|P78736.1|Pachysolen                                            66.74%    passed     38.60%
-  72  AKR2B4|BAA19477.1|Candida                                             66.11%    passed     10.50%
-  73  AKR2B5|AAC25601.1|Yamadazyma                                          66.32%    passed     48.92%
-  74  AKR2B6|NP_011972.1|Saccharomyces                                      65.79%    passed     85.42%
-  75  AKR2B7|BAA19476.1|Candida                                             66.11%    passed     10.57%
-  76  AKR2B8|AAD09330.1|Meyerozyma                                          66.84%    passed     17.01%
-  77  AKR2B9|XP_460932.1|Debaryomyces                                       66.84%    passed     32.73%
-  78  AKR2B10|ALD19729.1|Debaryomyces                                       66.53%    passed     34.08%
-  79  AKR2C1|CAA98021.1|Mucor                                               66.42%    passed     94.67%
-  80  AKR2C2|AHG97682.1|Rhizopus                                            66.53%    passed     90.93%
-  81  AKR2D1|AAF61912.1|Aspergillus                                         66.63%    passed     99.85%
-  82  AKR2E1|CAB41997.1|Spodoptera                                          63.91%    passed     36.63%
-  83  AKR2E2|AAL73387.1|Trichoplusia                                        67.78%    passed     64.97%
-  84  AKR2E3|AAD38635.1|Drosophila                                          66.95%    passed     17.31%
-  85  AKR2E4|BAL70378.1|Bombyx                                              67.78%    failed      2.71%
-  86  AKR2E5|BAR91212.1|Bombyx                                              63.08%    passed     44.81%
-  87  AKR2E6|BBD35022.1|Bombyx                                              64.44%    passed     51.88%
-  88  AKR2E8|BCN86447.1|Bombyx                                              65.38%    passed     57.14%
-  89  AKR3A1|P14065.1|Saccharomyces                                         67.36%    passed     56.85%
-  90  AKR3A2|NP_010656.1|Saccharomyces                                      67.36%    passed     67.76%
-  91  AKR3B1|AAB17362.1|Sporidiobolus                                       66.21%    passed     64.77%
-  92  AKR3B2a|BAD90687.1|Moniliella                                         65.69%    passed     32.72%
-  93  AKR3B2b|BAD90688.1|Moniliella                                         65.69%    passed     36.50%
-  94  AKR3B3|BAD90689.1|Moniliella                                          65.48%    passed     22.05%
-  95  AKR3C1|CAA85107.1|Saccharomyces                                       64.02%    passed     79.13%
-  96  AKR3C2|O13848.1|Saccharomyces                                         70.29%    passed     80.03%
-  97  AKR3C3|BAD01653.1|Candida                                             67.89%    passed     27.79%
-  98  AKR3D1|AAK55762.1|Pyricularia                                         67.36%    passed     90.92%
-  99  AKR3E1|CAD43580.1|Pencillium                                          66.00%    passed     74.53%
- 100  AKR3F1|Q9X265|Thermotoga                                              71.34%    passed      5.24%
- 101  AKR3F2|P30863.2|Escherichia                                           72.07%    passed     22.42%
- 102  AKR3G1|P74308.1|Synechocystis|Bacteria|Cyanophyceae|Synechococcales   65.79%    passed     22.61%
- 103  AKR4A1|P26690.1|Glycine                                               67.05%    passed     85.16%
- 104  AKR4A2|Q40333|Medicago                                                67.36%    passed     93.25%
- 105  AKR4A3|BAA12084.1|Glycyrrhiza                                         66.63%    passed     96.10%
- 106  AKR4A4|BAA13113.1|Glycyrrhiza                                         66.95%    passed     98.04%
- 107  AKR4B1|CAA11226.1|Sesbania                                            66.32%    passed     89.48%
- 108  AKR4B2|AAF13739.1|Papaver                                             66.42%    passed     54.38%
- 109  AKR4B3|AAF13736.1|Papaver                                             66.42%    passed     54.46%
- 110  AKR4B4|AAB97005.1|Fragaria                                            66.63%    passed     75.66%
- 111  AKR4B5|BAF03164.1|Zea                                                 67.15%    passed     18.10%
- 112  AKR4B6|BAF03161.1|Oryza                                               66.74%    passed      7.48%
- 113  AKR4B7|BAF03162.1|Hordeum                                             67.15%    passed     10.30%
- 114  AKR4B8|BAF03163.1|Triticum                                            67.15%    failed      4.71%
- 115  AKR4B10|ADK94763.1|Erythroxylum                                       65.79%    passed     96.99%
- 116  AKR4C1|P23901.1|Hordeum                                               66.53%    passed     53.99%
- 117  AKR4C2|AAA21751.1|Bromus                                              66.53%    passed     66.11%
- 118  AKR4C3|Q43320|Avena                                                   66.63%    passed     90.60%
- 119  AKR4C4|AAD22264.1|Xerophyta                                           66.63%    passed     99.54%
- 120  AKR4C5|CAC32834.1|Digitalis                                           67.05%    passed     63.55%
- 121  AKR4C6|CAC32835.1|Digitalis                                           67.05%    passed     67.40%
- 122  AKR4C7|ABF61890.1|Zea                                                 67.57%    passed     98.70%
- 123  AKR4C8|ABH07514.1|Arabidopsis                                         67.47%    passed     96.34%
- 124  AKR4C9|ABH07515.1|Arabidopsis                                         67.05%    passed     99.10%
- 125  AKR4C10|ABH07516.1|Arabidopsis                                        67.15%    passed     88.95%
- 126  AKR4C11|ABH07517.1|Arabidopsis                                        67.05%    passed     87.13%
- 127  AKR4C12|ABL61257.1|Aloe                                               67.89%    passed     96.36%
- 128  AKR4C13|ADU32868.1|Zea                                                66.63%    passed     48.81%
- 129  AKR4C14|ACS92968.1|Oryza                                              67.47%    passed     94.81%
- 130  AKR4C15|ALN39070.1|Oryza                                              67.36%    passed     80.20%
- 131  AKR4C16|QFG75509.1|Echinochloa                                        67.57%    passed     98.93%
- 132  AKR5C17|QFG75510.1|Echinochloa                                        67.57%    passed     99.08%
- 133  AKR5A1|P22045.3|Leishmania                                            70.29%    passed     99.90%
- 134  AKR5A2|BAB17681.1|Trypanosoma                                         71.13%    passed     85.23%
- 135  AKR5B1|Q02198.3|Pseudomonas                                           69.04%    passed      8.84%
- 136  AKR5C1|AAA83534.1|Corynebacterium                                     70.92%    failed      0.11%
- 137  AKR5C2|Q46857.3|Escherichia                                           71.23%    passed     45.24%
- 138  AKR5C3|AAW60421.1|Gluconobacter                                       70.82%    passed     69.80%
- 139  AKR5D1|P15339.3|Corynebacterium                                       71.03%    failed      0.73%
- 140  AKR5E1|AAD42404.1|Zymomonas                                           70.50%    passed     64.61%
- 141  AKR5F1|ABB80491.1|Klebsiella                                          70.40%    passed     15.37%
- 142  AKR5G1|NP_391220.1|Bacillus                                           71.13%    passed     61.83%
- 143  AKR5G2|NP_390783.1|Bacillus                                           70.71%    passed     60.57%
- 144  AKR5G3|ALM30349.1|Priestia                                            70.82%    passed     23.37%
- 145  AKR5G4|WP_003252716.1|Parageobacillus                                 71.23%    passed     84.65%
- 146  AKR5H1|A0QV09.1|Mycobacterium                                         70.40%    failed      0.06%
- 147  AKR6A1|Q27955.1|Bos                                                   61.61%    passed      9.76%
- 148  AKR6A2|CAA54142.1|Rattus                                              61.61%    passed     16.19%
- 149  AKR6A3||S66503|Homo                                                   58.05%    passed     11.72%
- 150  AKR6A4|AAA75174.1|Mus                                                 61.61%    passed     22.05%
- 151  AKR6A5|AAB99859.1|Homo                                                63.08%    passed     21.71%
- 152  AKR6A6|AAF65463.2|Oryctolagus                                         63.08%    passed     16.56%
- 153  AKR6A7|AAD37853.1|Oryctolagus                                         58.05%    passed     12.03%
- 154  AKR6A8|NP_034727.3|Mus                                                58.05%    passed     12.03%
- 155  AKR6A9|NP_004723.2|Homo                                               57.74%    failed      0.20%
- 156  AKR6A10a|AAC48462.1|Mustela                                           57.32%    passed     18.71%
- 157  AKR6A10b|AAD37854.1|Oryctolagus                                       57.32%    passed     11.48%
- 158  AKR6A11|AAD56313.1|Xenopus                                            58.05%    passed     15.73%
- 159  AKR6A12|Q63494.1|Rattus                                               57.74%    failed      0.22%
- 160  AKR6A13|P63144.1|Rattus                                               58.05%    passed     11.72%
- 161  AKR6A14|NP_034729.3|Mus                                               57.74%    failed      0.21%
- 162  AKR6B1|AAC46631.1|Drosophila                                          42.89%    failed      0.00%
- 163  AKR6C1|AAA87294.1|Arabidopsis                                         65.69%    passed     96.55%
- 164  AKR6C2|CAA12646.1|Egeria                                              65.69%    passed     95.82%
- 165  AKR6D1|WP_013401030.1|Geobacillus                                     67.05%    passed     30.99%
- 166  AKR7A1|P38918.2|Rattus                                                65.79%    passed     42.87%
- 167  AKR7A2|NP_003680.2|Homo                                               62.45%    failed      0.76%
- 168  AKR7A3|NP_036199.2|Homo                                               65.38%    passed      7.11%
- 169  AKR7A4|BAA90396.1|Rattus                                              64.64%    passed      8.39%
- 170  AKR7A5|BAB23073.1|Mus                                                 61.72%    failed      0.44%
- 171  AKR8A1|O14295.1|Schizosaccharomyces                                   65.17%    passed      7.06%
- 172  AKR8A2|O94521.1|Schizosaccharomyces                                   65.17%    passed     17.97%
- 173  AKR9A1|Q00727.2|Aspergillus                                           59.52%    passed     54.98%
- 174  AKR9A2|Q00049.2|Aspergillus                                           59.41%    passed     17.52%
- 175  AKR9A3|Q01752.1|Phanerochaete                                         59.73%    passed     81.27%
- 176  AKR9B1|NP_014068.1|Saccharomyces                                      60.67%    passed     79.36%
- 177  AKR9B2|NP_010032.1|Saccharomyces                                      62.03%    passed      6.74%
- 178  AKR9B3|NP_010038.1|Saccharomyces                                      65.59%    passed     62.18%
- 179  AKR9B4|NP_012689.1|Saccharomyces                                      69.87%    passed     58.36%
- 180  AKR9C1|AAB71807.1|Haloferax                                           64.85%    failed      0.00%
- 181  AKR10A1|AAD28516.1|Streptomyces                                       66.74%    failed      0.00%
- 182  AKR10A2|CAA07384.1|Streptomyces                                       66.63%    failed      0.00%
- 183  AKR11A1|P46336.1|Bacillus                                             67.57%    failed      3.80%
- 184  AKR11B1|P80874.2|Bacillus                                             65.38%    passed     15.70%
- 185  AKR11B2|P77256.1|Escherichia                                          65.90%    passed     28.09%
- 186  AKR11B3|ABC69170.1|Synechococcus                                      65.69%    failed      0.00%
- 187  AKR11B4|WP_011253139.1|Gluconobacter                                  65.27%    passed      7.89%
- 188  AKR11C1|Q9KE47|Bacillus                                               68.93%    passed     44.19%
- 189  AKR11D1|ALM30350.1|Bacillus                                           67.57%    passed     10.39%
- 190  AKR11E1|NP_249818.1|Pseudomonas                                       65.59%    failed      0.00%
- 191  AKR12A1|AAD41821.1|Streptomyces                                       65.59%    failed      0.00%
- 192  AKR12B1|AAB84068.1|Saccharopolyspora                                  65.17%    failed      0.00%
- 193  AKR12C1|BAA84599.1|Streptomyces                                       63.70%    failed      0.00%
- 194  AKR12D1|AAK90112.1|Agrobacterium                                      68.93%    failed      1.22%
- 195  AKR13A1|Q09923.1|Schizosaccharomyces                                  64.44%    passed     16.20%
- 196  AKR13B1|AAF84538.1|Xylella                                            69.56%    failed      2.76%
- 197  AKR13C1|O25804|Helicobacter                                           65.59%    passed     44.11%
- 198  AKR13C2|AAD36088.1|Thermotoga                                         65.17%    failed      1.76%
- 199  AKR13D1|AAX11684.1|Rauvolfia                                          64.75%    passed     52.04%
- 200  AKR13D2|Gh_A08G1908|NBI-AD1_v1.1|Gossypium                            64.64%    passed     36.91%
- 201  AKR14A1|AAA69168.1|Escherichia                                        63.81%    failed      2.03%
- 202  AKR14A2|NP_461347.1|Salmonella                                        65.27%    passed     31.31%
- 203  AKR15A1|BAC97800.1|Microbacterium                                     64.23%    failed      1.85%
- 204  AKR16A1|AAF96757.1|Vibrio                                             67.89%    passed      8.42%
- 205  AKR17A1|BAB74015.1|Nostoc                                             70.29%    passed     39.56%
-WARNING: 203 sequences contain more than 50% gaps/ambiguity
-****  TOTAL                                                                 65.86%  26 sequences failed composition chi2 test (p-value<5%; df=19)
+Analyzing sequences: done in 0.0004689 secs using 100% CPU
+   1  AKR1A1|NP_006057.1|Homo                                               66.80%    passed     92.10%
+   2  AKR1A2|P50578.3|Sus                                                   66.80%    passed     87.97%
+   3  AKR1A3|P51635.2|Rattus                                                66.80%    passed     95.07%
+   4  AKR1A4|NP_067448.1|Mus                                                66.80%    passed     92.77%
+   5  AKR1B1|NP_001619.1|Homo                                               67.72%    passed     99.41%
+   6  AKR1B2|P15122.3|Oryctolagus|cuniculus|Animalia|Mammalia|Lagomorpha    67.72%    passed     98.58%
+   7  AKR1B3|P45376.3|Mus                                                   67.72%    passed     94.33%
+   8  AKR1B4|NP_036630.1|Rattus                                             67.72%    passed     93.51%
+   9  AKR1B5|P16116.2|Bos                                                   67.82%    passed     76.32%
+  10  AKR1B6|P80276.2|Sus                                                   67.72%    passed     94.69%
+  11  AKR1B7|P21300.4|Mus                                                   67.72%    passed     86.05%
+  12  AKR1B8|NP_032038.1|Mus                                                67.72%    passed     80.74%
+  13  AKR1B9|AAC53199.1|Cricetulus                                          67.72%    passed     89.37%
+  14  AKR1B10|NP_064695.3|Homo                                              67.72%    passed     81.16%
+  15  AKR1B12|CAC40811.1|Gallus                                             67.62%    passed     40.60%
+  16  AKR1B13|CAC80649.1|Rattus                                             67.72%    passed     76.43%
+  17  AKR1B14|NP_446233.2|Rattus                                            67.72%    passed     73.48%
+  18  AKR1B15|EAL24068.1|Homo                                               63.02%    passed     23.11%
+  19  AKR1B18|NP_001013102.1|Rattus                                         67.72%    passed     77.44%
+  20  AKR1B19|NP_001254517.1|Oryctolagus                                    67.72%    passed     68.83%
+  21  AKR1C1|NP_001344.2|Homo                                               67.01%    passed     73.85%
+  22  AKR1C2|NP_001345.1|Homo                                               67.01%    passed     74.16%
+  23  AKR1C3|NP_003730.4|Homo                                               67.01%    passed     81.02%
+  24  AKR1C4|P17516.3|Homo                                                  67.01%    passed     51.11%
+  25  AKR1C5|P80508.1|Oryctolagus                                           67.01%    passed     95.08%
+  26  AKR1C6|NP_085114.1|Mus                                                67.01%    passed     75.53%
+  27  AKR1C7|P05980.3|Bos                                                   67.01%    passed     42.68%
+  28  AKR1C8|P51652.1|Rattus                                                67.01%    passed     32.99%
+  29  AKR1C9|P23457.1|Rattus                                                67.11%    passed     49.23%
+  30  AKR1C10a|P02532.3|Rana                                                66.91%    passed     79.42%
+  31  AKR1C10b|P17264.2|Rana                                                66.91%    passed     76.57%
+  32  AKR1C11|BAA13690.1|Bos                                                67.01%    passed     82.03%
+  33  AKR1C12|NP_038805.2|Mus                                               67.01%    passed     14.56%
+  34  AKR1C13|NP_038806.2|Mus                                               67.01%    passed     16.08%
+  35  AKR1C14|NP_598833.1|Mus                                               67.01%    passed     67.80%
+  36  AKR1C15|2008147B|Rattus                                               67.01%    passed     86.87%
+  37  AKR1C16|2008147A|Rattus                                               67.52%    passed     32.60%
+  38  AKR1C17|2008147C|Rattus                                               67.21%    passed     33.46%
+  39  AKR1C18|NP_001333464.1|Mus                                            69.66%    passed     29.30%
+  40  AKR1C19|NP_001013807.2|Mus                                            67.01%    passed     66.16%
+  41  AKR1C20|NP_473421.1|Mus                                               73.24%    passed     66.17%
+  42  AKR1C21|NP_084177.2|Mus                                               67.01%    passed     91.09%
+  43  AKR1C22|BAD02825.1|Mus                                                67.01%    passed     12.55%
+  44  AKR1C23|AAY16444.1|Equus                                              67.11%    passed     98.48%
+  45  AKR1C24|BAE75957.1|Rattus                                             67.01%    passed     22.94%
+  46  AKR1C25|BAB63209.2|Macaca                                             67.01%    passed     35.28%
+  47  AKR1C26|BAM37087.1|Oryctolagus                                        67.01%    passed     92.67%
+  48  AKR1C27|BAM37088.1|Oryctolagus                                        67.01%    passed     77.85%
+  49  AKR1C28|BAM37089.1|Oryctolagus                                        67.01%    passed     78.75%
+  50  AKR1C29|BAN20006.1|Oryctolagus                                        67.01%    passed     94.24%
+  51  AKR1C30|BAN84250.1|Oryctolagus                                        67.01%    passed     98.59%
+  52  AKR1C31|BAN84251.1|Oryctolagus                                        67.01%    passed     97.38%
+  53  AKR1C32|BAN84252.1|Oryctolagus                                        67.01%    passed     95.93%
+  54  AKR1C33|BAN84253.1|Oryctolagus                                        67.11%    passed     83.04%
+  55  AKR1C34|BAP76082.1|Mesocricetus                                       67.01%    passed     59.27%
+  56  AKR1C35|BAP76083.1|Mesocricetus                                       67.01%    passed     30.36%
+  57  AKR1D1|NP_005980.1|Homo                                               66.70%    passed     98.00%
+  58  AKR1D2|NP_620239.2|Rattus                                             66.80%    passed     81.18%
+  59  AKR1D3|BAA82867.1|Oryctolagus                                         66.70%    passed     63.74%
+  60  AKR1D4|NP_663397.1|Mus                                                48.42%    failed      1.37%
+  61  AKR1E1|AAB37274.1|Mus                                                 69.25%    passed     64.70%
+  62  AKR1E2|Q96JD6.2|Homo                                                  67.31%    passed     48.79%
+  63  AKR1F1|AAD38635.1|Drosophila                                          67.72%    passed     16.92%
+  64  AKR1G1|NP_509242.1|Caenorhabditis                                     67.62%    passed     86.89%
+  65  AKR1H1|AFV36370.1|Reticulitermes                                      65.78%    passed     53.22%
+  66  AKR1I1|5KET_A|Coptotermes                                             65.27%    passed     98.12%
+  67  AKR2A1|P28475.1|Malus                                                 68.34%    passed     90.37%
+  68  AKR2A2|AAB97617.1|Apium                                               68.44%    passed     81.01%
+  69  AKR2A3|QLF98851.1|Oryza                                               66.70%    passed     42.89%
+  70  AKR2B1|P31867.1|Scheffersomyces                                       67.52%    passed     67.18%
+  71  AKR2B2|P49378.1|Kluyveromyces                                         66.39%    passed     85.24%
+  72  AKR2B3|P78736.1|Pachysolen                                            67.52%    passed     37.45%
+  73  AKR2B4|BAA19477.1|Candida                                             66.91%    passed     10.11%
+  74  AKR2B5|AAC25601.1|Yamadazyma                                          67.11%    passed     48.17%
+  75  AKR2B6|NP_011972.1|Saccharomyces                                      66.60%    passed     84.49%
+  76  AKR2B7|BAA19476.1|Candida                                             66.91%    passed     10.21%
+  77  AKR2B8|AAD09330.1|Meyerozyma                                          67.62%    passed     16.32%
+  78  AKR2B9|XP_460932.1|Debaryomyces                                       67.62%    passed     31.41%
+  79  AKR2B10|ALD19729.1|Debaryomyces                                       67.31%    passed     33.08%
+  80  AKR2C1|CAA98021.1|Mucor                                               67.21%    passed     94.57%
+  81  AKR2C2|AHG97682.1|Rhizopus                                            67.31%    passed     90.79%
+  82  AKR2D1|AAF61912.1|Aspergillus                                         67.42%    passed     99.86%
+  83  AKR2E1|CAB41997.1|Spodoptera                                          64.76%    passed     36.45%
+  84  AKR2E2|AAL73387.1|Trichoplusia                                        68.54%    passed     64.76%
+  85  AKR2E4|BAL70378.1|Bombyx                                              68.54%    failed      2.77%
+  86  AKR2E5|BAR91212.1|Bombyx                                              63.94%    passed     44.96%
+  87  AKR2E6|BBD35022.1|Bombyx                                              65.27%    passed     50.87%
+  88  AKR2E8|BCN86447.1|Bombyx                                              66.19%    passed     56.20%
+  89  AKR3A1|P14065.1|Saccharomyces                                         68.13%    passed     55.79%
+  90  AKR3A2|NP_010656.1|Saccharomyces                                      68.13%    passed     66.77%
+  91  AKR3B1|AAB17362.1|Sporidiobolus                                       67.01%    passed     64.15%
+  92  AKR3B2a|BAD90687.1|Moniliella                                         66.50%    passed     32.14%
+  93  AKR3B2b|BAD90688.1|Moniliella                                         66.50%    passed     35.86%
+  94  AKR3B3|BAD90689.1|Moniliella                                          66.29%    passed     21.48%
+  95  AKR3C1|CAA85107.1|Saccharomyces                                       64.86%    passed     78.00%
+  96  AKR3C2|O13848.1|Saccharomyces                                         70.99%    passed     79.10%
+  97  AKR3C3|BAD01653.1|Candida                                             68.64%    passed     26.96%
+  98  AKR3D1|AAK55762.1|Pyricularia                                         68.13%    passed     90.77%
+  99  AKR3E1|CAD43580.1|Pencillium                                          66.80%    passed     74.15%
+ 100  AKR3F1|Q9X265|Thermotoga                                              72.01%    passed      5.16%
+ 101  AKR3F2|P30863.2|Escherichia                                           72.73%    passed     22.32%
+ 102  AKR3G1|P74308.1|Synechocystis|Bacteria|Cyanophyceae|Synechococcales   66.60%    passed     23.25%
+ 103  AKR4A1|P26690.1|Glycine                                               67.82%    passed     84.79%
+ 104  AKR4A2|Q40333|Medicago                                                68.13%    passed     92.85%
+ 105  AKR4A3|BAA12084.1|Glycyrrhiza                                         67.42%    passed     95.99%
+ 106  AKR4A4|BAA13113.1|Glycyrrhiza                                         67.72%    passed     97.96%
+ 107  AKR4B1|CAA11226.1|Sesbania                                            67.11%    passed     89.34%
+ 108  AKR4B2|AAF13739.1|Papaver                                             67.21%    passed     54.92%
+ 109  AKR4B3|AAF13736.1|Papaver                                             67.21%    passed     55.44%
+ 110  AKR4B4|AAB97005.1|Fragaria                                            67.42%    passed     75.40%
+ 111  AKR4B5|BAF03164.1|Zea                                                 67.93%    passed     19.11%
+ 112  AKR4B6|BAF03161.1|Oryza                                               67.52%    passed      8.15%
+ 113  AKR4B7|BAF03162.1|Hordeum                                             67.93%    passed     11.11%
+ 114  AKR4B8|BAF03163.1|Triticum                                            67.93%    passed      5.12%
+ 115  AKR4B10|ADK94763.1|Erythroxylum                                       66.60%    passed     96.90%
+ 116  AKR4C1|P23901.1|Hordeum                                               67.31%    passed     54.15%
+ 117  AKR4C2|AAA21751.1|Bromus                                              67.31%    passed     65.63%
+ 118  AKR4C3|Q43320|Avena                                                   67.42%    passed     90.44%
+ 119  AKR4C4|AAD22264.1|Xerophyta                                           67.42%    passed     99.53%
+ 120  AKR4C5|CAC32834.1|Digitalis                                           67.82%    passed     62.93%
+ 121  AKR4C6|CAC32835.1|Digitalis                                           67.82%    passed     66.85%
+ 122  AKR4C7|ABF61890.1|Zea                                                 68.34%    passed     98.74%
+ 123  AKR4C8|ABH07514.1|Arabidopsis                                         68.23%    passed     96.12%
+ 124  AKR4C9|ABH07515.1|Arabidopsis                                         67.82%    passed     99.04%
+ 125  AKR4C10|ABH07516.1|Arabidopsis                                        67.93%    passed     88.91%
+ 126  AKR4C11|ABH07517.1|Arabidopsis                                        67.82%    passed     86.92%
+ 127  AKR4C12|ABL61257.1|Aloe                                               68.64%    passed     96.16%
+ 128  AKR4C13|ADU32868.1|Zea                                                67.42%    passed     49.89%
+ 129  AKR4C14|ACS92968.1|Oryza                                              68.23%    passed     94.67%
+ 130  AKR4C15|ALN39070.1|Oryza                                              68.13%    passed     80.39%
+ 131  AKR4C16|QFG75509.1|Echinochloa                                        68.34%    passed     98.95%
+ 132  AKR4C17|QFG75510.1|Echinochloa                                        68.34%    passed     99.12%
+ 133  AKR5A1|P22045.3|Leishmania                                            70.99%    passed     99.90%
+ 134  AKR5A2|BAB17681.1|Trypanosoma                                         71.81%    passed     85.37%
+ 135  AKR5B1|Q02198.3|Pseudomonas                                           69.77%    passed      9.27%
+ 136  AKR5C1|AAA83534.1|Corynebacterium                                     71.60%    failed      0.12%
+ 137  AKR5C2|Q46857.3|Escherichia                                           71.91%    passed     45.46%
+ 138  AKR5C3|AAW60421.1|Gluconobacter                                       71.50%    passed     70.38%
+ 139  AKR5D1|P15339.3|Corynebacterium                                       71.71%    failed      0.78%
+ 140  AKR5E1|AAD42404.1|Zymomonas                                           71.20%    passed     64.46%
+ 141  AKR5F1|ABB80491.1|Klebsiella                                          71.09%    passed     16.02%
+ 142  AKR5G1|NP_391220.1|Bacillus                                           71.81%    passed     60.68%
+ 143  AKR5G2|NP_390783.1|Bacillus                                           71.40%    passed     61.07%
+ 144  AKR5G3|ALM30349.1|Priestia                                            71.50%    passed     22.76%
+ 145  AKR5G4|WP_003252716.1|Parageobacillus                                 71.91%    passed     84.31%
+ 146  AKR5H1|A0QV09.1|Mycobacterium                                         71.09%    failed      0.07%
+ 147  AKR6A1|Q27955.1|Bos                                                   62.51%    passed     10.05%
+ 148  AKR6A2|CAA54142.1|Rattus                                              62.51%    passed     16.64%
+ 149  AKR6A3||S66503|Homo                                                   59.04%    passed     11.90%
+ 150  AKR6A4|AAA75174.1|Mus                                                 62.51%    passed     22.64%
+ 151  AKR6A5|AAB99859.1|Homo                                                63.94%    passed     22.33%
+ 152  AKR6A6|AAF65463.2|Oryctolagus                                         63.94%    passed     17.02%
+ 153  AKR6A7|AAD37853.1|Oryctolagus                                         59.04%    passed     12.22%
+ 154  AKR6A8|NP_034727.3|Mus                                                59.04%    passed     12.22%
+ 155  AKR6A9|NP_004723.2|Homo                                               58.73%    failed      0.22%
+ 156  AKR6A10a|AAC48462.1|Mustela                                           58.32%    passed     19.06%
+ 157  AKR6A10b|AAD37854.1|Oryctolagus                                       58.32%    passed     11.75%
+ 158  AKR6A11|AAD56313.1|Xenopus                                            59.04%    passed     16.25%
+ 159  AKR6A12|Q63494.1|Rattus                                               58.73%    failed      0.25%
+ 160  AKR6A13|P63144.1|Rattus                                               59.04%    passed     11.90%
+ 161  AKR6A14|NP_034729.3|Mus                                               58.73%    failed      0.23%
+ 162  AKR6B1|AAC46631.1|Drosophila                                          44.23%    failed      0.00%
+ 163  AKR6C1|AAA87294.1|Arabidopsis                                         66.50%    passed     96.70%
+ 164  AKR6C2|CAA12646.1|Egeria                                              66.50%    passed     95.91%
+ 165  AKR6D1|WP_013401030.1|Geobacillus                                     67.82%    passed     30.27%
+ 166  AKR7A1|P38918.2|Rattus                                                66.60%    passed     44.36%
+ 167  AKR7A2|NP_003680.2|Homo                                               63.33%    failed      0.86%
+ 168  AKR7A3|NP_036199.2|Homo                                               66.19%    passed      7.69%
+ 169  AKR7A4|BAA90396.1|Rattus                                              65.47%    passed      8.92%
+ 170  AKR7A5|BAB23073.1|Mus                                                 62.61%    failed      0.50%
+ 171  AKR8A1|O14295.1|Schizosaccharomyces                                   65.99%    passed      6.72%
+ 172  AKR8A2|O94521.1|Schizosaccharomyces                                   65.99%    passed     17.05%
+ 173  AKR9A1|Q00727.2|Aspergillus                                           60.47%    passed     56.58%
+ 174  AKR9A2|Q00049.2|Aspergillus                                           60.37%    passed     18.43%
+ 175  AKR9A3|Q01752.1|Phanerochaete                                         60.67%    passed     82.38%
+ 176  AKR9B1|NP_014068.1|Saccharomyces                                      61.59%    passed     79.48%
+ 177  AKR9B2|NP_010032.1|Saccharomyces                                      62.92%    passed      6.61%
+ 178  AKR9B3|NP_010038.1|Saccharomyces                                      66.39%    passed     62.04%
+ 179  AKR9B4|NP_012689.1|Saccharomyces                                      70.58%    passed     57.85%
+ 180  AKR9C1|AAB71807.1|Haloferax                                           65.68%    failed      0.00%
+ 181  AKR10A1|AAD28516.1|Streptomyces                                       67.52%    failed      0.00%
+ 182  AKR10A2|CAA07384.1|Streptomyces                                       67.42%    failed      0.00%
+ 183  AKR11A1|P46336.1|Bacillus                                             68.34%    failed      3.59%
+ 184  AKR11B1|P80874.2|Bacillus                                             66.19%    passed     15.83%
+ 185  AKR11B2|P77256.1|Escherichia                                          66.70%    passed     28.74%
+ 186  AKR11B3|ABC69170.1|Synechococcus                                      66.50%    failed      0.00%
+ 187  AKR11B4|WP_011253139.1|Gluconobacter                                  66.09%    passed      8.16%
+ 188  AKR11C1|Q9KE47|Bacillus                                               69.66%    passed     44.31%
+ 189  AKR11D1|ALM30350.1|Bacillus                                           68.34%    passed     10.00%
+ 190  AKR11E1|NP_249818.1|Pseudomonas                                       66.39%    failed      0.00%
+ 191  AKR12A1|AAD41821.1|Streptomyces                                       66.39%    failed      0.00%
+ 192  AKR12B1|AAB84068.1|Saccharopolyspora                                  65.99%    failed      0.00%
+ 193  AKR12C1|BAA84599.1|Streptomyces                                       64.56%    failed      0.00%
+ 194  AKR12D1|A0A3R7J519|Streptomyces                                       66.19%    failed      0.74%
+ 195  AKR13A1|Q09923.1|Schizosaccharomyces                                  65.27%    passed     16.16%
+ 196  AKR13B1|AAF84538.1|Xylella                                            70.28%    failed      2.90%
+ 197  AKR13C1|O25804|Helicobacter                                           66.39%    passed     42.86%
+ 198  AKR13C2|AAD36088.1|Thermotoga                                         65.99%    failed      1.68%
+ 199  AKR13D1|AAX11684.1|Rauvolfia                                          65.58%    passed     50.96%
+ 200  AKR13D2|Gh_A08G1908|Gossypium                                         65.47%    passed     35.78%
+ 201  AKR13E1|AAC74488.1|Escherichia                                        70.79%    passed      8.59%
+ 202  AKR14A1|AAA69168.1|Escherichia                                        64.66%    failed      2.15%
+ 203  AKR14A2|NP_461347.1|Salmonella                                        66.09%    passed     32.45%
+ 204  AKR15A1|BAC97800.1|Microbacterium                                     65.07%    failed      2.03%
+ 205  AKR16A1|AAF96757.1|Vibrio                                             68.64%    passed      8.63%
+ 206  AKR16B1|AAK90112.1|Agrobacterium                                      69.66%    failed      1.34%
+ 207  AKR17A1|BAB74015.1|Nostoc                                             70.99%    passed     39.43%
+WARNING: 205 sequences contain more than 50% gaps/ambiguity
+****  TOTAL                                                                 66.68%  26 sequences failed composition chi2 test (p-value<5%; df=19)
 NOTE: AKR6A13|P63144.1|Rattus is identical to AKR6A3||S66503|Homo but kept for subsequent analysis
 NOTE: AKR6A8|NP_034727.3|Mus is identical to AKR6A7|AAD37853.1|Oryctolagus but kept for subsequent analysis
-Checking for duplicate sequences: done in 0.0007914 secs
+Checking for duplicate sequences: done in 0.000776599 secs using 99.92% CPU
 
 
-Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.101 seconds
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.084 seconds
 Perform fast likelihood tree search using LG+I+G model...
 Estimate model parameters (epsilon = 5.000)
 Perform nearest neighbor interchange...
-Optimizing NNI: done in 4.66071 secs using 100% CPU
+Optimizing NNI: done in 7.75879 secs using 100% CPU
 Estimate model parameters (epsilon = 1.000)
-1. Initial log-likelihood: -75906.909
-2. Current log-likelihood: -75905.705
-Optimal log-likelihood: -75905.475
-Proportion of invariable sites: 0.002
-Gamma shape alpha: 1.345
-Parameters optimization took 2 rounds (3.512 sec)
-Time for fast ML tree search: 16.396 seconds
+1. Initial log-likelihood: -76989.556
+2. Current log-likelihood: -76987.176
+Optimal log-likelihood: -76986.648
+Proportion of invariable sites: 0.003
+Gamma shape alpha: 1.364
+Parameters optimization took 2 rounds (3.513 sec)
+Time for fast ML tree search: 18.521 seconds
 
 NOTE: ModelFinder requires 254 MB RAM!
-ModelFinder will test up to 1232 protein models (sample size: 956) ...
+ModelFinder will test up to 1232 protein models (sample size: 979) ...
  No. Model         -LnL         df  AIC          AICc         BIC
-  1  LG            78255.691    407 157325.382   157931.425   159304.524
-  2  LG+I          78196.325    408 157208.650   157818.786   159192.656
-  3  LG+G4         75916.431    408 152648.863   153258.998   154632.868
-  4  LG+I+G4       75905.430    409 152628.860   153243.109   154617.728
-  5  LG+R2         76311.292    409 153440.583   154054.832   155429.451
-  6  LG+R3         76027.703    411 152877.407   153499.951   154876.000
-  7  LG+R4         75814.565    413 152455.130   153086.060   154463.449
-  8  LG+R5         75770.586    415 152371.173   153010.580   154389.217
-  9  LG+R6         75736.889    417 152307.779   152955.756   154335.549
- 10  LG+R7         75721.426    419 152280.853   152937.495   154318.348
- 11  LG+R8         75717.349    421 152276.697   152942.098   154323.918
- 14  LG+I+R2       76283.488    410 153386.977   154005.362   155380.707
- 15  LG+I+R3       76025.760    412 152875.519   153502.245   154878.976
- 16  LG+I+R4       75807.928    414 152443.857   153079.014   154457.038
- 17  LG+I+R5       75764.227    416 152360.453   153004.134   154383.360
- 18  LG+I+R6       75734.907    418 152305.815   152958.112   154338.447
- 19  LG+I+R7       75731.401    420 152302.802   152963.811   154345.160
- 32  LG+F+R7       75681.168    438 152238.337   152982.174   154368.225
- 33  LG+F+R8       75678.595    440 152237.190   152990.744   154376.804
- 54  WAG+R7        75862.304    419 152562.607   153219.249   154600.103
- 55  WAG+R8        75859.286    421 152560.572   153225.973   154607.793
- 76  WAG+F+R7      75910.151    438 152696.302   153440.139   154826.190
- 77  WAG+F+R8      75905.833    440 152691.667   153445.220   154831.280
- 98  JTT+R7        76381.615    419 153601.230   154257.872   155638.726
- 99  JTT+R8        76377.083    421 153596.165   154261.566   155643.386
-120  JTT+F+R7      76319.615    438 153515.230   154259.067   155645.118
-121  JTT+F+R8      76315.489    440 153510.978   154264.532   155650.592
+  1  LG            79506.101    411 159834.203   160431.494   161842.567
+  2  LG+I          79444.505    412 159713.011   160314.269   161726.262
+  3  LG+G4         76998.230    412 154820.459   155421.717   156833.711
+  4  LG+I+G4       76986.487    413 154798.974   155404.220   156817.112
+  5  LG+R2         77462.080    413 155750.160   156355.406   157768.298
+  6  LG+R3         77142.877    415 155115.754   155729.040   157143.665
+  7  LG+R4         76915.185    417 154664.370   155285.782   156702.054
+  8  LG+R5         76869.947    419 154577.894   155207.519   156625.351
+  9  LG+R6         76829.766    421 154501.533   155139.457   156558.762
+ 10  LG+R7         76814.540    423 154475.079   155121.393   156542.082
+ 11  LG+R8         76812.656    425 154475.312   155130.104   156552.088
+ 14  LG+I+R2       77433.113    414 155694.225   156303.481   157717.249
+ 15  LG+I+R3       77119.619    416 155071.239   155688.577   157104.036
+ 16  LG+I+R4       76909.208    418 154654.416   155279.923   156696.986
+ 17  LG+I+R5       76864.226    420 154568.453   155202.216   156620.796
+ 18  LG+I+R6       76827.673    422 154499.346   155141.454   156561.463
+ 19  LG+I+R7       76824.314    424 154496.627   155147.169   156568.517
+ 32  LG+F+R7       76775.594    442 154435.188   155165.807   156595.035
+ 54  WAG+R7        76976.048    423 154798.096   155444.409   156865.099
+ 76  WAG+F+R7      77012.236    442 154908.471   155639.090   157068.318
+ 98  JTT+R7        77520.913    423 155887.826   156534.140   157954.829
+120  JTT+F+R7      77453.242    442 155790.485   156521.104   157950.332
 WARNING: Normalizing state frequencies so that sum of them equals to 1
-142  Q.pfam+R7     75668.020    419 152174.040   152830.682   154211.536
+142  Q.pfam+R7     76760.555    423 154367.111   155013.424   156434.114
 WARNING: Normalizing state frequencies so that sum of them equals to 1
-143  Q.pfam+R8     75663.166    421 152168.331   152833.732   154215.553
+164  Q.pfam+F+R7   76731.601    442 154347.202   155077.821   156507.049
 WARNING: Normalizing state frequencies so that sum of them equals to 1
-164  Q.pfam+F+R7   75640.969    438 152157.938   152901.775   154287.826
+186  Q.bird+R7     79058.469    423 158962.938   159609.251   161029.941
 WARNING: Normalizing state frequencies so that sum of them equals to 1
-165  Q.pfam+F+R8   75639.648    440 152159.296   152912.849   154298.909
+208  Q.bird+F+R7   78926.361    442 158736.723   159467.342   160896.570
 WARNING: Normalizing state frequencies so that sum of them equals to 1
-186  Q.bird+R7     77890.095    419 156618.189   157274.831   158655.685
+230  Q.mammal+R7   78534.621    423 157915.243   158561.556   159982.246
 WARNING: Normalizing state frequencies so that sum of them equals to 1
-187  Q.bird+R8     77881.842    421 156605.685   157271.086   158652.906
+252  Q.mammal+F+R7 78360.558    442 157605.117   158335.736   159764.964
+274  Q.insect+R7   77359.819    423 155565.638   156211.952   157632.641
+296  Q.insect+F+R7 77194.091    442 155272.182   156002.801   157432.029
 WARNING: Normalizing state frequencies so that sum of them equals to 1
-208  Q.bird+F+R7   77762.140    438 156400.280   157144.118   158530.168
+318  Q.plant+R7    77825.901    423 156497.802   157144.116   158564.805
 WARNING: Normalizing state frequencies so that sum of them equals to 1
-209  Q.bird+F+R8   77755.479    440 156390.959   157144.512   158530.572
+340  Q.plant+F+R7  77697.355    442 156278.710   157009.329   158438.557
 WARNING: Normalizing state frequencies so that sum of them equals to 1
-230  Q.mammal+R7   77369.428    419 155576.856   156233.497   157614.351
+362  Q.yeast+R7    77324.509    423 155495.019   156141.332   157562.022
 WARNING: Normalizing state frequencies so that sum of them equals to 1
-231  Q.mammal+R8   77366.134    421 155574.267   156239.668   157621.488
+384  Q.yeast+F+R7  76993.614    442 154871.227   155601.846   157031.074
+406  JTTDCMut+R7   77521.310    423 155888.620   156534.934   157955.623
+428  JTTDCMut+F+R7 77460.685    442 155805.369   156535.988   157965.216
+450  DCMut+R7      78216.022    423 157278.044   157924.358   159345.047
+472  DCMut+F+R7    78060.002    442 157004.004   157734.623   159163.851
+494  VT+R7         77081.213    423 155008.427   155654.740   157075.430
+516  VT+F+R7       77084.373    442 155052.746   155783.366   157212.593
+538  PMB+R7        77563.239    423 155972.477   156618.791   158039.480
+560  PMB+F+R7      77557.742    442 155999.483   156730.103   158159.330
+582  Blosum62+R7   77505.886    423 155857.773   156504.086   157924.776
+604  Blosum62+F+R7 77508.988    442 155901.976   156632.596   158061.823
+626  Dayhoff+R7    78216.667    423 157279.335   157925.648   159346.338
+648  Dayhoff+F+R7  78060.867    442 157005.734   157736.353   159165.581
+670  mtREV+R7      81419.179    423 163684.358   164330.672   165751.361
+692  mtREV+F+R7    78580.792    442 158045.583   158776.202   160205.430
+714  mtART+R7      82748.556    423 166343.112   166989.425   168410.115
+736  mtART+F+R7    79541.233    442 159966.465   160697.085   162126.312
+758  mtZOA+R7      80556.043    423 161958.085   162604.399   164025.088
+780  mtZOA+F+R7    78449.190    442 157782.381   158513.000   159942.228
+802  mtMet+R7      81696.961    423 164239.922   164886.235   166306.924
+824  mtMet+F+R7    78512.363    442 157908.727   158639.346   160068.574
+846  mtVer+R7      82184.758    423 165215.517   165861.830   167282.519
+868  mtVer+F+R7    79556.938    442 159997.876   160728.495   162157.723
+890  mtInv+R7      82133.015    423 165112.030   165758.344   167179.033
+912  mtInv+F+R7    77984.771    442 156853.542   157584.162   159013.389
+934  mtMAM+R7      83304.496    423 167454.991   168101.305   169521.994
+956  mtMAM+F+R7    80344.209    442 161572.418   162303.038   163732.265
 WARNING: Normalizing state frequencies so that sum of them equals to 1
-252  Q.mammal+F+R7 77201.783    438 155279.566   156023.403   157409.454
+978  FLAVI+R7      81254.733    423 163355.465   164001.779   165422.468
 WARNING: Normalizing state frequencies so that sum of them equals to 1
-253  Q.mammal+F+R8 77197.434    440 155274.868   156028.422   157414.482
-274  Q.insect+R7   76234.867    419 153307.733   153964.375   155345.229
-275  Q.insect+R8   76229.887    421 153301.773   153967.174   155348.994
-296  Q.insect+F+R7 76078.052    438 153032.104   153775.941   155161.992
-297  Q.insect+F+R8 76075.172    440 153030.343   153783.897   155169.957
-WARNING: Normalizing state frequencies so that sum of them equals to 1
-318  Q.plant+R7    76705.094    419 154248.188   154904.830   156285.683
-WARNING: Normalizing state frequencies so that sum of them equals to 1
-319  Q.plant+R8    76699.326    421 154240.652   154906.053   156287.873
-WARNING: Normalizing state frequencies so that sum of them equals to 1
-340  Q.plant+F+R7  76578.238    438 154032.476   154776.314   156162.364
-WARNING: Normalizing state frequencies so that sum of them equals to 1
-341  Q.plant+F+R8  76573.212    440 154026.424   154779.977   156166.037
-WARNING: Normalizing state frequencies so that sum of them equals to 1
-362  Q.yeast+R7    76208.887    419 153255.774   153912.416   155293.270
-WARNING: Normalizing state frequencies so that sum of them equals to 1
-363  Q.yeast+R8    76206.790    421 153255.579   153920.980   155302.800
-WARNING: Normalizing state frequencies so that sum of them equals to 1
-384  Q.yeast+F+R7  75890.165    438 152656.330   153400.167   154786.218
-WARNING: Normalizing state frequencies so that sum of them equals to 1
-385  Q.yeast+F+R8  75888.805    440 152657.611   153411.164   154797.224
-406  JTTDCMut+R7   76383.765    419 153605.530   154262.172   155643.026
-407  JTTDCMut+R8   76379.457    421 153600.914   154266.315   155648.135
-428  JTTDCMut+F+R7 76328.690    438 153533.379   154277.217   155663.267
-429  JTTDCMut+F+R8 76324.599    440 153529.199   154282.752   155668.812
-450  DCMut+R7      77063.071    419 154964.142   155620.784   157001.638
-451  DCMut+R8      77059.700    421 154961.401   155626.801   157008.622
-472  DCMut+F+R7    76925.040    438 154726.079   155469.917   156855.967
-473  DCMut+F+R8    76923.096    440 154726.192   155479.745   156865.805
-494  VT+R7         75962.634    419 152763.268   153419.909   154800.763
-495  VT+R8         75960.628    421 152763.256   153428.657   154810.477
-516  VT+F+R7       75970.768    438 152817.536   153561.374   154947.424
-517  VT+F+R8       75969.566    440 152819.133   153572.686   154958.746
-538  PMB+R7        76452.501    419 153743.002   154399.643   155780.497
-539  PMB+R8        76451.225    421 153744.450   154409.851   155791.672
-560  PMB+F+R7      76457.429    438 153790.858   154534.696   155920.746
-561  PMB+F+R8      76456.264    440 153792.528   154546.081   155932.141
-582  Blosum62+R7   76394.480    419 153626.959   154283.601   155664.455
-583  Blosum62+R8   76394.234    421 153630.468   154295.869   155677.689
-604  Blosum62+F+R7 76404.966    438 153685.931   154429.769   155815.819
-605  Blosum62+F+R8 76403.150    440 153686.300   154439.854   155825.914
-626  Dayhoff+R7    77063.567    419 154965.134   155621.775   157002.629
-627  Dayhoff+R8    77060.204    421 154962.408   155627.809   157009.629
-648  Dayhoff+F+R7  76925.798    438 154727.596   155471.434   156857.484
-649  Dayhoff+F+R8  76923.789    440 154727.579   155481.132   156867.192
-670  mtREV+R7      80241.406    419 161320.813   161977.454   163358.308
-671  mtREV+R8      80238.837    421 161319.675   161985.076   163366.896
-692  mtREV+F+R7    77455.322    438 155786.643   156530.481   157916.531
-693  mtREV+F+R8    77449.695    440 155779.390   156532.943   157919.003
-714  mtART+R7      81571.313    419 163980.626   164637.267   166018.121
-715  mtART+R8      81548.941    421 163939.882   164605.283   165987.103
-736  mtART+F+R7    78430.218    438 157736.435   158480.273   159866.323
-737  mtART+F+R8    78427.091    440 157734.182   158487.736   159873.796
-758  mtZOA+R7      79406.214    419 159650.427   160307.069   161687.923
-759  mtZOA+R8      79376.577    421 159595.155   160260.555   161642.376
-780  mtZOA+F+R7    77322.644    438 155521.288   156265.125   157651.176
-781  mtZOA+F+R8    77313.551    440 155507.102   156260.656   157646.716
-802  mtMet+R7      80486.114    419 161810.229   162466.871   163847.724
-803  mtMet+R8      80484.709    421 161811.418   162476.819   163858.639
-824  mtMet+F+R7    77361.353    438 155598.706   156342.544   157728.594
-825  mtMet+F+R8    77353.801    440 155587.601   156341.154   157727.215
-846  mtVer+R7      80949.694    419 162737.387   163394.029   164774.883
-847  mtVer+R8      80941.008    421 162724.015   163389.416   164771.236
-868  mtVer+F+R7    78377.040    438 157630.080   158373.917   159759.968
-869  mtVer+F+R8    78367.826    440 157615.652   158369.206   159755.266
-890  mtInv+R7      80929.945    419 162697.890   163354.532   164735.385
-891  mtInv+R8      80929.550    421 162701.101   163366.501   164748.322
-912  mtInv+F+R7    76857.682    438 154591.364   155335.201   156721.252
-913  mtInv+F+R8    76848.659    440 154577.317   155330.870   156716.931
-934  mtMAM+R7      82118.046    419 165074.091   165730.733   167111.587
-935  mtMAM+R8      82115.108    421 165072.215   165737.616   167119.436
-956  mtMAM+F+R7    79213.851    438 159303.702   160047.539   161433.590
-957  mtMAM+F+R8    79211.874    440 159303.748   160057.301   161443.361
-WARNING: Normalizing state frequencies so that sum of them equals to 1
-978  FLAVI+R7      80046.261    419 160930.522   161587.163   162968.017
-WARNING: Normalizing state frequencies so that sum of them equals to 1
-979  FLAVI+R8      80035.796    421 160913.592   161578.993   162960.813
-WARNING: Normalizing state frequencies so that sum of them equals to 1
-1000  FLAVI+F+R7    79577.560    438 160031.119   160774.957   162161.007
-WARNING: Normalizing state frequencies so that sum of them equals to 1
-1001  FLAVI+F+R8    79567.334    440 160014.668   160768.222   162154.282
-1022  HIVb+R7       78298.012    419 157434.024   158090.666   159471.519
-1023  HIVb+R8       78290.834    421 157423.668   158089.068   159470.889
-1044  HIVb+F+R7     77909.527    438 156695.054   157438.892   158824.942
-1045  HIVb+F+R8     77902.586    440 156685.171   157438.725   158824.785
-1066  HIVw+R7       81755.777    419 164349.554   165006.195   166387.049
-1067  HIVw+R8       81741.828    421 164325.657   164991.057   166372.878
-1088  HIVw+F+R7     80329.551    438 161535.102   162278.939   163664.990
-1089  HIVw+F+R8     80325.397    440 161530.793   162284.346   163670.406
-1110  FLU+R7        78195.986    419 157229.972   157886.614   159267.468
-1111  FLU+R8        78193.560    421 157229.121   157894.522   159276.342
-1132  FLU+F+R7      77628.419    438 156132.837   156876.675   158262.725
-1133  FLU+F+R8      77625.900    440 156131.800   156885.353   158271.413
-1154  rtREV+R7      76448.648    419 153735.295   154391.937   155772.791
-1155  rtREV+R8      76444.261    421 153730.522   154395.923   155777.743
-1176  rtREV+F+R7    76097.112    438 153070.225   153814.062   155200.113
-1177  rtREV+F+R8    76092.417    440 153064.834   153818.387   155204.448
-1198  cpREV+R7      76623.352    419 154084.703   154741.345   156122.199
-WARNING: Log-likelihood -76625 of cpREV+R8 worse than cpREV+R7 -76623.4
-1199  cpREV+R8      76625.022    421 154092.044   154757.445   156139.265
-1220  cpREV+F+R7    76547.330    438 153970.660   154714.498   156100.548
-1221  cpREV+F+R8    76547.013    440 153974.027   154727.580   156113.640
+1000  FLAVI+F+R7    80756.930    442 162397.861   163128.480   164557.708
+1022  HIVb+R7       79467.571    423 159781.141   160427.455   161848.144
+1044  HIVb+F+R7     79067.005    442 159018.010   159748.630   161177.857
+1066  HIVw+R7       83036.696    423 166919.393   167565.706   168986.396
+1088  HIVw+F+R7     81566.032    442 164016.064   164746.683   166175.911
+1110  FLU+R7        79360.020    423 159566.040   160212.353   161633.043
+1132  FLU+F+R7      78756.766    442 158397.532   159128.151   160557.379
+1154  rtREV+R7      77548.101    423 155942.201   156588.515   158009.204
+1176  rtREV+F+R7    77183.871    442 155251.741   155982.361   157411.588
+1198  cpREV+R7      77746.747    423 156339.493   156985.807   158406.496
+1220  cpREV+F+R7    77655.920    442 156195.841   156926.460   158355.688
 Akaike Information Criterion:           Q.pfam+F+R7
 Corrected Akaike Information Criterion: Q.pfam+R7
 Bayesian Information Criterion:         Q.pfam+R7
 Best-fit model: Q.pfam+R7 chosen according to BIC
 
 All model information printed to tree/All_AKRs.model.gz
-CPU time for ModelFinder: 19684.433 seconds (5h:28m:4s)
-Wall-clock time for ModelFinder: 19671.311 seconds (5h:27m:51s)
+CPU time for ModelFinder: 6031.175 seconds (1h:40m:31s)
+Wall-clock time for ModelFinder: 6032.309 seconds (1h:40m:32s)
 WARNING: Normalizing state frequencies so that sum of them equals to 1
 
 NOTE: 178 MB RAM (0 GB) is required!
 Estimate model parameters (epsilon = 0.100)
-1. Initial log-likelihood: -75668.020
-Optimal log-likelihood: -75667.956
-Site proportion and rates:  (0.029,0.057) (0.055,0.192) (0.182,0.369) (0.095,0.589) (0.274,0.887) (0.258,1.369) (0.107,2.509)
-Parameters optimization took 1 rounds (9.002 sec)
+1. Initial log-likelihood: -76760.555
+Optimal log-likelihood: -76760.436
+Site proportion and rates:  (0.032,0.058) (0.058,0.189) (0.144,0.341) (0.121,0.523) (0.269,0.857) (0.254,1.366) (0.122,2.441)
+Parameters optimization took 1 rounds (8.674 sec)
 Wrote distance file to... 
 Computing ML distances based on estimated model parameters...
-Calculating distance matrix: done in 6.71795 secs using 100% CPU
-Computing ML distances took 6.718451 sec (of wall-clock time) 6.718429 sec (of CPU time)
-Setting up auxiliary I and S matrices: done in 0.0008607 secs using 99.92% CPU
-Constructing RapidNJ tree: done in 0.0021705 secs using 201.1% CPU
-Computing RapidNJ tree took 0.003137 sec (of wall-clock time) 0.005331 sec (of CPU time)
-Log-likelihood of RapidNJ tree: -75883.652
+Calculating distance matrix: done in 6.68475 secs using 100% CPU
+Computing ML distances took 6.685418 sec (of wall-clock time) 6.685395 sec (of CPU time)
+Setting up auxiliary I and S matrices: done in 0.000610698 secs using 99.89% CPU
+Constructing RapidNJ tree: done in 0.00203029 secs using 99.99% CPU
+Computing RapidNJ tree took 0.002736 sec (of wall-clock time) 0.002737 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -77035.943
 --------------------------------------------------------------------
 |             INITIALIZING CANDIDATE TREE SET                      |
 --------------------------------------------------------------------
-Generating 98 parsimony trees... 8.965 second
-Computing log-likelihood of 98 initial trees ... 68.330 seconds
-Current best score: -75667.956
+Generating 98 parsimony trees... 9.479 second
+Computing log-likelihood of 98 initial trees ... 66.499 seconds
+Current best score: -76760.436
 
 Do NNI search on 20 best initial trees
-Optimizing NNI: done in 3.44857 secs using 100% CPU
+Optimizing NNI: done in 3.4254 secs using 100% CPU
 Estimate model parameters (epsilon = 0.100)
-BETTER TREE FOUND at iteration 1: -75667.683
-Optimizing NNI: done in 10.4598 secs using 100% CPU
+BETTER TREE FOUND at iteration 1: -76759.185
+Optimizing NNI: done in 8.17949 secs using 99.88% CPU
+Optimizing NNI: done in 15.6295 secs using 100% CPU
+Optimizing NNI: done in 17.1158 secs using 99.88% CPU
+Optimizing NNI: done in 16.1274 secs using 100% CPU
 Estimate model parameters (epsilon = 0.100)
-BETTER TREE FOUND at iteration 2: -75646.747
-Optimizing NNI: done in 14.8545 secs using 99.93% CPU
+BETTER TREE FOUND at iteration 5: -76756.348
+Optimizing NNI: done in 15.7742 secs using 100% CPU
+Optimizing NNI: done in 14.3219 secs using 99.93% CPU
+Optimizing NNI: done in 15.4462 secs using 99.87% CPU
+Optimizing NNI: done in 16.555 secs using 99.82% CPU
+Optimizing NNI: done in 17.3673 secs using 100% CPU
+Iteration 10 / LogL: -76758.660 / Time: 0h:4m:33s
+Optimizing NNI: done in 16.889 secs using 99.94% CPU
+Optimizing NNI: done in 16.8023 secs using 99.94% CPU
 Estimate model parameters (epsilon = 0.100)
-BETTER TREE FOUND at iteration 3: -75635.478
-Optimizing NNI: done in 15.0156 secs using 100% CPU
-Optimizing NNI: done in 15.7683 secs using 99.81% CPU
-Optimizing NNI: done in 15.2051 secs using 99.8% CPU
-Estimate model parameters (epsilon = 0.100)
-BETTER TREE FOUND at iteration 6: -75608.082
-Optimizing NNI: done in 19.0078 secs using 99.89% CPU
-Optimizing NNI: done in 15.5958 secs using 99.87% CPU
-Optimizing NNI: done in 15.7078 secs using 100% CPU
-Optimizing NNI: done in 16.0532 secs using 100% CPU
-Iteration 10 / LogL: -75669.888 / Time: 0h:5m:10s
-Optimizing NNI: done in 14.9914 secs using 99.93% CPU
-Optimizing NNI: done in 14.8582 secs using 100% CPU
-Optimizing NNI: done in 15.7989 secs using 99.94% CPU
-Estimate model parameters (epsilon = 0.100)
-BETTER TREE FOUND at iteration 13: -75604.536
-Optimizing NNI: done in 16.4542 secs using 99.94% CPU
-Optimizing NNI: done in 15.6307 secs using 99.87% CPU
-Optimizing NNI: done in 15.117 secs using 99.87% CPU
-Optimizing NNI: done in 15.6769 secs using 99.81% CPU
-Optimizing NNI: done in 14.8281 secs using 100% CPU
-Optimizing NNI: done in 15.9006 secs using 99.87% CPU
-Optimizing NNI: done in 15.2336 secs using 100% CPU
-Iteration 20 / LogL: -75618.165 / Time: 0h:8m:4s
+BETTER TREE FOUND at iteration 12: -76740.371
+Optimizing NNI: done in 16.1843 secs using 99.94% CPU
+Optimizing NNI: done in 16.0056 secs using 99.88% CPU
+Optimizing NNI: done in 16.3945 secs using 99.94% CPU
+Optimizing NNI: done in 17.0206 secs using 99.94% CPU
+Optimizing NNI: done in 17.3513 secs using 100% CPU
+Optimizing NNI: done in 16.5833 secs using 100% CPU
+Optimizing NNI: done in 16.3535 secs using 99.94% CPU
+Optimizing NNI: done in 16.4868 secs using 99.94% CPU
+Iteration 20 / LogL: -76758.494 / Time: 0h:7m:37s
 Finish initializing candidate tree set (20)
-Current best tree score: -75604.536 / CPU time: 461.692
+Current best tree score: -76740.371 / CPU time: 434.805
 Number of iterations: 20
 --------------------------------------------------------------------
 |               OPTIMIZING CANDIDATE TREE SET                      |
 --------------------------------------------------------------------
-Optimizing NNI: done in 15.1743 secs using 100% CPU
-Optimizing NNI: done in 16.2545 secs using 99.94% CPU
-Optimizing NNI: done in 16.1608 secs using 100% CPU
-Optimizing NNI: done in 14.8974 secs using 99.87% CPU
-Optimizing NNI: done in 15.5075 secs using 99.94% CPU
-Optimizing NNI: done in 17.9767 secs using 99.89% CPU
-Optimizing NNI: done in 15.5147 secs using 99.94% CPU
-Optimizing NNI: done in 16.4367 secs using 99.82% CPU
-Optimizing NNI: done in 15.715 secs using 99.94% CPU
-Optimizing NNI: done in 14.0898 secs using 100% CPU
-Iteration 30 / LogL: -75604.646 / Time: 0h:10m:43s (0h:30m:42s left)
-Optimizing NNI: done in 16.953 secs using 100% CPU
+Optimizing NNI: done in 12.9051 secs using 100% CPU
+Optimizing NNI: done in 13.2149 secs using 100% CPU
+Optimizing NNI: done in 15.4195 secs using 100% CPU
+Optimizing NNI: done in 16.6495 secs using 99.94% CPU
 Estimate model parameters (epsilon = 0.100)
-BETTER TREE FOUND at iteration 31: -75604.129
-Optimizing NNI: done in 14.8041 secs using 99.73% CPU
-Optimizing NNI: done in 16.2839 secs using 100% CPU
+BETTER TREE FOUND at iteration 24: -76729.918
+Optimizing NNI: done in 14.7536 secs using 99.86% CPU
+Optimizing NNI: done in 18.1765 secs using 99.95% CPU
+Optimizing NNI: done in 16.8101 secs using 99.94% CPU
+Optimizing NNI: done in 17.79 secs using 99.94% CPU
+Optimizing NNI: done in 16.8892 secs using 100% CPU
+Optimizing NNI: done in 14 secs using 100% CPU
+Iteration 30 / LogL: -76749.353 / Time: 0h:10m:32s (0h:34m:8s left)
+Optimizing NNI: done in 13.039 secs using 99.85% CPU
+Optimizing NNI: done in 13.6858 secs using 100% CPU
+Optimizing NNI: done in 19.5357 secs using 100% CPU
+Optimizing NNI: done in 15.9456 secs using 100% CPU
+Optimizing NNI: done in 13.7175 secs using 100% CPU
 Estimate model parameters (epsilon = 0.100)
-BETTER TREE FOUND at iteration 33: -75584.414
-Optimizing NNI: done in 15.0571 secs using 99.87% CPU
-Optimizing NNI: done in 15.7967 secs using 99.87% CPU
-Optimizing NNI: done in 15.509 secs using 100% CPU
-Optimizing NNI: done in 15.4649 secs using 99.94% CPU
-Optimizing NNI: done in 16.8903 secs using 100% CPU
-Optimizing NNI: done in 15.4973 secs using 100% CPU
-Optimizing NNI: done in 12.9903 secs using 100% CPU
-BETTER TREE FOUND at iteration 40: -75584.406
-Iteration 40 / LogL: -75584.406 / Time: 0h:13m:45s (0h:35m:17s left)
-Optimizing NNI: done in 14.3547 secs using 100% CPU
-Optimizing NNI: done in 15.3928 secs using 100% CPU
-Optimizing NNI: done in 13.2847 secs using 99.93% CPU
-Optimizing NNI: done in 16.3968 secs using 99.94% CPU
-Optimizing NNI: done in 18.2094 secs using 99.84% CPU
-Optimizing NNI: done in 16.9083 secs using 99.82% CPU
-Optimizing NNI: done in 15.5099 secs using 99.94% CPU
-Optimizing NNI: done in 16.8104 secs using 100% CPU
-Optimizing NNI: done in 16.9764 secs using 100% CPU
-Optimizing NNI: done in 13.843 secs using 99.86% CPU
-Iteration 50 / LogL: -75588.943 / Time: 0h:16m:25s (0h:30m:9s left)
-Optimizing NNI: done in 14.8611 secs using 99.87% CPU
-Optimizing NNI: done in 16.3728 secs using 99.94% CPU
-Optimizing NNI: done in 15.2604 secs using 99.93% CPU
+BETTER TREE FOUND at iteration 35: -76729.745
+Optimizing NNI: done in 14.3454 secs using 100% CPU
+Optimizing NNI: done in 13.4118 secs using 99.93% CPU
+Optimizing NNI: done in 15.8244 secs using 99.94% CPU
 Estimate model parameters (epsilon = 0.100)
-BETTER TREE FOUND at iteration 53: -75578.249
-Optimizing NNI: done in 16.473 secs using 100% CPU
-Optimizing NNI: done in 14.2088 secs using 99.86% CPU
-Optimizing NNI: done in 13.5776 secs using 100% CPU
-Optimizing NNI: done in 15.6691 secs using 100% CPU
-Optimizing NNI: done in 14.5448 secs using 100% CPU
-Optimizing NNI: done in 15.8518 secs using 99.94% CPU
-Optimizing NNI: done in 15.2746 secs using 99.8% CPU
-Iteration 60 / LogL: -75705.428 / Time: 0h:19m:24s (0h:30m:35s left)
-Optimizing NNI: done in 14.8917 secs using 99.93% CPU
-Optimizing NNI: done in 16.0556 secs using 100% CPU
-Optimizing NNI: done in 14.6679 secs using 100% CPU
-Optimizing NNI: done in 14.7518 secs using 99.93% CPU
-Optimizing NNI: done in 12.9674 secs using 99.92% CPU
-Optimizing NNI: done in 15.6496 secs using 100% CPU
-Optimizing NNI: done in 17.509 secs using 99.94% CPU
-Optimizing NNI: done in 13.6085 secs using 99.93% CPU
-Optimizing NNI: done in 15.1566 secs using 100% CPU
-Optimizing NNI: done in 18.2911 secs using 99.89% CPU
-Iteration 70 / LogL: -75582.663 / Time: 0h:21m:59s (0h:26m:26s left)
-Optimizing NNI: done in 12.2354 secs using 100% CPU
-Optimizing NNI: done in 13.1457 secs using 100% CPU
-Optimizing NNI: done in 14.2755 secs using 99.86% CPU
-Optimizing NNI: done in 14.6265 secs using 100% CPU
+BETTER TREE FOUND at iteration 38: -76729.510
+Optimizing NNI: done in 15.6405 secs using 99.87% CPU
 Estimate model parameters (epsilon = 0.100)
-BETTER TREE FOUND at iteration 74: -75577.627
-Optimizing NNI: done in 16.3274 secs using 100% CPU
-Optimizing NNI: done in 13.5881 secs using 99.93% CPU
-Optimizing NNI: done in 15.6517 secs using 99.94% CPU
-Optimizing NNI: done in 13.1784 secs using 99.92% CPU
-Optimizing NNI: done in 14.749 secs using 99.86% CPU
-Optimizing NNI: done in 15.5823 secs using 100% CPU
-Iteration 80 / LogL: -75581.243 / Time: 0h:24m:41s (0h:29m:22s left)
-Optimizing NNI: done in 14.9503 secs using 99.87% CPU
-Optimizing NNI: done in 13.8271 secs using 99.93% CPU
-Optimizing NNI: done in 15.1764 secs using 100% CPU
-Optimizing NNI: done in 17.2521 secs using 100% CPU
-Optimizing NNI: done in 13.9547 secs using 99.93% CPU
-Optimizing NNI: done in 17.5464 secs using 99.94% CPU
+BETTER TREE FOUND at iteration 39: -76722.950
+Optimizing NNI: done in 16.257 secs using 99.88% CPU
+Iteration 40 / LogL: -76742.386 / Time: 0h:13m:39s (0h:34m:39s left)
+Optimizing NNI: done in 16.6839 secs using 100% CPU
+Optimizing NNI: done in 16.7181 secs using 99.88% CPU
+Optimizing NNI: done in 13.1964 secs using 100% CPU
+Optimizing NNI: done in 16.4585 secs using 100% CPU
+Optimizing NNI: done in 14.9462 secs using 99.87% CPU
+Optimizing NNI: done in 14.937 secs using 99.93% CPU
+Optimizing NNI: done in 17.7647 secs using 99.94% CPU
+Optimizing NNI: done in 16.6739 secs using 99.94% CPU
+Optimizing NNI: done in 15.6657 secs using 100% CPU
+Optimizing NNI: done in 13.9811 secs using 99.93% CPU
+Iteration 50 / LogL: -76732.898 / Time: 0h:16m:17s (0h:29m:35s left)
+Optimizing NNI: done in 14.4231 secs using 100% CPU
+Optimizing NNI: done in 15.2186 secs using 100% CPU
+Optimizing NNI: done in 16.5269 secs using 99.94% CPU
+Optimizing NNI: done in 14.8888 secs using 99.93% CPU
 Estimate model parameters (epsilon = 0.100)
-BETTER TREE FOUND at iteration 86: -75576.183
-Optimizing NNI: done in 15.9393 secs using 99.94% CPU
-Optimizing NNI: done in 16.3034 secs using 100% CPU
-Optimizing NNI: done in 17.6448 secs using 99.94% CPU
-Optimizing NNI: done in 16.1218 secs using 100% CPU
-Iteration 90 / LogL: -75590.981 / Time: 0h:27m:38s (0h:29m:48s left)
-Optimizing NNI: done in 16.9679 secs using 99.88% CPU
-Optimizing NNI: done in 17.3941 secs using 99.94% CPU
-Optimizing NNI: done in 14.0357 secs using 100% CPU
-Optimizing NNI: done in 15.5931 secs using 99.87% CPU
-Optimizing NNI: done in 14.5513 secs using 99.93% CPU
-Optimizing NNI: done in 15.789 secs using 99.94% CPU
-Optimizing NNI: done in 14.6561 secs using 99.93% CPU
-Optimizing NNI: done in 14.0923 secs using 100% CPU
-Optimizing NNI: done in 16.3881 secs using 99.94% CPU
-Optimizing NNI: done in 14.8217 secs using 100% CPU
-Iteration 100 / LogL: -75577.865 / Time: 0h:30m:13s (0h:26m:15s left)
-Optimizing NNI: done in 13.7567 secs using 99.93% CPU
+BETTER TREE FOUND at iteration 54: -76721.135
+Optimizing NNI: done in 15.3372 secs using 100% CPU
+Optimizing NNI: done in 17.3301 secs using 100% CPU
+Optimizing NNI: done in 15.2485 secs using 99.93% CPU
+Optimizing NNI: done in 15.7989 secs using 99.87% CPU
+Optimizing NNI: done in 16.1232 secs using 99.88% CPU
+Optimizing NNI: done in 16.918 secs using 99.94% CPU
+Iteration 60 / LogL: -76732.474 / Time: 0h:19m:21s (0h:30m:50s left)
+Optimizing NNI: done in 13.8866 secs using 99.93% CPU
+Optimizing NNI: done in 14.7587 secs using 100% CPU
+Optimizing NNI: done in 15.709 secs using 99.94% CPU
+Optimizing NNI: done in 15.6786 secs using 100% CPU
+Optimizing NNI: done in 17.6421 secs using 99.94% CPU
+Optimizing NNI: done in 14.1698 secs using 100% CPU
+Optimizing NNI: done in 17.0608 secs using 100% CPU
+Optimizing NNI: done in 17.4577 secs using 99.94% CPU
 Estimate model parameters (epsilon = 0.100)
-BETTER TREE FOUND at iteration 101: -75575.067
-Optimizing NNI: done in 14.9189 secs using 99.87% CPU
-Optimizing NNI: done in 14.9138 secs using 100% CPU
-Optimizing NNI: done in 15.6466 secs using 100% CPU
-Optimizing NNI: done in 16.8155 secs using 99.94% CPU
-Optimizing NNI: done in 16.7887 secs using 100% CPU
-Optimizing NNI: done in 14.9858 secs using 100% CPU
-Optimizing NNI: done in 15.0121 secs using 99.93% CPU
-Optimizing NNI: done in 14.2965 secs using 100% CPU
-Optimizing NNI: done in 17.3042 secs using 99.88% CPU
-Iteration 110 / LogL: -75633.423 / Time: 0h:32m:58s (0h:27m:31s left)
-Optimizing NNI: done in 16.1603 secs using 99.88% CPU
-Optimizing NNI: done in 15.1882 secs using 99.93% CPU
-Optimizing NNI: done in 17.0762 secs using 100% CPU
-Optimizing NNI: done in 16.7804 secs using 100% CPU
-Optimizing NNI: done in 14.5194 secs using 100% CPU
-Optimizing NNI: done in 14.9956 secs using 100% CPU
-Optimizing NNI: done in 12.6544 secs using 99.92% CPU
-Optimizing NNI: done in 16.7261 secs using 99.88% CPU
-Optimizing NNI: done in 15.6329 secs using 99.94% CPU
-Optimizing NNI: done in 15.1931 secs using 100% CPU
-Iteration 120 / LogL: -75587.661 / Time: 0h:35m:34s (0h:24m:13s left)
-Optimizing NNI: done in 15.355 secs using 99.87% CPU
-Optimizing NNI: done in 15.1198 secs using 99.8% CPU
-Optimizing NNI: done in 16.8665 secs using 99.94% CPU
-Optimizing NNI: done in 15.7711 secs using 99.87% CPU
-Optimizing NNI: done in 14.4675 secs using 100% CPU
-Optimizing NNI: done in 13.5389 secs using 99.93% CPU
-Optimizing NNI: done in 14.2465 secs using 100% CPU
-Optimizing NNI: done in 14.6711 secs using 100% CPU
-Optimizing NNI: done in 13.5704 secs using 99.93% CPU
-Optimizing NNI: done in 15.4624 secs using 100% CPU
-Iteration 130 / LogL: -75578.851 / Time: 0h:38m:5s (0h:20m:57s left)
-Optimizing NNI: done in 15.0633 secs using 99.93% CPU
-Optimizing NNI: done in 15.9823 secs using 100% CPU
-Optimizing NNI: done in 16.7954 secs using 99.88% CPU
-Optimizing NNI: done in 17.505 secs using 100% CPU
-Optimizing NNI: done in 15.5332 secs using 99.94% CPU
-Optimizing NNI: done in 17.2523 secs using 100% CPU
-Optimizing NNI: done in 14.1675 secs using 100% CPU
-Optimizing NNI: done in 14.6342 secs using 100% CPU
-Optimizing NNI: done in 14.2694 secs using 99.79% CPU
+BETTER TREE FOUND at iteration 68: -76719.027
+Optimizing NNI: done in 15.2422 secs using 100% CPU
+Optimizing NNI: done in 17.4523 secs using 99.94% CPU
 Estimate model parameters (epsilon = 0.100)
-BETTER TREE FOUND at iteration 139: -75571.926
-Optimizing NNI: done in 15.0397 secs using 100% CPU
-Iteration 140 / LogL: -75572.159 / Time: 0h:40m:51s (0h:29m:6s left)
-Optimizing NNI: done in 13.4554 secs using 100% CPU
-Optimizing NNI: done in 16.9134 secs using 99.94% CPU
-Optimizing NNI: done in 13.737 secs using 100% CPU
-Optimizing NNI: done in 15.0691 secs using 100% CPU
-Optimizing NNI: done in 14.579 secs using 99.93% CPU
-Optimizing NNI: done in 15.1871 secs using 99.93% CPU
-Optimizing NNI: done in 17.0793 secs using 100% CPU
-Optimizing NNI: done in 13.8325 secs using 100% CPU
-Optimizing NNI: done in 14.6 secs using 100% CPU
+BETTER TREE FOUND at iteration 70: -76718.273
+Iteration 70 / LogL: -76718.273 / Time: 0h:22m:19s (0h:32m:21s left)
+Optimizing NNI: done in 15.7276 secs using 99.94% CPU
+Optimizing NNI: done in 14.9997 secs using 99.93% CPU
+Optimizing NNI: done in 16.8125 secs using 99.88% CPU
+Optimizing NNI: done in 14.2767 secs using 99.93% CPU
+Optimizing NNI: done in 17.7524 secs using 99.94% CPU
+Optimizing NNI: done in 14.8912 secs using 99.87% CPU
+Optimizing NNI: done in 14.35 secs using 99.86% CPU
+Optimizing NNI: done in 13.0836 secs using 99.85% CPU
+Optimizing NNI: done in 14.529 secs using 99.86% CPU
+Optimizing NNI: done in 14.3402 secs using 99.79% CPU
+Iteration 80 / LogL: -76784.177 / Time: 0h:24m:51s (0h:28m:19s left)
+Optimizing NNI: done in 15.5622 secs using 100% CPU
+Optimizing NNI: done in 16.1444 secs using 100% CPU
+Optimizing NNI: done in 15.0901 secs using 100% CPU
+Optimizing NNI: done in 15.3954 secs using 100% CPU
+Optimizing NNI: done in 18.1256 secs using 99.94% CPU
+Optimizing NNI: done in 17.2132 secs using 99.94% CPU
+Optimizing NNI: done in 15.4518 secs using 100% CPU
+Optimizing NNI: done in 16.0324 secs using 99.94% CPU
+Optimizing NNI: done in 13.4434 secs using 100% CPU
+Optimizing NNI: done in 14.5253 secs using 99.93% CPU
+Iteration 90 / LogL: -76726.720 / Time: 0h:27m:29s (0h:24m:43s left)
+Optimizing NNI: done in 15.6987 secs using 100% CPU
+Optimizing NNI: done in 15.4739 secs using 99.94% CPU
+Optimizing NNI: done in 16.7369 secs using 100% CPU
+Optimizing NNI: done in 16.4233 secs using 99.94% CPU
+Optimizing NNI: done in 15.7477 secs using 100% CPU
+Optimizing NNI: done in 16.1285 secs using 99.94% CPU
+Optimizing NNI: done in 13.4642 secs using 99.93% CPU
+Optimizing NNI: done in 18.365 secs using 99.84% CPU
+Optimizing NNI: done in 13.6854 secs using 100% CPU
+Optimizing NNI: done in 15.9832 secs using 100% CPU
+Iteration 100 / LogL: -76728.215 / Time: 0h:30m:9s (0h:21m:19s left)
+Optimizing NNI: done in 14.317 secs using 99.93% CPU
+Optimizing NNI: done in 13.5604 secs using 100% CPU
+Optimizing NNI: done in 16.4671 secs using 100% CPU
+Optimizing NNI: done in 17.8286 secs using 99.94% CPU
+Optimizing NNI: done in 16.0789 secs using 100% CPU
+Optimizing NNI: done in 14.4755 secs using 100% CPU
+Optimizing NNI: done in 14.9237 secs using 99.93% CPU
+Optimizing NNI: done in 13.3907 secs using 99.93% CPU
+Optimizing NNI: done in 14.057 secs using 100% CPU
+Optimizing NNI: done in 14.4283 secs using 99.93% CPU
+Iteration 110 / LogL: -76729.616 / Time: 0h:32m:40s (0h:17m:58s left)
+Optimizing NNI: done in 14.6845 secs using 99.93% CPU
+Optimizing NNI: done in 15.5214 secs using 99.94% CPU
+Optimizing NNI: done in 16.3934 secs using 99.88% CPU
+Optimizing NNI: done in 13.196 secs using 99.92% CPU
+Optimizing NNI: done in 16.3599 secs using 100% CPU
+Optimizing NNI: done in 14.4461 secs using 100% CPU
+Optimizing NNI: done in 14.5745 secs using 99.93% CPU
+Optimizing NNI: done in 17.9126 secs using 99.94% CPU
+Optimizing NNI: done in 13.8781 secs using 100% CPU
+Optimizing NNI: done in 13.2514 secs using 99.92% CPU
+Iteration 120 / LogL: -76726.612 / Time: 0h:35m:11s (0h:14m:47s left)
+Optimizing NNI: done in 17.5541 secs using 99.83% CPU
+Optimizing NNI: done in 16.5031 secs using 99.82% CPU
+Optimizing NNI: done in 14.4168 secs using 100% CPU
+Optimizing NNI: done in 13.4584 secs using 99.93% CPU
+Optimizing NNI: done in 17.4619 secs using 100% CPU
+Optimizing NNI: done in 14.6456 secs using 99.93% CPU
+Optimizing NNI: done in 16.5626 secs using 100% CPU
+Optimizing NNI: done in 14.7267 secs using 100% CPU
+Optimizing NNI: done in 16.9314 secs using 99.76% CPU
+Optimizing NNI: done in 16.4616 secs using 100% CPU
+Iteration 130 / LogL: -76719.239 / Time: 0h:37m:51s (0h:11m:44s left)
+Optimizing NNI: done in 16.3254 secs using 99.94% CPU
+Optimizing NNI: done in 12.6684 secs using 100% CPU
+Optimizing NNI: done in 15.4923 secs using 99.94% CPU
+Optimizing NNI: done in 16.9105 secs using 99.94% CPU
+Optimizing NNI: done in 14.341 secs using 99.93% CPU
+Optimizing NNI: done in 13.5785 secs using 99.85% CPU
+Optimizing NNI: done in 15.098 secs using 99.87% CPU
+Optimizing NNI: done in 14.1836 secs using 99.93% CPU
+Optimizing NNI: done in 16.1079 secs using 100% CPU
 Estimate model parameters (epsilon = 0.100)
-BETTER TREE FOUND at iteration 149: -75570.243
-Optimizing NNI: done in 15.5645 secs using 99.87% CPU
-Iteration 150 / LogL: -75704.275 / Time: 0h:43m:31s (0h:28m:55s left)
-Optimizing NNI: done in 16.1617 secs using 100% CPU
-Optimizing NNI: done in 15.7176 secs using 99.94% CPU
-Optimizing NNI: done in 15.818 secs using 100% CPU
-Optimizing NNI: done in 16.8466 secs using 100% CPU
-Optimizing NNI: done in 16.0477 secs using 100% CPU
-Optimizing NNI: done in 14.9227 secs using 99.93% CPU
-Optimizing NNI: done in 13.7285 secs using 99.93% CPU
-Optimizing NNI: done in 16.4046 secs using 100% CPU
-Optimizing NNI: done in 17.7825 secs using 99.94% CPU
-Optimizing NNI: done in 15.7625 secs using 99.94% CPU
-Estimate model parameters (epsilon = 0.100)
-BETTER TREE FOUND at iteration 160: -75569.434
-Iteration 160 / LogL: -75569.434 / Time: 0h:46m:21s (0h:29m:9s left)
-Optimizing NNI: done in 15.9818 secs using 99.94% CPU
-Optimizing NNI: done in 17.6927 secs using 99.94% CPU
-Optimizing NNI: done in 16.5701 secs using 100% CPU
-Optimizing NNI: done in 15.9491 secs using 99.81% CPU
-Optimizing NNI: done in 15.6606 secs using 99.93% CPU
-Optimizing NNI: done in 16.5547 secs using 99.93% CPU
-Optimizing NNI: done in 14.779 secs using 99.93% CPU
-Optimizing NNI: done in 17.9128 secs using 99.99% CPU
-Optimizing NNI: done in 14.1404 secs using 99.99% CPU
-Optimizing NNI: done in 14.5152 secs using 99.92% CPU
-Estimate model parameters (epsilon = 0.100)
-BETTER TREE FOUND at iteration 170: -75568.887
-Iteration 170 / LogL: -75568.887 / Time: 0h:49m:8s (0h:29m:4s left)
-Optimizing NNI: done in 15.4399 secs using 99.99% CPU
-Estimate model parameters (epsilon = 0.100)
-BETTER TREE FOUND at iteration 171: -75568.606
-Optimizing NNI: done in 14.5657 secs using 99.86% CPU
-Optimizing NNI: done in 13.0383 secs using 99.99% CPU
-Optimizing NNI: done in 15.657 secs using 99.99% CPU
-Optimizing NNI: done in 17.4146 secs using 99.94% CPU
-Optimizing NNI: done in 15.4336 secs using 99.94% CPU
-Optimizing NNI: done in 15.9292 secs using 99.94% CPU
-Optimizing NNI: done in 14.2193 secs using 100% CPU
-Optimizing NNI: done in 15.994 secs using 99.87% CPU
-Optimizing NNI: done in 16.3702 secs using 100% CPU
-Iteration 180 / LogL: -75577.497 / Time: 0h:51m:53s (0h:26m:22s left)
-Optimizing NNI: done in 14.4082 secs using 99.93% CPU
-Optimizing NNI: done in 15.7924 secs using 99.81% CPU
-Optimizing NNI: done in 17.608 secs using 100% CPU
-Optimizing NNI: done in 14.4979 secs using 100% CPU
-Optimizing NNI: done in 14.1518 secs using 100% CPU
-Optimizing NNI: done in 15.4223 secs using 100% CPU
-Optimizing NNI: done in 13.834 secs using 99.93% CPU
-Optimizing NNI: done in 16.1206 secs using 99.81% CPU
-Optimizing NNI: done in 13.6401 secs using 100% CPU
-Optimizing NNI: done in 13.7182 secs using 100% CPU
-Iteration 190 / LogL: -75588.001 / Time: 0h:54m:24s (0h:23m:18s left)
-Optimizing NNI: done in 16.3626 secs using 99.88% CPU
-Optimizing NNI: done in 17.0264 secs using 100% CPU
-Optimizing NNI: done in 16.2632 secs using 99.88% CPU
-Optimizing NNI: done in 16.8178 secs using 99.94% CPU
-Optimizing NNI: done in 14.2331 secs using 100% CPU
-Optimizing NNI: done in 15.4665 secs using 100% CPU
-Optimizing NNI: done in 15.3577 secs using 100% CPU
-Optimizing NNI: done in 16.5871 secs using 99.94% CPU
-Optimizing NNI: done in 16.0971 secs using 99.94% CPU
-Optimizing NNI: done in 13.2305 secs using 99.92% CPU
-Iteration 200 / LogL: -75568.606 / Time: 0h:57m:3s (0h:20m:21s left)
-Optimizing NNI: done in 12.9326 secs using 100% CPU
-Optimizing NNI: done in 16.4836 secs using 99.94% CPU
-Optimizing NNI: done in 15.1208 secs using 100% CPU
-Optimizing NNI: done in 15.562 secs using 99.94% CPU
-Optimizing NNI: done in 16.2656 secs using 100% CPU
-Optimizing NNI: done in 13.2218 secs using 99.7% CPU
-Optimizing NNI: done in 14.5785 secs using 100% CPU
-Optimizing NNI: done in 15.385 secs using 99.93% CPU
-Optimizing NNI: done in 15.304 secs using 99.8% CPU
-Optimizing NNI: done in 17.9238 secs using 99.89% CPU
-Iteration 210 / LogL: -75572.570 / Time: 0h:59m:37s (0h:17m:24s left)
-Optimizing NNI: done in 15.1498 secs using 99.93% CPU
-Optimizing NNI: done in 14.9849 secs using 100% CPU
-Optimizing NNI: done in 17.0688 secs using 99.94% CPU
-Optimizing NNI: done in 15.3807 secs using 100% CPU
-Optimizing NNI: done in 15.9937 secs using 99.87% CPU
-Optimizing NNI: done in 15.4855 secs using 100% CPU
-Optimizing NNI: done in 14.1453 secs using 100% CPU
-Optimizing NNI: done in 17.2877 secs using 99.94% CPU
-Optimizing NNI: done in 15.3945 secs using 100% CPU
-Optimizing NNI: done in 13.211 secs using 99.85% CPU
-Iteration 220 / LogL: -75589.860 / Time: 1h:2m:12s (0h:14m:29s left)
-Optimizing NNI: done in 15.0065 secs using 100% CPU
-Optimizing NNI: done in 15.0635 secs using 99.93% CPU
-Optimizing NNI: done in 15.5969 secs using 99.94% CPU
-Optimizing NNI: done in 16.4347 secs using 100% CPU
-Optimizing NNI: done in 16.5468 secs using 99.94% CPU
-Optimizing NNI: done in 15.1853 secs using 99.93% CPU
-Optimizing NNI: done in 13.6359 secs using 99.93% CPU
-Optimizing NNI: done in 15.5613 secs using 99.94% CPU
-Optimizing NNI: done in 13.7278 secs using 99.93% CPU
-Optimizing NNI: done in 17.8614 secs using 99.83% CPU
-Iteration 230 / LogL: -75570.595 / Time: 1h:4m:48s (0h:11m:36s left)
-Optimizing NNI: done in 16.0471 secs using 100% CPU
-Optimizing NNI: done in 16.517 secs using 99.94% CPU
-Optimizing NNI: done in 14.6991 secs using 100% CPU
-Optimizing NNI: done in 13.761 secs using 100% CPU
-Optimizing NNI: done in 15.1432 secs using 100% CPU
-Optimizing NNI: done in 15.4745 secs using 100% CPU
-Optimizing NNI: done in 17.0501 secs using 99.94% CPU
-Optimizing NNI: done in 15.0449 secs using 100% CPU
-Optimizing NNI: done in 15.5199 secs using 99.94% CPU
-Optimizing NNI: done in 15.7542 secs using 100% CPU
-Iteration 240 / LogL: -75568.886 / Time: 1h:7m:25s (0h:8m:44s left)
-Optimizing NNI: done in 16.6463 secs using 100% CPU
-Optimizing NNI: done in 14.4456 secs using 100% CPU
-Optimizing NNI: done in 14.6356 secs using 100% CPU
-Optimizing NNI: done in 16.5332 secs using 99.82% CPU
-Optimizing NNI: done in 15.8158 secs using 100% CPU
-Optimizing NNI: done in 13.6596 secs using 99.93% CPU
-Optimizing NNI: done in 19.3357 secs using 100% CPU
-Optimizing NNI: done in 14.9865 secs using 99.93% CPU
-Optimizing NNI: done in 16.6643 secs using 99.94% CPU
-Optimizing NNI: done in 15.5157 secs using 100% CPU
-Iteration 250 / LogL: -75573.658 / Time: 1h:10m:5s (0h:5m:54s left)
-Optimizing NNI: done in 16.2629 secs using 99.94% CPU
-Optimizing NNI: done in 15.953 secs using 99.94% CPU
-Optimizing NNI: done in 15.2435 secs using 100% CPU
-Optimizing NNI: done in 15.2765 secs using 99.93% CPU
-Optimizing NNI: done in 17.2109 secs using 99.94% CPU
-Optimizing NNI: done in 16.2011 secs using 100% CPU
-Optimizing NNI: done in 14.8626 secs using 100% CPU
-Optimizing NNI: done in 16.0455 secs using 99.81% CPU
-Optimizing NNI: done in 15.4476 secs using 100% CPU
-Optimizing NNI: done in 14.3845 secs using 100% CPU
-Iteration 260 / LogL: -75569.205 / Time: 1h:12m:43s (0h:3m:5s left)
-Optimizing NNI: done in 14.149 secs using 99.93% CPU
-Optimizing NNI: done in 15.8972 secs using 99.87% CPU
-Optimizing NNI: done in 18.8244 secs using 99.84% CPU
-Optimizing NNI: done in 14.9701 secs using 100% CPU
-Optimizing NNI: done in 15.9405 secs using 100% CPU
-Optimizing NNI: done in 18.8717 secs using 99.95% CPU
-Optimizing NNI: done in 13.8427 secs using 100% CPU
-Optimizing NNI: done in 16.0642 secs using 99.94% CPU
-Optimizing NNI: done in 14.1509 secs using 99.86% CPU
-Optimizing NNI: done in 15.0113 secs using 99.93% CPU
-Iteration 270 / LogL: -75741.561 / Time: 1h:15m:22s (0h:0m:16s left)
-Optimizing NNI: done in 18.7244 secs using 99.95% CPU
-Optimizing NNI: done in 16.2064 secs using 99.94% CPU
-TREE SEARCH COMPLETED AFTER 272 ITERATIONS / Time: 1h:15m:57s
+UPDATE BEST LOG-LIKELIHOOD: -76718.199
+Optimizing NNI: done in 14.9917 secs using 99.87% CPU
+Iteration 140 / LogL: -76729.597 / Time: 0h:40m:31s (0h:8m:44s left)
+Optimizing NNI: done in 15.297 secs using 100% CPU
+Optimizing NNI: done in 17.352 secs using 99.83% CPU
+Optimizing NNI: done in 17.2125 secs using 99.94% CPU
+Optimizing NNI: done in 14.7943 secs using 99.93% CPU
+Optimizing NNI: done in 15.3909 secs using 99.94% CPU
+Optimizing NNI: done in 14.8225 secs using 99.93% CPU
+Optimizing NNI: done in 17.9346 secs using 100% CPU
+Optimizing NNI: done in 16.4296 secs using 99.88% CPU
+Optimizing NNI: done in 17.5289 secs using 100% CPU
+Optimizing NNI: done in 13.8669 secs using 99.86% CPU
+Iteration 150 / LogL: -76726.249 / Time: 0h:43m:13s (0h:5m:48s left)
+Optimizing NNI: done in 15.6605 secs using 99.94% CPU
+Optimizing NNI: done in 17.3993 secs using 99.94% CPU
+Optimizing NNI: done in 15.0895 secs using 99.93% CPU
+Optimizing NNI: done in 15.2446 secs using 100% CPU
+Optimizing NNI: done in 14.394 secs using 99.86% CPU
+Optimizing NNI: done in 14.7707 secs using 100% CPU
+Optimizing NNI: done in 14.8933 secs using 99.93% CPU
+Optimizing NNI: done in 17.1169 secs using 99.82% CPU
+Optimizing NNI: done in 15.4464 secs using 99.94% CPU
+Optimizing NNI: done in 13.9683 secs using 100% CPU
+Iteration 160 / LogL: -76726.613 / Time: 0h:45m:48s (0h:2m:52s left)
+Optimizing NNI: done in 14.6282 secs using 99.93% CPU
+Optimizing NNI: done in 13.3251 secs using 100% CPU
+Optimizing NNI: done in 14.0203 secs using 100% CPU
+Optimizing NNI: done in 14.1182 secs using 99.93% CPU
+Optimizing NNI: done in 17.0721 secs using 100% CPU
+Optimizing NNI: done in 14.9803 secs using 99.93% CPU
+Optimizing NNI: done in 14.6068 secs using 99.93% CPU
+Optimizing NNI: done in 15.9473 secs using 99.94% CPU
+Optimizing NNI: done in 14.1139 secs using 100% CPU
+Optimizing NNI: done in 17.5949 secs using 99.83% CPU
+Iteration 170 / LogL: -76718.206 / Time: 0h:48m:20s (0h:0m:0s left)
+Optimizing NNI: done in 15.062 secs using 100% CPU
+TREE SEARCH COMPLETED AFTER 171 ITERATIONS / Time: 0h:48m:35s
 
 --------------------------------------------------------------------
 |                    FINALIZING TREE SEARCH                        |
 --------------------------------------------------------------------
 Performs final model parameters optimization
 Estimate model parameters (epsilon = 0.010)
-1. Initial log-likelihood: -75568.606
-2. Current log-likelihood: -75568.586
-3. Current log-likelihood: -75568.554
-4. Current log-likelihood: -75568.520
-5. Current log-likelihood: -75568.489
-6. Current log-likelihood: -75568.457
-7. Current log-likelihood: -75568.426
-8. Current log-likelihood: -75568.400
-9. Current log-likelihood: -75568.385
-10. Current log-likelihood: -75568.369
-11. Current log-likelihood: -75568.354
-12. Current log-likelihood: -75568.339
-13. Current log-likelihood: -75568.324
-14. Current log-likelihood: -75568.309
-15. Current log-likelihood: -75568.294
-16. Current log-likelihood: -75568.279
-17. Current log-likelihood: -75568.265
-18. Current log-likelihood: -75568.250
-19. Current log-likelihood: -75568.236
-20. Current log-likelihood: -75568.222
-21. Current log-likelihood: -75568.208
-22. Current log-likelihood: -75568.194
-23. Current log-likelihood: -75568.181
-24. Current log-likelihood: -75568.167
-25. Current log-likelihood: -75568.154
-26. Current log-likelihood: -75568.140
-27. Current log-likelihood: -75568.127
-28. Current log-likelihood: -75568.114
-29. Current log-likelihood: -75568.101
-30. Current log-likelihood: -75568.088
-31. Current log-likelihood: -75568.075
-32. Current log-likelihood: -75568.063
-33. Current log-likelihood: -75568.050
-34. Current log-likelihood: -75568.038
-35. Current log-likelihood: -75568.025
-36. Current log-likelihood: -75568.013
-37. Current log-likelihood: -75568.001
-38. Current log-likelihood: -75567.989
-39. Current log-likelihood: -75567.977
-40. Current log-likelihood: -75567.965
-41. Current log-likelihood: -75567.953
-42. Current log-likelihood: -75567.942
-43. Current log-likelihood: -75567.930
-44. Current log-likelihood: -75567.918
-45. Current log-likelihood: -75567.907
-46. Current log-likelihood: -75567.896
-47. Current log-likelihood: -75567.884
-48. Current log-likelihood: -75567.873
-49. Current log-likelihood: -75567.862
-50. Current log-likelihood: -75567.851
-51. Current log-likelihood: -75567.840
-52. Current log-likelihood: -75567.829
-53. Current log-likelihood: -75567.819
-54. Current log-likelihood: -75567.808
-55. Current log-likelihood: -75567.797
-56. Current log-likelihood: -75567.787
-57. Current log-likelihood: -75567.776
-58. Current log-likelihood: -75567.766
-59. Current log-likelihood: -75567.756
-60. Current log-likelihood: -75567.746
-61. Current log-likelihood: -75567.735
-62. Current log-likelihood: -75567.725
-Optimal log-likelihood: -75567.711
-Site proportion and rates:  (0.027,0.048) (0.051,0.181) (0.170,0.354) (0.100,0.548) (0.276,0.873) (0.269,1.364) (0.108,2.473)
-Parameters optimization took 62 rounds (261.554 sec)
-BEST SCORE FOUND : -75567.711
-Total tree length: 109.607
+1. Initial log-likelihood: -76718.199
+2. Current log-likelihood: -76718.166
+3. Current log-likelihood: -76718.118
+4. Current log-likelihood: -76718.073
+5. Current log-likelihood: -76718.030
+6. Current log-likelihood: -76717.989
+7. Current log-likelihood: -76717.949
+8. Current log-likelihood: -76717.910
+9. Current log-likelihood: -76717.871
+10. Current log-likelihood: -76717.833
+11. Current log-likelihood: -76717.796
+12. Current log-likelihood: -76717.759
+13. Current log-likelihood: -76717.723
+14. Current log-likelihood: -76717.688
+15. Current log-likelihood: -76717.653
+16. Current log-likelihood: -76717.618
+17. Current log-likelihood: -76717.584
+18. Current log-likelihood: -76717.551
+19. Current log-likelihood: -76717.533
+20. Current log-likelihood: -76717.509
+21. Current log-likelihood: -76717.473
+22. Current log-likelihood: -76717.441
+23. Current log-likelihood: -76717.408
+24. Current log-likelihood: -76717.391
+25. Current log-likelihood: -76717.375
+26. Current log-likelihood: -76717.358
+27. Current log-likelihood: -76717.342
+28. Current log-likelihood: -76717.326
+29. Current log-likelihood: -76717.311
+30. Current log-likelihood: -76717.295
+31. Current log-likelihood: -76717.280
+32. Current log-likelihood: -76717.265
+33. Current log-likelihood: -76717.250
+34. Current log-likelihood: -76717.235
+35. Current log-likelihood: -76717.220
+36. Current log-likelihood: -76717.206
+37. Current log-likelihood: -76717.191
+38. Current log-likelihood: -76717.177
+39. Current log-likelihood: -76717.162
+40. Current log-likelihood: -76717.148
+41. Current log-likelihood: -76717.134
+42. Current log-likelihood: -76717.120
+43. Current log-likelihood: -76717.101
+44. Current log-likelihood: -76717.086
+45. Current log-likelihood: -76717.071
+46. Current log-likelihood: -76717.057
+47. Current log-likelihood: -76717.043
+48. Current log-likelihood: -76717.029
+49. Current log-likelihood: -76717.015
+50. Current log-likelihood: -76717.002
+51. Current log-likelihood: -76716.989
+52. Current log-likelihood: -76716.976
+53. Current log-likelihood: -76716.963
+54. Current log-likelihood: -76716.950
+55. Current log-likelihood: -76716.937
+56. Current log-likelihood: -76716.924
+57. Current log-likelihood: -76716.912
+58. Current log-likelihood: -76716.899
+59. Current log-likelihood: -76716.887
+60. Current log-likelihood: -76716.874
+61. Current log-likelihood: -76716.862
+62. Current log-likelihood: -76716.850
+63. Current log-likelihood: -76716.838
+64. Current log-likelihood: -76716.826
+65. Current log-likelihood: -76716.814
+66. Current log-likelihood: -76716.803
+67. Current log-likelihood: -76716.791
+68. Current log-likelihood: -76716.779
+69. Current log-likelihood: -76716.768
+70. Current log-likelihood: -76716.756
+71. Current log-likelihood: -76716.745
+72. Current log-likelihood: -76716.734
+73. Current log-likelihood: -76716.723
+74. Current log-likelihood: -76716.712
+75. Current log-likelihood: -76716.700
+76. Current log-likelihood: -76716.690
+77. Current log-likelihood: -76716.679
+78. Current log-likelihood: -76716.668
+79. Current log-likelihood: -76716.657
+80. Current log-likelihood: -76716.647
+81. Current log-likelihood: -76716.636
+82. Current log-likelihood: -76716.625
+83. Current log-likelihood: -76716.615
+84. Current log-likelihood: -76716.605
+85. Current log-likelihood: -76716.595
+86. Current log-likelihood: -76716.584
+87. Current log-likelihood: -76716.574
+88. Current log-likelihood: -76716.564
+89. Current log-likelihood: -76716.554
+Optimal log-likelihood: -76716.540
+Site proportion and rates:  (0.030,0.048) (0.056,0.179) (0.150,0.342) (0.120,0.532) (0.268,0.859) (0.253,1.359) (0.123,2.437)
+Parameters optimization took 89 rounds (400.970 sec)
+BEST SCORE FOUND : -76716.540
+Total tree length: 113.696
 
-Total number of iterations: 272
-CPU time used for tree search: 4532.653 sec (1h:15m:32s)
-Wall-clock time used for tree search: 4535.049 sec (1h:15m:35s)
-Total CPU time used: 4817.080 sec (1h:20m:17s)
-Total wall-clock time used: 4819.511 sec (1h:20m:19s)
+Total number of iterations: 171
+CPU time used for tree search: 2891.391 sec (0h:48m:11s)
+Wall-clock time used for tree search: 2892.892 sec (0h:48m:12s)
+Total CPU time used: 3315.254 sec (0h:55m:15s)
+Total wall-clock time used: 3316.831 sec (0h:55m:16s)
 
 Analysis results written to: 
   IQ-TREE report:                tree/All_AKRs.iqtree
@@ -857,4 +696,4 @@ Analysis results written to:
   Likelihood distances:          tree/All_AKRs.mldist
   Screen log file:               tree/All_AKRs.log
 
-Date and Time: Wed Nov  1 00:44:03 2023
+Date and Time: Tue Dec 19 12:28:42 2023

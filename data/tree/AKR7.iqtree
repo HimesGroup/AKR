@@ -2,7 +2,7 @@ IQ-TREE 2.2.5 COVID-edition built Sep 15 2023
 
 Input file name: msa/AKR7.aln
 Type of analysis: ModelFinder + tree reconstruction
-Random seed number: 904229
+Random seed number: 7637
 
 REFERENCES
 ----------
@@ -337,7 +337,7 @@ For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
 TIME STAMP
 ----------
 
-Date and time: Tue Oct 31 17:55:30 2023
-Total CPU time used: 0.241008 seconds (0h:0m:0s)
-Total wall-clock time used: 0.244877 seconds (0h:0m:0s)
+Date and time: Tue Dec 19 09:52:33 2023
+Total CPU time used: 0.235353 seconds (0h:0m:0s)
+Total wall-clock time used: 0.235416 seconds (0h:0m:0s)
 

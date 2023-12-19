@@ -1,216 +1,212 @@
-,AKR,Accession,Species,Enzyme,PDB,Alt Splicing
-1,AKR1A1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_006057"">NP_006057</a>",Homo sapiens,aldehyde reductase  (EC 1.1.1.2),"<a href=""https://www.rcsb.org/structure/2ALR"">2ALR</a>","<a href=""http://useast.ensembl.org/Homo_sapiens/Gene/Summary?db=core;g=ENSG00000117448;r=1:45550543-45570049"">Transcripts</a>"
-2,AKR1A2,"<a href=""https://www.ncbi.nlm.nih.gov/protein/p50578"">P50578</a>",Sus scrofa,aldehyde reductase (AK1A1_PIG),"<a href=""https://www.rcsb.org/structure/1CWN"">1CWN</a>",
-3,AKR1A3,"<a href=""https://www.ncbi.nlm.nih.gov/protein/P51635"">P51635</a>",Rattus norvegicus,aldehyde reductase (AK1A1_RAT),,
-4,AKR1A4,"<a href=""https://www.ncbi.nlm.nih.gov/protein/Np_067448"">NP_067448</a>",Mus musculus,"murine liver aldehyde reductase, Mucoaldehyde reductase","<a href=""https://www.rcsb.org/structure/4GAC"">4GAC</a>","<a href=""http://useast.ensembl.org/Mus_musculus_C57BL_6NJ/Transcript/ProteinSummary?g=MGP_C57BL6NJ_G0029053;r=4:122085479-122113544;t=MGP_C57BL6NJ_T0067649"">Transcripts</a>"
-5,AKR1B1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_001619"">NP_001619</a>",Homo sapiens,aldose reductase  (EC 1.1.1.21),"<a href=""https://www.rcsb.org/structure/1ADS"">1ADS</a>","<a href=""http://useast.ensembl.org/Homo_sapiens/Transcript/ProteinSummary?g=ENSG00000085662;r=7:134442350-134459142;t=ENST00000285930"">Transcripts</a>"
-6,AKR1B2,"<a href=""https://www.ncbi.nlm.nih.gov/protein/P15122"">P15122</a>",Oryctolagus cuniculus,aldose reductase,,
-7,AKR1B3,"<a href=""https://www.ncbi.nlm.nih.gov/protein/P45376"">P45376</a>",Mus musculus,aldose reductase,,
-8,AKR1B4,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_036630"">NP_036630</a>",Rattus norvegicus,aldose reductase,,"<a href=""http://useast.ensembl.org/Rattus_norvegicus/Transcript/ProteinSummary?g=ENSRNOG00000009513;r=4:61706864-61720956;t=ENSRNOT00000012879"">Transcripts</a>"
-9,AKR1B5,"<a href=""https://www.ncbi.nlm.nih.gov/protein/P16116"">P16116</a>",Bos taurus,aldose reductase  (bovine 20a-HSD),,
-10,AKR1B6,"<a href=""https://www.ncbi.nlm.nih.gov/protein/P80276"">P80276</a>",Sus scrofa,aldose reductase,"<a href=""https://www.rcsb.org/structure/1AH0"">1AH0</a>",
-11,AKR1B7,"<a href=""https://www.ncbi.nlm.nih.gov/protein/P21300"">P21300</a>",Mus musculus,aldose reductase related protein 1 androgen-dependent vas deferens protein,,"<a href=""http://www.informatics.jax.org/sequence/marker/MGI:101918"">Transcripts</a>"
-12,AKR1B8,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_032038"">NP_032038</a>",Mus musculus,fibroblast growth factor induced protein,"<a href=""https://www.rcsb.org/structure/1FRB"">1FRB</a>","<a href=""http://useast.ensembl.org/Mus_musculus_WSB_EiJ/Transcript/ProteinSummary?g=MGP_WSBEiJ_G0029731;r=6:31890076-31906288;t=MGP_WSBEiJ_T0075628"">Transcripts</a>"
-13,AKR1B9,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAC53199"">AAC53199</a>",Cricetulus griseus,inducible-aldo-keto reductase from CHO cells,"<a href=""https://www.rcsb.org/structure/1C9W"">1C9W</a>",
-14,AKR1B10,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_064695"">NP_064695</a>",Homo sapiens,small intestine reductase,"<a href=""https://www.rcsb.org/structure/1ZUA"">1ZUA</a>","<a href=""http://useast.ensembl.org/Homo_sapiens/Transcript/ProteinSummary?g=ENSG00000198074;r=7:134527592-134541408;t=ENST00000359579"">Transcripts</a>"
-15,AKR1B12,"<a href=""https://www.ncbi.nlm.nih.gov/protein/CAC40811"">CAC40811</a>",Gallus domesticus ,chicken aldo-keto reductase,,
-16,AKR1B13,"<a href=""https://www.ncbi.nlm.nih.gov/protein/CAC80649"">CAC80649</a>",Rattus norvegicus,aldose reductase-like gene,,
-17,AKR1B14,"<a href=""https://www.ncbi.nlm.nih.gov/protein/Np_446233"">NP_446233</a>",Rattus norvegicus,aldose reductase related protein,"<a href=""https://www.rcsb.org/structure/3O3R"">3O3R</a>","<a href=""http://useast.ensembl.org/Rattus_norvegicus/Transcript/ProteinSummary?g=ENSRNOG00000009875;r=4:61850348-61862526;t=ENSRNOT00000013423"">Transcripts</a>"
-18,AKR1B15,"<a href=""https://www.ncbi.nlm.nih.gov/protein/EAL24068"">EAL24068</a>",Homo sapiens,Aldose Reductase (3-Keto-acyl CoA reductase),,
-19,AKR1B18,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_001013102"">NP_001013102</a>",Rattus norvegicus,Rattus norvegicus aldo-keto reductase,,"<a href=""http://useast.ensembl.org/Rattus_norvegicus/Transcript/ProteinSummary?g=ENSRNOG00000009734;r=4:61814974-61828657;t=ENSRNOT00000074951"">Transcripts</a>"
-20,AKR1B19,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_001254517"">NP_001254517</a>",Oryctolagus cuniculus,AR-like protein (3beta-HSD),,"<a href=""http://useast.ensembl.org/Oryctolagus_cuniculus/Transcript/ProteinSummary?g=ENSOCUG00000026383;r=7:13033140-13043915;t=ENSOCUT00000026904"">Transcripts</a>"
-21,AKR1C1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_001344"">NP_001344</a>",Homo sapiens,"20a-Hydroxysteroid Dehydrogenase (20a-HSD) (EC 1.1.1.149), DD1 (EC 1.3.1.20)","<a href=""https://www.rcsb.org/structure/3C3U"">3C3U</a>","<a href=""http://useast.ensembl.org/Homo_sapiens/Transcript/ProteinSummary?g=ENSG00000187134;r=10:4963253-4983283;t=ENST00000380872"">Transcripts</a>"
-22,AKR1C2,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_001345"">NP_001345</a>",Homo sapiens,"Type III 3a-HSD (EC 1.1.1.213), DD2 (EC 1.3.1.20), bile acid binding protein","<a href=""https://www.rcsb.org/structure/1IHI"">1IHI</a>","<a href=""http://useast.ensembl.org/Homo_sapiens/Transcript/ProteinSummary?g=ENSG00000151632;r=10:4987400-5004023;t=ENST00000380753"">Transcripts</a>"
-23,AKR1C3,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_003730"">NP_003730</a>",Homo sapiens,"Type V 17b-HSD (EC 1.1.1.213), DDx (EC 1.3.1.20), 17b-HSD type V (EC 1.1.1.62)","<a href=""https://www.rcsb.org/structure/1RY0"">1RY0</a>","<a href=""http://useast.ensembl.org/Homo_sapiens/Transcript/ProteinSummary?g=ENSG00000196139;r=10:5093793-5107686;t=ENST00000380554"">Transcripts</a>"
-24,AKR1C4,"<a href=""https://www.ncbi.nlm.nih.gov/protein/P17516"">P17516</a>",Homo sapiens,"Type I 3a-HSD (EC 1.1.1.213), DD4 (EC 1.3.1.20), chlordecone reductase (EC 1.1.1.125)","<a href=""https://www.rcsb.org/structure/2FVL"">2FVL</a>",
-25,AKR1C5,"<a href=""https://www.ncbi.nlm.nih.gov/protein/p80508"">P80508</a>",Oryctolagus cuniculus,"Prostaglandin E2 reductase, 20a-HSD (EC 1.1.1.149)","<a href=""https://www.rcsb.org/structure/1Q13"">1Q13</a>",
-26,AKR1C6,"<a href=""https://www.ncbi.nlm.nih.gov/protein/np_085114"">NP_085114</a>",Mus musculus,"Estradiol 17b-HSD (EC 1.1.1.62),Murine Type 5 17b-HSD",,"<a href=""http://useast.ensembl.org/Mus_musculus_WSB_EiJ/Transcript/ProteinSummary?g=MGP_WSBEiJ_G0019548;r=13:943899-964583;t=MGP_WSBEiJ_T0035349"">Transcripts</a>"
-27,AKR1C7,"<a href=""https://www.ncbi.nlm.nih.gov/protein/P05980"">P05980</a>",Bos taurus,"Prostaglandin F synthase 1 (EC 1.1.1.188), Prostaglandin D2 11-ketoreductase",,
-28,AKR1C8,"<a href=""https://www.ncbi.nlm.nih.gov/protein/P51652"">P51652</a>",Rattus norvegicus,20a-HSD (EC 1.1.1.149),,
-29,AKR1C9,"<a href=""https://www.ncbi.nlm.nih.gov/protein/p23457"">P23457</a>",Rattus norvegicus,3a-HSD (EC 1.1.1.213),"<a href=""https://www.rcsb.org/structure/1RAL"">1RAL</a>",
-30,AKR1C10a,"<a href=""https://www.ncbi.nlm.nih.gov/protein/p02532"">P02532</a>",Rana temporaria,rho-crystallin,,
-31,AKR1C10b,"<a href=""https://www.ncbi.nlm.nih.gov/protein/p17264"">P17264</a>",Rana catesbeina,rho-crystallin,,
-32,AKR1C11,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAA13690"">BAA13690</a>",Bos taurus,prostaglandin F synthase 2 (EC 1.1.1.188),,
-33,AKR1C12,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_038805"">NP_038805</a>",Mus musculus,aldo-keto reductase 1C12,,"<a href=""http://useast.ensembl.org/Mus_musculus_WSB_EiJ/Transcript/ProteinSummary?g=MGP_WSBEiJ_G0019547;r=13:775474-787537;t=MGP_WSBEiJ_T0035347"">Transcripts</a>"
-34,AKR1C13,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_038806"">NP_038806</a>",Mus musculus,interleukin-3-regulated AKR,,"<a href=""http://useast.ensembl.org/Mus_musculus_WSB_EiJ/Transcript/ProteinSummary?g=MGP_WSBEiJ_G0019545;r=13:693080-707835;t=MGP_WSBEiJ_T0035343"">Transcripts</a>"
-35,AKR1C14,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_598833"">NP_598833</a>",Mus musculus,AKR,,"<a href=""http://useast.ensembl.org/Mus_musculus_WSB_EiJ/Transcript/ProteinSummary?g=MGP_WSBEiJ_G0019543;r=13:548303-590521;t=MGP_WSBEiJ_T0035338"">Transcripts</a>"
-36,AKR1C15,"<a href=""https://www.ncbi.nlm.nih.gov/protein/2008147B"">2008147B</a>",Rattus norvegicus,rat AKR C,,
-37,AKR1C16,"<a href=""https://www.ncbi.nlm.nih.gov/protein/2008147A"">2008147A</a>",Rattus norvegicus,rat AKR B,,
-38,AKR1C17,"<a href=""https://www.ncbi.nlm.nih.gov/protein/2008147C"">2008147C</a>",Rattus norvegicus,rat AKR D,,
-39,AKR1C18,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_001333464"">NP_001333464</a>",Mus musculus,murine 20a-HSD,,"<a href=""http://useast.ensembl.org/Mus_musculus/Gene/Summary?db=core;g=ENSMUSG00000021214;r=13:757644-775280"">Transcripts</a>"
-40,AKR1C19,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_001013807"">NP_001013807</a>",Mus musculus,murine 3(20a)-HSD,,"<a href=""http://useast.ensembl.org/Mus_musculus/Gene/Summary?db=core;g=ENSMUSG00000071551;r=13:734282-755297"">Transcripts</a>"
-41,AKR1C20,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_473421.1?report=genpept"">NP_473421</a>",Mus musculus,murine dihydrodiol dehydrogenase (Removed),,
-42,AKR1C21,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_084177"">NP_084177</a>",Mus musculus,17a-HSD,"<a href=""https://www.rcsb.org/structure/3FJN"">3FJN</a>","<a href=""http://useast.ensembl.org/Mus_musculus/Gene/Summary?db=core;g=ENSMUSG00000021207;r=13:1084117-1096565"">Transcripts</a>"
-43,AKR1C22,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAD02825"">BAD02825</a>",Mus musculus,dihydrodiol dehydrogenase,,
-44,AKR1C23,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAY16444"">AAY16444</a>",Equus caballus,17b(20a)-hydroxysteroid dehydrogenase,,
-45,AKR1C24,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAE75957"">BAE75957</a>",Rattus norvegicus,"17b-hydroxysteroid dehydrogenase6t-butyl-2, 3-epoxy-5-cyclohexene-1, 4-dionereductase",,
-46,AKR1C25,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAB63209"">BAB63209</a>",Macaca fuscata,3(20)a-HSD,,
-47,AKR1C26,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAM37087"">BAM37087</a>",Oryctolagus cuniculus,morphine-6-dehydrogenase,,
-48,AKR1C27,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAM37088"">BAM37088</a>",Oryctolagus cuniculus,3alpha(17beta)-hydroxysteroid dehydrogenase (testosterone and E2),,
-49,AKR1C28,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAM37089"">BAM37089</a>",Oryctolagus cuniculus,3alpha(17beta)-hydroxysteroid dehydrogenase (testosterone and E2),,
-50,AKR1C29,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAN20006"">BAN20006</a>",Oryctolagus cuniculus,3alpha/17beta/20alpha-hydroxysteroid dehydrogenase,,
-51,AKR1C30,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAN84250"">BAN84250</a>",Oryctolagus cuniculus,"Naphthalene reductase 1, 17beta-hydroxysteroid dehydrogenase",,
-52,AKR1C31,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAN84251"">BAN84251</a>",Oryctolagus cuniculus,3alpha/17beta/20alpha-HSD,,
-53,AKR1C32,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAN84252"">BAN84252</a>",Oryctolagus cuniculus,"loxoprofen reductase,  3alpha/17beta/20alpha-HSD",,
-54,AKR1C33,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAN84253"">BAN84253</a>",Oryctolagus cuniculus,"Naloxone reductae 2, 3alpha/17beta/20alpha-HSD",,
-55,AKR1C34,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAP76082"">BAP76082</a>",Mesocricetus auratus,Morphine-6-dhydrogenase/3b/17b/20a-HSD,,
-56,AKR1C35,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAP76083"">BAP76083</a>",Mesocricetus auratus,3beta/17beta-hydroxysteroid dehydrogenase,,
-57,AKR1D1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_005980"">NP_005980</a>",Homo sapiens,Steroid 5b-Reductase (EC 1.3.99.6),"<a href=""https://www.rcsb.org/structure/3CMF"">3CMF</a>","<a href=""http://useast.ensembl.org/Homo_sapiens/Transcript/ProteinSummary?g=ENSG00000122787;r=7:138076477-138117986;t=ENST00000242375"">Transcripts</a>"
-58,AKR1D2,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_620239"">NP620239</a>",Rattus norvegicus,D4-3-ketosteroid-5b-reductase (AK1D1_RAT),,
-59,AKR1D3,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAA82867"">BAA82867</a>",Oryctolagus cuniculus,D4-3-ketosteroid-5b-reductase,,
-60,AKR1D4,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_663397"">NP_6633397</a>",Mus musculus,3-oxo-5-beta-steroid 4-dehydrogenase,,"<a href=""http://useast.ensembl.org/Mus_musculus/Gene/Summary?db=core;g=ENSMUSG00000038641;r=6:35174274-35212222"">Transcripts</a>"
-61,AKR1E1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAB37274"">AAB37274</a>",Mus musculus,mouse liver keto-reductase,,
-62,AKR1E2,"<a href=""https://www.ncbi.nlm.nih.gov/protein/q96jd6"">Q96JD6</a>",Homo sapiens,"1,5-Andyro-D-fructose reductase",,
-63,AKR1G1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_509242"">NP_509242</a>",Caenorhabditis elegans,Aldo-keto reductase,"<a href=""https://www.rcsb.org/structure/1QWK"">1QWK</a>",
-64,AKR1H1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AFV36370"">AFV36370</a>",Reticulitermes flavipes,Biomass sacchrification,,
-65,AKR1I1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/5KET_A"">5KET_A</a>",Coptotermes gestroi,CgAKR-1: Aldehyde reductase,,
-66,AKR2A1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/P28475"">P28475</a>",Malus domestica,NADP+-dependent sorbitol-6-phosphate reductase (EC 1.1.1.200),,"<a href=""http://useast.ensembl.org/Caenorhabditis_elegans/Transcript/ProteinSummary?g=WBGene00015565;r=X:7341509-7342780;t=C07D8.6"">Transcripts</a>"
-67,AKR2A2,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAB97617"">AAB97617</a>",Apium graveolens,NADPH-dependentMannose-6-phosphate reductase,,
-68,AKR2A3,"<a href=""https://www.ncbi.nlm.nih.gov/protein/QLF98851"">QLF98851</a>",Oryza sativa,Sorbitol-6-phosphate dehydrogenase,,
-69,AKR2B1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/P31867"">P31867</a>",Scheffersomyces stipitis,NAD(P)H dependent xylose reductase,"<a href=""https://www.rcsb.org/structure/5Z6U"">5Z6U</a>",
-70,AKR2B2,"<a href=""https://www.ncbi.nlm.nih.gov/protein/P49378"">P49378</a>",Kluyveromyces lactis,NAD(P)H dependent xylose reductase,,
-71,AKR2B3,"<a href=""https://www.ncbi.nlm.nih.gov/protein/P78736"">P78736</a>",Pachysolen tannophilus,NAD(P)H dependent xylose reductase,,
-72,AKR2B4,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAA19477"">BAA19477</a>",Candida tropicalis,NAD(P)H dependent xylose reductase,,
-73,AKR2B5,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAC25601"">AAC25601</a>",Yamadazyma tenuis,NAD(P)H dependent xylose reductase,"<a href=""https://www.rcsb.org/structure/1JEZ"">1JEZ</a>",
-74,AKR2B6,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_011972"">NP_011972</a>",Saccharomyces cerevisiae,Gre3p,,"<a href=""http://useast.ensembl.org/Saccharomyces_cerevisiae/Gene/Summary?g=YHR104W;r=VIII:323409-324392;t=YHR104W_mRNA"">Transcripts</a>"
-75,AKR2B7,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAA19476"">BAA19476</a>",Candida tropicalis,xylose reductase,,
-76,AKR2B8,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAD09330"">AAD09330</a>",Meyerozyma guilliermondii,xylose reductase,,
-77,AKR2B9,"<a href=""https://www.ncbi.nlm.nih.gov/protein/XP_460932"">XP_460932</a>",Debaryomyces Hansenli,Dh_XR (reduces xylose to xylitol),,
-78,AKR2B10,"<a href=""https://www.ncbi.nlm.nih.gov/protein/926465265"">ALD19729</a>",Debaryomyces nepalensis,Xylose reductase,,
-79,AKR2C1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/CAA98021"">CAA98021</a>",Mucor mucedo,4-dihydromethyltrisporate dehydrogenase,,
-80,AKR2D1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAF61912"">AAF61912</a>",Aspergillus niger,D-xylose reductase,,
-81,AKR2E1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/CAB41997"">CAB41997</a>",Spodoptera littoralis,3-dehydroecdysone 3b-reductase,,
-82,AKR2E2,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAL73387"">AAL73387</a>",Trichoplusia ni,3-dehydroecdysone 3b-reductase,,
-83,AKR2E3,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAD38635"">AAD38635</a>",Drosophila melanogaster,DL-glyceraldehyde reductase,,
-84,AKR2E4,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAL70378"">BAL70378</a>",Bombyx mori,Reductase,"<a href=""https://www.rcsb.org/structure/3WCZ"">3WCZ</a>",
-85,AKR2E5,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAR91212"">BAR91212</a>",Bombyx mori,Pheromone biosynthesis,"<a href=""https://www.rcsb.org/structure/5AZ1"">5AZ1</a>",
-86,AKR2E6,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BBD35022"">BBD35022</a>",Bombyx mori,Aldo-keto (insect steroid) reductase,,
-87,AKR2E8,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BCN86447"">BCN86477</a>",Bombyx mori,"Reductase for benzaldehyde, hexanal, heptanal, nonanal, trans-2-nonenal, and citral",,
-88,AKR3A1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/P14065"">P14065</a>",Saccharomyces cerevisiae,Gcy1p,,
-89,AKR3A2,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_010656"">NP_010656</a>",Saccharomyces cerevisiae,2-methylbutyraldehydereductase: Ypr1p,,"<a href=""http://useast.ensembl.org/Saccharomyces_cerevisiae/Gene/Summary?g=YDR368W;r=IV:1213904-1214842;t=YDR368W_mRNA"">Transcripts</a>"
-90,AKR3B1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAB17362"">AAB17362</a>",Sporidiobolus salmonicolor,NADPH dependent aldehyde reductase(EC 1.1.1.2),,
-91,AKR3B2a,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAD90687"">BAD90687</a>",Moniliella megachiliensis,erthyrose reductase 1,,
-92,AKR3B2b,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAD90688"">BAD90688</a>",Moniliella megachiliensis,erthyrose reductase 2,,
-93,AKR3B3,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAD90689"">BAD90689</a>",Moniliella megachiliensis,erthyrose reductase 3,,
-94,AKR3C1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/CAA85107"">CAA85107</a>",Saccharomyces cerevisiae,Ara1p - arabinose dehydrogenase,,
-95,AKR3C2,"<a href=""https://www.ncbi.nlm.nih.gov/protein/O13848"">O13848</a>",Saccharomyces pombe,indole-3-acetaldehyde reductase,,
-96,AKR3C3,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAD01653"">BAD01653</a>",Candida parapsilosis,CPR-C2; polyketone reductase,"<a href=""https://www.rcsb.org/structure/4H8N"">4H8N</a>",
-97,AKR3D1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAK55762"">AAK55762</a>",Pyricularia grisea,aldose reductase,,
-98,AKR3E1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/CAD43580"">CAD43580</a>",Pencillium citrinum,b-ketoester reductase,,
-99,AKR3F1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/Q9X265"">Q9X265</a>",Thermotoga maritima,"D,L-glyceraldehyde reductase",,
-100,AKR3F2,"<a href=""https://www.ncbi.nlm.nih.gov/protein/P30863"">P30863</a>",Escherichia coli,"2,5-diketo-D-gluconic acid reductase B",,
-101,AKR3G1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/P74308"">P74308</a>",Synechocystis,P74308_SYNY3,,
-102,AKR4A1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/P26690"">P26690</a>",Glycine max,NAD(P)H dependent 6'-eoxychalcone synthase,,
-103,AKR4A2,"<a href=""https://www.ncbi.nlm.nih.gov/protein/Q40333"">Q40333</a>",Medicago sativa,chalcone polyketide reductase,,
-104,AKR4A3,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAA12084"">BAA12084</a>",Glycyrrhiza echinata,chalcone polyketide reductase,,
-105,AKR4A4,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAA13113"">BAA13113</a>",Glycyrrhiza glabra,chalcone polyketide reductase,,
-106,AKR4B1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/CAA11226"">CAA11226</a>",Sesbania rostrata,chalcone polyketide reductase,,
-107,AKR4B2,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAF13739"">AAF13739</a>",Papaver somniferum,NADPH-dependent codeinone reductase,,
-108,AKR4B3,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAF13736"">AAF13736</a>",Papaver somniferum,codeinone reductase,,
-109,AKR4B4,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAB97005"">AAB97005</a>",Fragaria ananassa,D-galacturonate reductase,,
-110,AKR4B5,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAF03164"">BAF03164</a>",Zea mays,deoxymugineic acid synthase1,,
-111,AKR4B6,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAF03161"">BAF03161</a>",Oryza sativa,deoxymugineic acid synthase1,,
-112,AKR4B7,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAF03162"">BAF03162</a>",Hordeum vulgare,deoxymugineic acid synthase1,,
-113,AKR4B8,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAF03163"">BAF03163</a>",Triticum aestivum,deoxymugineic acid synthase1,,
-114,AKR4B10,"<a href=""https://www.ncbi.nlm.nih.gov/protein/ADK94763"">ADK94763</a>",Erythroxylum coca,2-Carbomethoxy-3-tropinone reductase (MecgoR) (a.k.a.Methylecgonone),,
-115,AKR4C1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/P23901"">P23901</a>",Hordeum vulgare,aldehyde reductase (EC 1.1.1.2),,
-116,AKR4C2,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAA21751"">AAA21751</a>",Bromus inermis,aldehyde reductase,,
-117,AKR4C3,"<a href=""https://www.ncbi.nlm.nih.gov/protein/Q43320"">Q43320</a>",Avena fatua,aldehyde reductase,,
-118,AKR4C4,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAD22264"">AAD22264</a>",Xerophyta viscosa,aldehyde reductase,,
-119,AKR4C5,"<a href=""https://www.ncbi.nlm.nih.gov/protein/CAC32834"">CAC32834</a>",Digitalis purpurea,aldose reductase,,
-120,AKR4C6,"<a href=""https://www.ncbi.nlm.nih.gov/protein/CAC32835"">CAC32835</a>",Digitalis purpurea,aldose reductase,,
-121,AKR4C7,"<a href=""https://www.ncbi.nlm.nih.gov/protein/ABF61890"">ABF61890</a>",Zea mays,aldehyde reductase,"<a href=""https://www.rcsb.org/structure/5JH2"">5JH2</a>",
-122,AKR4C8,"<a href=""https://www.ncbi.nlm.nih.gov/protein/ABH07514"">ABH07514</a>",Arabidopsis thaliana,reductase,"<a href=""https://www.rcsb.org/structure/3H7R"">3H7R</a>",
-123,AKR4C9,"<a href=""https://www.ncbi.nlm.nih.gov/protein/ABH07515"">ABH07515</a>",Arabidopsis thaliana,reductase,"<a href=""https://www.rcsb.org/structure/3H7U"">3H7U</a>",
-124,AKR4C10,"<a href=""https://www.ncbi.nlm.nih.gov/protein/ABH07516"">ABH07516</a>",Arabidopsis thaliana,reductase,,
-125,AKR4C11,"<a href=""https://www.ncbi.nlm.nih.gov/protein/ABH07517"">ABH07517</a>",Arabidopsis thaliana,reductase,,
-126,AKR4C12,"<a href=""https://www.ncbi.nlm.nih.gov/protein/ABL61257"">ABL61257</a>",Aloe arborescens,reductase,,
-127,AKR4C14,"<a href=""https://www.ncbi.nlm.nih.gov/protein/ACS92968"">ACS92968</a>",Oryza sativa,Aldose/aldehyde reductase,,
-128,AKR4C15,"<a href=""https://www.ncbi.nlm.nih.gov/protein/ALN39070"">ALN39070</a>",Oryza sativa,OsI_20197,,
-129,AKR4C16,"<a href=""https://www.ncbi.nlm.nih.gov/protein/QFG75509"">QFG75509</a>",Echinochloa colona,Aldo-keto Reductase,,
-130,AKR4C17,"<a href=""https://www.ncbi.nlm.nih.gov/protein/QFG75510"">QFG75510</a>",Echinochloa colona,Aldo-keto Reductase,,
-131,AKR5A1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/P22045"">P22045</a>",Leishmania major,reductase,"<a href=""https://www.rcsb.org/structure/4G5D"">4G5D</a>",
-132,AKR5A2,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAB17681"">BAB17681</a>",Trypanosoma brucei,prostaglandin F synthase (EC 1.1.1.188),,
-133,AKR5B1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/Q02198"">Q02198</a>",Pseudomonas putida,"morphine dehydrogenase (EC 1.1.1.218), naloxone reductase",,
-134,AKR5C1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAA83534"">AAA83534</a>",Corynebacterium sp.,"2,5-diketo-D-gluconic acid reductase (EC 1.1.1.125)","<a href=""https://www.rcsb.org/structure/1HW6"">1HW6</a>",
-135,AKR5C2,"<a href=""https://www.ncbi.nlm.nih.gov/protein/Q46857"">Q46857</a>",Escherichia coli,"2,5-diketo-D-gluconic acid reductase","<a href=""https://www.rcsb.org/structure/1MZR"">1MZR</a>",
-136,AKR5D1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/P15339"">P15339</a>",Corynebacterium sp.,"2,5-diketo-D-gluconic acid reductase",,
-137,AKR5E1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAD42404"">AAD42404</a>",Zymomonas mobilis,"2,5-diketo-D-gluconic acid reductase",,
-138,AKR5F1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/ABB80491"">ABB80491</a>",Klebsiella sp.,"F51-1-2; 2,5-diketo-D-gluconic acid reductase",,
-139,AKR5G1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_391220"">NP_391220</a>",Bacillus subtilis,reductase,"<a href=""https://www.rcsb.org/structure/3D3F"">3D3F</a>",
-140,AKR5G2,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_390783"">NP_390783</a>",Bacillus subtilis,reductase,"<a href=""https://www.rcsb.org/structure/3B3D"">3B3D</a>",
-141,AKR5G3,"<a href=""https://www.ncbi.nlm.nih.gov/protein/ALM30349"">ALM30349</a>",Priestia aryabhattai,Aldo keto reductase,,
-142,AKR5G4,"<a href=""https://www.ncbi.nlm.nih.gov/protein/WP_003252716"">WP_003252716</a>",Parageobacillus thermoglucosidasius,"Reduction of the following butanal, 5-norbornene-2-carboxaldehyde, furfural, ethyl-2-oxo-4-phenylbutyrate, 1-phenyl-1,2-propanedione and 2,3-butanedione.",,
-143,AKR5H1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/A0QV09"">A0QV09</a>",Mycobacterium smegmatis,MSMEg_2407 ReducesMethylglyoxal and Phenylglyoxal,"<a href=""https://www.rcsb.org/structure/2WZT"">2WZT</a>",
-144,AKR6A1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/Q27955"">Q27955</a>",Bos taurus,Shaker channel b-subunit,,
-145,AKR6A2,"<a href=""https://www.ncbi.nlm.nih.gov/protein/CAA54142"">CAA54142</a>",Rattus norvegicus,Shaker channel b-subunit (Kvb2),"<a href=""https://www.rcsb.org/structure/6CI1"">6CI1</a>",
-146,AKR6A3,"<a href=""https://www.ncbi.nlm.nih.gov/protein/S66503"">S66503</a>",Homo sapiens,"Potassium voltage gated channel, b-subunit -1",,
-147,AKR6A4,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAA75174"">AAA75174</a>",Mus musculus,Shaker channel b-subunit (Kvb2),,
-148,AKR6A5,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAB99859"">AAB99859</a>",Homo sapiens,"Potassium voltage gated channel, b-subunit -2","<a href=""https://www.rcsb.org/structure/1ZSX"">1ZSX</a>",
-149,AKR6A6,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAF65463"">AAF65463</a>",Oryctolagus cuniculus,Shaker channel b-subunit (Kvb2.2),,
-150,AKR6A7,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAD37853"">AAD37853</a>",Oryctolagus cuniculus,Shaker channel b-subunit (Kvb1.1),,
-151,AKR6A8,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_034727"">NP_034727</a>",Mus musculus,Shaker channel b-subunit (Kvb1),,"<a href=""http://useast.ensembl.org/Mus_musculus/Transcript/ProteinSummary?g=ENSMUSG00000027827;r=3:65109384-65378219;t=ENSMUST00000049230"">Transcripts</a>"
-152,AKR6A9,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_004723"">NP_004723</a>",Homo sapiens,"Potassium voltage gated channel, b-subunit -3",,"<a href=""http://useast.ensembl.org/Homo_sapiens/Transcript/ProteinSummary?g=ENSG00000170049;r=17:7921859-7929435;t=ENST00000303790"">Transcripts</a>"
-153,AKR6A10a,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAC48462"">AAC48462</a>",Mustela putorius furo,Shaker channel b-subunit (Kvb2),,
-154,AKR6A10b,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAD37854"">AAD37854</a>",Oryctolagus cuniculus,Shaker channel b-subunit (Kvb1.2),,
-155,AKR6A11,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAD56313"">AAD56313</a>",Xenopus laevis,Shaker channel b-subunit (Kvb4),,
-156,AKR6A12,"<a href=""https://www.ncbi.nlm.nih.gov/protein/Q63494"">Q63494</a>",Rattus norvegicus,Shaker channel b-subunit (Kvb3),,
-157,AKR6A13,"<a href=""https://www.ncbi.nlm.nih.gov/protein/P63144"">P63144</a>",Rattus norvegicus,Shaker channel b-subunit (Kvb1),,
-158,AKR6A14,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_034729"">NP_034729</a>",Mus musculus,Shaker channel b-subunit (Kvb3),,"<a href=""http://useast.ensembl.org/Mus_musculus_WSB_EiJ/Transcript/ProteinSummary?g=MGP_WSBEiJ_G0017890;r=11:69060932-69067712;t=MGP_WSBEiJ_T0029187"">Transcripts</a>"
-159,AKR6B1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAC46631"">AAC46631</a>",Drosophila melanogaster,Shaker channel -- HK locus,,
-160,AKR6C1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAA87294"">AAA87294</a>",Arabidopsis thaliana,Shaker channel b-subunit,,
-161,AKR6C2,"<a href=""https://www.ncbi.nlm.nih.gov/protein/CAA12646"">CAA12646</a>",Egeria densa,Shaker channel b-subunit,,
-162,AKR6D1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/WP_013401030"">WP_013401030</a>",Geobacillus thermoglucosidasius,"Reduction of the following: butanal, 5-norbornene-2-carboxaldehyde, furfural, ethyl-2-oxo-4-phenylbutyrate, 1-phenyl-1,2-propanedione and 2,3-butanedione.",,
-163,AKR7A1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/P38918"">P38918</a>",Rattus norvegicus,Rat aflatoxin aldehyde reductase,"<a href=""https://www.rcsb.org/structure/1GVE"">1GVE</a>",
-164,AKR7A2,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_003680"">NP_003680</a>",Homo sapiens,Aflatoxin aldehyde reductase,"<a href=""https://www.rcsb.org/structure/2BP1"">2BP1</a>","<a href=""http://useast.ensembl.org/Homo_sapiens/Transcript/ProteinSummary?g=ENSG00000053371;r=1:19303965-19312146;t=ENST00000235835"">Transcripts</a>"
-165,AKR7A3,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_036199"">NP_036199</a>",Homo sapiens,Aflatoxin aldehyde reductase,"<a href=""https://www.rcsb.org/structure/2CLP"">2CLP</a>","<a href=""http://useast.ensembl.org/Homo_sapiens/Transcript/ProteinSummary?g=ENSG00000162482;r=1:19282558-19289250;t=ENST00000361640"">Transcripts</a>"
-166,AKR7A4,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAA90396"">BAA90396</a>",Rattus norvegicus,Rat aflatoxin aldehyde reductase,,
-167,AKR7A5,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAB23073.1?report=genpept"">BAB23073</a>",Mus musculus,Mouse aflatoxin aldehyde reductase (Removed),,"<a href=""https://www.rcsb.org/structure/2C91"">2C91</a>"
-168,AKR8A1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/O14295"">O14295</a>",Schizosaccharomyces pombe,pyridoxal reductase,,
-169,AKR8A2,"<a href=""https://www.ncbi.nlm.nih.gov/protein/O94521"">O94521</a>",Schizosaccharomyces pombe,pyridoxal reductase,,
-170,AKR9A1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/Q00727"">Q00727</a>",Aspergillus nidulans,sterogmatocystin dehydrogenase -- StcV,,
-171,AKR9A2,"<a href=""https://www.ncbi.nlm.nih.gov/protein/Q00049"">Q00049</a>",Aspergillus flavus,norsolorinic acid reductase,,
-172,AKR9A3,"<a href=""https://www.ncbi.nlm.nih.gov/protein/Q01752"">Q01752</a>",Phanerochaete chrysosporium,aryl-alcohol dehydrogenase,,
-173,AKR9B1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_014068"">NP_014068</a>",Saccharomyces cerevisiae,aryl-alcohol dehydrogenase (Aad14p),,"<a href=""http://useast.ensembl.org/Saccharomyces_cerevisiae/Gene/Summary?g=YNL331C;r=XIV:16118-17248;t=YNL331C_mRNA"">Transcripts</a>"
-174,AKR9B2,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_010032"">NP_010032</a>",Saccharomyces cerevisiae,aryl-alcohol dehydrogenase (Aad3p),,"<a href=""http://useast.ensembl.org/Saccharomyces_cerevisiae/Gene/Summary?g=YCR107W;r=III:313890-314981;t=YCR107W_mRNA"">Transcripts</a>"
-175,AKR9B3,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_010038"">NP_010038</a>",Saccharomyces cerevisiae,aryl-alcohol dehydrogenase (Aad4p),,"<a href=""http://useast.ensembl.org/Saccharomyces_cerevisiae/Gene/Summary?g=YDL243C;r=IV:17577-18566;t=YDL243C_mRNA"">Transcripts</a>"
-176,AKR9B4,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_012689"">NP_012689</a>",Saccharomyces cerevisiae,aryl-alcohol dehydrogenase (Aad10p),,"<a href=""http://useast.ensembl.org/Saccharomyces_cerevisiae/Gene/Summary?g=YJR155W;r=X:727405-728271;t=YJR155W_mRNA"">Transcripts</a>"
-177,AKR9C1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAB71807"">AAB71807</a>",Haloferax volcanii,reductase,,
-178,AKR10A1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAD28516"">AAD28516</a>",Streptomyces bluensis,bluensomycin akr -- BlmT,,
-179,AKR10A2,"<a href=""https://www.ncbi.nlm.nih.gov/protein/3256056"">CAA07384</a>",Streptomyces glaucescens,streptomycin akr -- StrT,,
-180,AKR11A1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/P46336"">P46336</a>",Bacillus subtilis,vegetative protein 147,"<a href=""https://www.rcsb.org/structure/1PZ0"">1PZ0</a>",
-181,AKR11B1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/P80874"">P80874</a>",Bacillus subtilis,general stress protein 69,"<a href=""https://www.rcsb.org/structure/1PZ1"">1PZ1</a>",
-182,AKR11B2,"<a href=""https://www.ncbi.nlm.nih.gov/protein/P77256"">P77256</a>",Escherichia coli,methylglyoxal reductase,,
-183,AKR11B3,"<a href=""https://www.ncbi.nlm.nih.gov/protein/ABC69170"">ABC69170</a>",Synechococcus sp.,methylglyoxal reductase,,
-184,AKR11B4,"<a href=""https://www.ncbi.nlm.nih.gov/protein/WP_011253139.1?"">WP_011253139</a>",Gluconobacter oxydans,"GOX 1615
+AKR,Accession,Species,Enzyme,PDB,Alt Splicing
+AKR1A1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_006057"">NP_006057</a>",Homo sapiens,aldehyde reductase  (EC 1.1.1.2),"<a href=""https://www.rcsb.org/structure/2ALR"">2ALR</a>","<a href=""http://useast.ensembl.org/Homo_sapiens/Gene/Summary?db=core;g=ENSG00000117448;r=1:45550543-45570049"">Transcripts</a>"
+AKR1A2,"<a href=""https://www.ncbi.nlm.nih.gov/protein/p50578"">P50578</a>",Sus scrofa,aldehyde reductase (AK1A1_PIG),"<a href=""https://www.rcsb.org/structure/1CWN"">1CWN</a>",
+AKR1A3,"<a href=""https://www.ncbi.nlm.nih.gov/protein/P51635"">P51635</a>",Rattus norvegicus,aldehyde reductase (AK1A1_RAT),,
+AKR1A4,"<a href=""https://www.ncbi.nlm.nih.gov/protein/Np_067448"">NP_067448</a>",Mus musculus,"murine liver aldehyde reductase, Mucoaldehyde reductase","<a href=""https://www.rcsb.org/structure/4GAC"">4GAC</a>","<a href=""http://useast.ensembl.org/Mus_musculus_C57BL_6NJ/Transcript/ProteinSummary?g=MGP_C57BL6NJ_G0029053;r=4:122085479-122113544;t=MGP_C57BL6NJ_T0067649"">Transcripts</a>"
+AKR1B1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_001619"">NP_001619</a>",Homo sapiens,aldose reductase  (EC 1.1.1.21),"<a href=""https://www.rcsb.org/structure/1ADS"">1ADS</a>","<a href=""http://useast.ensembl.org/Homo_sapiens/Transcript/ProteinSummary?g=ENSG00000085662;r=7:134442350-134459142;t=ENST00000285930"">Transcripts</a>"
+AKR1B2,"<a href=""https://www.ncbi.nlm.nih.gov/protein/P15122"">P15122</a>",Oryctolagus cuniculus,aldose reductase,,
+AKR1B3,"<a href=""https://www.ncbi.nlm.nih.gov/protein/P45376"">P45376</a>",Mus musculus,aldose reductase,,
+AKR1B4,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_036630"">NP_036630</a>",Rattus norvegicus,aldose reductase,,"<a href=""http://useast.ensembl.org/Rattus_norvegicus/Transcript/ProteinSummary?g=ENSRNOG00000009513;r=4:61706864-61720956;t=ENSRNOT00000012879"">Transcripts</a>"
+AKR1B5,"<a href=""https://www.ncbi.nlm.nih.gov/protein/P16116"">P16116</a>",Bos taurus,aldose reductase  (bovine 20a-HSD),,
+AKR1B6,"<a href=""https://www.ncbi.nlm.nih.gov/protein/P80276"">P80276</a>",Sus scrofa,aldose reductase,"<a href=""https://www.rcsb.org/structure/1AH0"">1AH0</a>",
+AKR1B7,"<a href=""https://www.ncbi.nlm.nih.gov/protein/P21300"">P21300</a>",Mus musculus,aldose reductase related protein 1 androgen-dependent vas deferens protein,,"<a href=""http://www.informatics.jax.org/sequence/marker/MGI:101918"">Transcripts</a>"
+AKR1B8,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_032038"">NP_032038</a>",Mus musculus,fibroblast growth factor induced protein,"<a href=""https://www.rcsb.org/structure/1FRB"">1FRB</a>","<a href=""http://useast.ensembl.org/Mus_musculus_WSB_EiJ/Transcript/ProteinSummary?g=MGP_WSBEiJ_G0029731;r=6:31890076-31906288;t=MGP_WSBEiJ_T0075628"">Transcripts</a>"
+AKR1B9,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAC53199"">AAC53199</a>",Cricetulus griseus,inducible-aldo-keto reductase from CHO cells,"<a href=""https://www.rcsb.org/structure/1C9W"">1C9W</a>",
+AKR1B10,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_064695"">NP_064695</a>",Homo sapiens,small intestine reductase,"<a href=""https://www.rcsb.org/structure/1ZUA"">1ZUA</a>","<a href=""http://useast.ensembl.org/Homo_sapiens/Transcript/ProteinSummary?g=ENSG00000198074;r=7:134527592-134541408;t=ENST00000359579"">Transcripts</a>"
+AKR1B12,"<a href=""https://www.ncbi.nlm.nih.gov/protein/CAC40811"">CAC40811</a>",Gallus domesticus,chicken aldo-keto reductase,,
+AKR1B13,"<a href=""https://www.ncbi.nlm.nih.gov/protein/CAC80649"">CAC80649</a>",Rattus norvegicus,aldose reductase-like gene,,
+AKR1B14,"<a href=""https://www.ncbi.nlm.nih.gov/protein/Np_446233"">NP_446233</a>",Rattus norvegicus,aldose reductase related protein,"<a href=""https://www.rcsb.org/structure/3O3R"">3O3R</a>","<a href=""http://useast.ensembl.org/Rattus_norvegicus/Transcript/ProteinSummary?g=ENSRNOG00000009875;r=4:61850348-61862526;t=ENSRNOT00000013423"">Transcripts</a>"
+AKR1B15,"<a href=""https://www.ncbi.nlm.nih.gov/protein/EAL24068"">EAL24068</a>",Homo sapiens,Aldose Reductase (3-Keto-acyl CoA reductase),,
+AKR1B18,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_001013102"">NP_001013102</a>",Rattus norvegicus,Rattus norvegicus aldo-keto reductase,,"<a href=""http://useast.ensembl.org/Rattus_norvegicus/Transcript/ProteinSummary?g=ENSRNOG00000009734;r=4:61814974-61828657;t=ENSRNOT00000074951"">Transcripts</a>"
+AKR1B19,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_001254517"">NP_001254517</a>",Oryctolagus cuniculus,AR-like protein (3beta-HSD),,"<a href=""http://useast.ensembl.org/Oryctolagus_cuniculus/Transcript/ProteinSummary?g=ENSOCUG00000026383;r=7:13033140-13043915;t=ENSOCUT00000026904"">Transcripts</a>"
+AKR1C1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_001344"">NP_001344</a>",Homo sapiens,"20a-Hydroxysteroid Dehydrogenase (20a-HSD) (EC 1.1.1.149), DD1 (EC 1.3.1.20)","<a href=""https://www.rcsb.org/structure/3C3U"">3C3U</a>","<a href=""http://useast.ensembl.org/Homo_sapiens/Transcript/ProteinSummary?g=ENSG00000187134;r=10:4963253-4983283;t=ENST00000380872"">Transcripts</a>"
+AKR1C2,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_001345"">NP_001345</a>",Homo sapiens,"Type III 3a-HSD (EC 1.1.1.213), DD2 (EC 1.3.1.20), bile acid binding protein","<a href=""https://www.rcsb.org/structure/1IHI"">1IHI</a>","<a href=""http://useast.ensembl.org/Homo_sapiens/Transcript/ProteinSummary?g=ENSG00000151632;r=10:4987400-5004023;t=ENST00000380753"">Transcripts</a>"
+AKR1C3,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_003730"">NP_003730</a>",Homo sapiens,"Type V 17b-HSD (EC 1.1.1.213), DDx (EC 1.3.1.20), 17b-HSD type V (EC 1.1.1.62)","<a href=""https://www.rcsb.org/structure/1RY0"">1RY0</a>","<a href=""http://useast.ensembl.org/Homo_sapiens/Transcript/ProteinSummary?g=ENSG00000196139;r=10:5093793-5107686;t=ENST00000380554"">Transcripts</a>"
+AKR1C4,"<a href=""https://www.ncbi.nlm.nih.gov/protein/P17516"">P17516</a>",Homo sapiens,"Type I 3a-HSD (EC 1.1.1.213), DD4 (EC 1.3.1.20), chlordecone reductase (EC 1.1.1.125)","<a href=""https://www.rcsb.org/structure/2FVL"">2FVL</a>",
+AKR1C5,"<a href=""https://www.ncbi.nlm.nih.gov/protein/p80508"">P80508</a>",Oryctolagus cuniculus,"Prostaglandin E2 reductase, 20a-HSD (EC 1.1.1.149)","<a href=""https://www.rcsb.org/structure/1Q13"">1Q13</a>",
+AKR1C6,"<a href=""https://www.ncbi.nlm.nih.gov/protein/np_085114"">NP_085114</a>",Mus musculus,"Estradiol 17b-HSD (EC 1.1.1.62),Murine Type 5 17b-HSD",,"<a href=""http://useast.ensembl.org/Mus_musculus_WSB_EiJ/Transcript/ProteinSummary?g=MGP_WSBEiJ_G0019548;r=13:943899-964583;t=MGP_WSBEiJ_T0035349"">Transcripts</a>"
+AKR1C7,"<a href=""https://www.ncbi.nlm.nih.gov/protein/P05980"">P05980</a>",Bos taurus,"Prostaglandin F synthase 1 (EC 1.1.1.188), Prostaglandin D2 11-ketoreductase",,
+AKR1C8,"<a href=""https://www.ncbi.nlm.nih.gov/protein/P51652"">P51652</a>",Rattus norvegicus,20a-HSD (EC 1.1.1.149),,
+AKR1C9,"<a href=""https://www.ncbi.nlm.nih.gov/protein/p23457"">P23457</a>",Rattus norvegicus,3a-HSD (EC 1.1.1.213),"<a href=""https://www.rcsb.org/structure/1RAL"">1RAL</a>",
+AKR1C10a,"<a href=""https://www.ncbi.nlm.nih.gov/protein/p02532"">P02532</a>",Rana temporaria,rho-crystallin,,
+AKR1C10b,"<a href=""https://www.ncbi.nlm.nih.gov/protein/p17264"">P17264</a>",Rana catesbeina,rho-crystallin,,
+AKR1C11,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAA13690"">BAA13690</a>",Bos taurus,prostaglandin F synthase 2 (EC 1.1.1.188),,
+AKR1C12,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_038805"">NP_038805</a>",Mus musculus,aldo-keto reductase 1C12,,"<a href=""http://useast.ensembl.org/Mus_musculus_WSB_EiJ/Transcript/ProteinSummary?g=MGP_WSBEiJ_G0019547;r=13:775474-787537;t=MGP_WSBEiJ_T0035347"">Transcripts</a>"
+AKR1C13,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_038806"">NP_038806</a>",Mus musculus,interleukin-3-regulated AKR,,"<a href=""http://useast.ensembl.org/Mus_musculus_WSB_EiJ/Transcript/ProteinSummary?g=MGP_WSBEiJ_G0019545;r=13:693080-707835;t=MGP_WSBEiJ_T0035343"">Transcripts</a>"
+AKR1C14,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_598833"">NP_598833</a>",Mus musculus,AKR,,"<a href=""http://useast.ensembl.org/Mus_musculus_WSB_EiJ/Transcript/ProteinSummary?g=MGP_WSBEiJ_G0019543;r=13:548303-590521;t=MGP_WSBEiJ_T0035338"">Transcripts</a>"
+AKR1C15,"<a href=""https://www.ncbi.nlm.nih.gov/protein/2008147B"">2008147B</a>",Rattus norvegicus,rat AKR C,,
+AKR1C16,"<a href=""https://www.ncbi.nlm.nih.gov/protein/2008147A"">2008147A</a>",Rattus norvegicus,rat AKR B,,
+AKR1C17,"<a href=""https://www.ncbi.nlm.nih.gov/protein/2008147C"">2008147C</a>",Rattus norvegicus,rat AKR D,,
+AKR1C18,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_001333464"">NP_001333464</a>",Mus musculus,murine 20a-HSD,,"<a href=""http://useast.ensembl.org/Mus_musculus/Gene/Summary?db=core;g=ENSMUSG00000021214;r=13:757644-775280"">Transcripts</a>"
+AKR1C19,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_001013807"">NP_001013807</a>",Mus musculus,murine 3(20a)-HSD,,"<a href=""http://useast.ensembl.org/Mus_musculus/Gene/Summary?db=core;g=ENSMUSG00000071551;r=13:734282-755297"">Transcripts</a>"
+AKR1C20,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_473421.1?report=genpept"">NP_473421</a>",Mus musculus,murine dihydrodiol dehydrogenase (Removed),,
+AKR1C21,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_084177"">NP_084177</a>",Mus musculus,17a-HSD,"<a href=""https://www.rcsb.org/structure/3FJN"">3FJN</a>","<a href=""http://useast.ensembl.org/Mus_musculus/Gene/Summary?db=core;g=ENSMUSG00000021207;r=13:1084117-1096565"">Transcripts</a>"
+AKR1C22,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAD02825"">BAD02825</a>",Mus musculus,dihydrodiol dehydrogenase,,
+AKR1C23,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAY16444"">AAY16444</a>",Equus caballus,17b(20a)-hydroxysteroid dehydrogenase,,
+AKR1C24,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAE75957"">BAE75957</a>",Rattus norvegicus,"17b-hydroxysteroid dehydrogenase6t-butyl-2, 3-epoxy-5-cyclohexene-1, 4-dionereductase",,
+AKR1C25,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAB63209"">BAB63209</a>",Macaca fuscata,3(20)a-HSD,,
+AKR1C26,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAM37087"">BAM37087</a>",Oryctolagus cuniculus,morphine-6-dehydrogenase,,
+AKR1C27,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAM37088"">BAM37088</a>",Oryctolagus cuniculus,3alpha(17beta)-hydroxysteroid dehydrogenase (testosterone and E2),,
+AKR1C28,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAM37089"">BAM37089</a>",Oryctolagus cuniculus,3alpha(17beta)-hydroxysteroid dehydrogenase (testosterone and E2),,
+AKR1C29,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAN20006"">BAN20006</a>",Oryctolagus cuniculus,3alpha/17beta/20alpha-hydroxysteroid dehydrogenase,,
+AKR1C30,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAN84250"">BAN84250</a>",Oryctolagus cuniculus,"Naphthalene reductase 1, 17beta-hydroxysteroid dehydrogenase",,
+AKR1C31,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAN84251"">BAN84251</a>",Oryctolagus cuniculus,3alpha/17beta/20alpha-HSD,,
+AKR1C32,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAN84252"">BAN84252</a>",Oryctolagus cuniculus,"loxoprofen reductase,  3alpha/17beta/20alpha-HSD",,
+AKR1C33,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAN84253"">BAN84253</a>",Oryctolagus cuniculus,"Naloxone reductae 2, 3alpha/17beta/20alpha-HSD",,
+AKR1C34,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAP76082"">BAP76082</a>",Mesocricetus auratus,Morphine-6-dhydrogenase/3b/17b/20a-HSD,,
+AKR1C35,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAP76083"">BAP76083</a>",Mesocricetus auratus,3beta/17beta-hydroxysteroid dehydrogenase,,
+AKR1D1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_005980"">NP_005980</a>",Homo sapiens,Steroid 5b-Reductase (EC 1.3.99.6),"<a href=""https://www.rcsb.org/structure/3CMF"">3CMF</a>","<a href=""http://useast.ensembl.org/Homo_sapiens/Transcript/ProteinSummary?g=ENSG00000122787;r=7:138076477-138117986;t=ENST00000242375"">Transcripts</a>"
+AKR1D2,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_620239"">NP620239</a>",Rattus norvegicus,D4-3-ketosteroid-5b-reductase (AK1D1_RAT),,
+AKR1D3,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAA82867"">BAA82867</a>",Oryctolagus cuniculus,D4-3-ketosteroid-5b-reductase,,
+AKR1D4,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_663397"">NP_6633397</a>",Mus musculus,3-oxo-5-beta-steroid 4-dehydrogenase,,"<a href=""http://useast.ensembl.org/Mus_musculus/Gene/Summary?db=core;g=ENSMUSG00000038641;r=6:35174274-35212222"">Transcripts</a>"
+AKR1E1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAB37274"">AAB37274</a>",Mus musculus,mouse liver keto-reductase,,
+AKR1E2,"<a href=""https://www.ncbi.nlm.nih.gov/protein/q96jd6"">Q96JD6</a>",Homo sapiens,"1,5-Andyro-D-fructose reductase",,
+AKR1F1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAD38635"">AAD38635</a>",Drosophila melanogaster,DL-glyceraldehyde reductase,,
+AKR1G1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_509242"">NP_509242</a>",Caenorhabditis elegans,Aldo-keto reductase,"<a href=""https://www.rcsb.org/structure/1QWK"">1QWK</a>",
+AKR1H1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AFV36370"">AFV36370</a>",Reticulitermes flavipes,Biomass sacchrification,,
+AKR1I1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/5KET_A"">5KET_A</a>",Coptotermes gestroi,CgAKR-1: Aldehyde reductase,,
+AKR2A1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/P28475"">P28475</a>",Malus domestica,NADP+-dependent sorbitol-6-phosphate reductase (EC 1.1.1.200),,"<a href=""http://useast.ensembl.org/Caenorhabditis_elegans/Transcript/ProteinSummary?g=WBGene00015565;r=X:7341509-7342780;t=C07D8.6"">Transcripts</a>"
+AKR2A2,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAB97617"">AAB97617</a>",Apium graveolens,NADPH-dependentMannose-6-phosphate reductase,,
+AKR2A3,"<a href=""https://www.ncbi.nlm.nih.gov/protein/QLF98851"">QLF98851</a>",Oryza sativa,Sorbitol-6-phosphate dehydrogenase,,
+AKR2B1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/P31867"">P31867</a>",Scheffersomyces stipitis,NAD(P)H dependent xylose reductase,"<a href=""https://www.rcsb.org/structure/5Z6U"">5Z6U</a>",
+AKR2B2,"<a href=""https://www.ncbi.nlm.nih.gov/protein/P49378"">P49378</a>",Kluyveromyces lactis,NAD(P)H dependent xylose reductase,,
+AKR2B3,"<a href=""https://www.ncbi.nlm.nih.gov/protein/P78736"">P78736</a>",Pachysolen tannophilus,NAD(P)H dependent xylose reductase,,
+AKR2B4,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAA19477"">BAA19477</a>",Candida tropicalis,NAD(P)H dependent xylose reductase,,
+AKR2B5,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAC25601"">AAC25601</a>",Yamadazyma tenuis,NAD(P)H dependent xylose reductase,"<a href=""https://www.rcsb.org/structure/1JEZ"">1JEZ</a>",
+AKR2B6,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_011972"">NP_011972</a>",Saccharomyces cerevisiae,Gre3p,,"<a href=""http://useast.ensembl.org/Saccharomyces_cerevisiae/Gene/Summary?g=YHR104W;r=VIII:323409-324392;t=YHR104W_mRNA"">Transcripts</a>"
+AKR2B7,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAA19476"">BAA19476</a>",Candida tropicalis,xylose reductase,,
+AKR2B8,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAD09330"">AAD09330</a>",Meyerozyma guilliermondii,xylose reductase,,
+AKR2B9,"<a href=""https://www.ncbi.nlm.nih.gov/protein/XP_460932"">XP_460932</a>",Debaryomyces Hansenli,Dh_XR (reduces xylose to xylitol),,
+AKR2B10,"<a href=""https://www.ncbi.nlm.nih.gov/protein/926465265"">ALD19729</a>",Debaryomyces nepalensis,Xylose reductase,,
+AKR2C1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/CAA98021"">CAA98021</a>",Mucor mucedo,4-dihydromethyltrisporate dehydrogenase,,
+AKR2C2,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AHG97682"">AHG97682</a>",Rhizopus oryzae,Xylitol Reductase,,
+AKR2D1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAF61912"">AAF61912</a>",Aspergillus niger,D-xylose reductase,,
+AKR2E1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/CAB41997"">CAB41997</a>",Spodoptera littoralis,3-dehydroecdysone 3b-reductase,,
+AKR2E2,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAL73387"">AAL73387</a>",Trichoplusia ni,3-dehydroecdysone 3b-reductase,,
+AKR2E4,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAL70378"">BAL70378</a>",Bombyx mori,Reductase,"<a href=""https://www.rcsb.org/structure/3WCZ"">3WCZ</a>",
+AKR2E5,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAR91212"">BAR91212</a>",Bombyx mori,Pheromone biosynthesis,"<a href=""https://www.rcsb.org/structure/5AZ1"">5AZ1</a>",
+AKR2E6,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BBD35022"">BBD35022</a>",Bombyx mori,Aldo-keto (insect steroid) reductase,,
+AKR2E8,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BCN86447"">BCN86477</a>",Bombyx mori,"Reductase for benzaldehyde, hexanal, heptanal, nonanal, trans-2-nonenal, and citral",,
+AKR3A1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/P14065"">P14065</a>",Saccharomyces cerevisiae,Gcy1p,,
+AKR3A2,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_010656"">NP_010656</a>",Saccharomyces cerevisiae,2-methylbutyraldehydereductase: Ypr1p,,"<a href=""http://useast.ensembl.org/Saccharomyces_cerevisiae/Gene/Summary?g=YDR368W;r=IV:1213904-1214842;t=YDR368W_mRNA"">Transcripts</a>"
+AKR3B1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAB17362"">AAB17362</a>",Sporidiobolus salmonicolor,NADPH dependent aldehyde reductase(EC 1.1.1.2),,
+AKR3B2a,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAD90687"">BAD90687</a>",Moniliella megachiliensis,erthyrose reductase 1,,
+AKR3B2b,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAD90688"">BAD90688</a>",Moniliella megachiliensis,erthyrose reductase 2,,
+AKR3B3,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAD90689"">BAD90689</a>",Moniliella megachiliensis,erthyrose reductase 3,,
+AKR3C1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/CAA85107"">CAA85107</a>",Saccharomyces cerevisiae,Ara1p - arabinose dehydrogenase,,
+AKR3C2,"<a href=""https://www.ncbi.nlm.nih.gov/protein/O13848"">O13848</a>",Saccharomyces pombe,indole-3-acetaldehyde reductase,,
+AKR3C3,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAD01653"">BAD01653</a>",Candida parapsilosis,CPR-C2; polyketone reductase,"<a href=""https://www.rcsb.org/structure/4H8N"">4H8N</a>",
+AKR3D1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAK55762"">AAK55762</a>",Pyricularia grisea,aldose reductase,,
+AKR3E1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/CAD43580"">CAD43580</a>",Pencillium citrinum,b-ketoester reductase,,
+AKR3F1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/Q9X265"">Q9X265</a>",Thermotoga maritima,"D,L-glyceraldehyde reductase",,
+AKR3F2,"<a href=""https://www.ncbi.nlm.nih.gov/protein/P30863"">P30863</a>",Escherichia coli,"2,5-diketo-D-gluconic acid reductase B",,
+AKR3G1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/P74308"">P74308</a>",Synechocystis,P74308_SYNY3,,
+AKR4A1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/P26690"">P26690</a>",Glycine max,NAD(P)H dependent 6'-eoxychalcone synthase,,
+AKR4A2,"<a href=""https://www.ncbi.nlm.nih.gov/protein/Q40333"">Q40333</a>",Medicago sativa,chalcone polyketide reductase,,
+AKR4A3,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAA12084"">BAA12084</a>",Glycyrrhiza echinata,chalcone polyketide reductase,,
+AKR4A4,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAA13113"">BAA13113</a>",Glycyrrhiza glabra,chalcone polyketide reductase,,
+AKR4B1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/CAA11226"">CAA11226</a>",Sesbania rostrata,chalcone polyketide reductase,,
+AKR4B2,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAF13739"">AAF13739</a>",Papaver somniferum,NADPH-dependent codeinone reductase,,
+AKR4B3,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAF13736"">AAF13736</a>",Papaver somniferum,codeinone reductase,,
+AKR4B4,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAB97005"">AAB97005</a>",Fragaria ananassa,D-galacturonate reductase,,
+AKR4B5,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAF03164"">BAF03164</a>",Zea mays,deoxymugineic acid synthase1,,
+AKR4B6,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAF03161"">BAF03161</a>",Oryza sativa,deoxymugineic acid synthase1,,
+AKR4B7,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAF03162"">BAF03162</a>",Hordeum vulgare,deoxymugineic acid synthase1,,
+AKR4B8,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAF03163"">BAF03163</a>",Triticum aestivum,deoxymugineic acid synthase1,,
+AKR4B10,"<a href=""https://www.ncbi.nlm.nih.gov/protein/ADK94763"">ADK94763</a>",Erythroxylum coca,2-Carbomethoxy-3-tropinone reductase (MecgoR) (a.k.a.Methylecgonone),,
+AKR4C1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/P23901"">P23901</a>",Hordeum vulgare,aldehyde reductase (EC 1.1.1.2),,
+AKR4C2,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAA21751"">AAA21751</a>",Bromus inermis,aldehyde reductase,,
+AKR4C3,"<a href=""https://www.ncbi.nlm.nih.gov/protein/Q43320"">Q43320</a>",Avena fatua,aldehyde reductase,,
+AKR4C4,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAD22264"">AAD22264</a>",Xerophyta viscosa,aldehyde reductase,,
+AKR4C5,"<a href=""https://www.ncbi.nlm.nih.gov/protein/CAC32834"">CAC32834</a>",Digitalis purpurea,aldose reductase,,
+AKR4C6,"<a href=""https://www.ncbi.nlm.nih.gov/protein/CAC32835"">CAC32835</a>",Digitalis purpurea,aldose reductase,,
+AKR4C7,"<a href=""https://www.ncbi.nlm.nih.gov/protein/ABF61890"">ABF61890</a>",Zea mays,aldehyde reductase,"<a href=""https://www.rcsb.org/structure/5JH2"">5JH2</a>",
+AKR4C8,"<a href=""https://www.ncbi.nlm.nih.gov/protein/ABH07514"">ABH07514</a>",Arabidopsis thaliana,reductase,"<a href=""https://www.rcsb.org/structure/3H7R"">3H7R</a>",
+AKR4C9,"<a href=""https://www.ncbi.nlm.nih.gov/protein/ABH07515"">ABH07515</a>",Arabidopsis thaliana,reductase,"<a href=""https://www.rcsb.org/structure/3H7U"">3H7U</a>",
+AKR4C10,"<a href=""https://www.ncbi.nlm.nih.gov/protein/ABH07516"">ABH07516</a>",Arabidopsis thaliana,reductase,,
+AKR4C11,"<a href=""https://www.ncbi.nlm.nih.gov/protein/ABH07517"">ABH07517</a>",Arabidopsis thaliana,reductase,,
+AKR4C12,"<a href=""https://www.ncbi.nlm.nih.gov/protein/ABL61257"">ABL61257</a>",Aloe arborescens,reductase,,
+AKR4C13,"<a href=""https://www.ncbi.nlm.nih.gov/protein/ADU32868"">ADU32868</a>",Zea mays,AR3 GU384676,,
+AKR4C14,"<a href=""https://www.ncbi.nlm.nih.gov/protein/ACS92968"">ACS92968</a>",Oryza sativa,Aldose/aldehyde reductase,,
+AKR4C15,"<a href=""https://www.ncbi.nlm.nih.gov/protein/ALN39070"">ALN39070</a>",Oryza sativa,OsI_20197,,
+AKR4C16,"<a href=""https://www.ncbi.nlm.nih.gov/protein/QFG75509"">QFG75509</a>",Echinochloa colona,Aldo-keto Reductase,,
+AKR4C17,"<a href=""https://www.ncbi.nlm.nih.gov/protein/QFG75510"">QFG75510</a>",Echinochloa colona,Aldo-keto Reductase,,
+AKR5A1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/P22045"">P22045</a>",Leishmania major,reductase,"<a href=""https://www.rcsb.org/structure/4G5D"">4G5D</a>",
+AKR5A2,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAB17681"">BAB17681</a>",Trypanosoma brucei,prostaglandin F synthase (EC 1.1.1.188),,
+AKR5B1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/Q02198"">Q02198</a>",Pseudomonas putida,"morphine dehydrogenase (EC 1.1.1.218), naloxone reductase",,
+AKR5C1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAA83534"">AAA83534</a>",Corynebacterium sp.,"2,5-diketo-D-gluconic acid reductase (EC 1.1.1.125)","<a href=""https://www.rcsb.org/structure/1HW6"">1HW6</a>",
+AKR5C2,"<a href=""https://www.ncbi.nlm.nih.gov/protein/Q46857"">Q46857</a>",Escherichia coli,"2,5-diketo-D-gluconic acid reductase","<a href=""https://www.rcsb.org/structure/1MZR"">1MZR</a>",
+AKR5C3,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAW60421"">AAW60421</a>",Gluconobacter oxydans,None,,
+AKR5D1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/P15339"">P15339</a>",Corynebacterium sp.,"2,5-diketo-D-gluconic acid reductase",,
+AKR5E1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAD42404"">AAD42404</a>",Zymomonas mobilis,"2,5-diketo-D-gluconic acid reductase",,
+AKR5F1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/ABB80491"">ABB80491</a>",Klebsiella sp.,"F51-1-2; 2,5-diketo-D-gluconic acid reductase",,
+AKR5G1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_391220"">NP_391220</a>",Bacillus subtilis,reductase,"<a href=""https://www.rcsb.org/structure/3D3F"">3D3F</a>",
+AKR5G2,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_390783"">NP_390783</a>",Bacillus subtilis,reductase,"<a href=""https://www.rcsb.org/structure/3B3D"">3B3D</a>",
+AKR5G3,"<a href=""https://www.ncbi.nlm.nih.gov/protein/ALM30349"">ALM30349</a>",Priestia aryabhattai,Aldo keto reductase,,
+AKR5G4,"<a href=""https://www.ncbi.nlm.nih.gov/protein/WP_003252716"">WP_003252716</a>",Parageobacillus thermoglucosidasius,"Reduction of the following butanal, 5-norbornene-2-carboxaldehyde, furfural, ethyl-2-oxo-4-phenylbutyrate, 1-phenyl-1,2-propanedione and 2,3-butanedione.",,
+AKR5H1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/A0QV09"">A0QV09</a>",Mycobacterium smegmatis,MSMEg_2407 ReducesMethylglyoxal and Phenylglyoxal,"<a href=""https://www.rcsb.org/structure/2WZT"">2WZT</a>",
+AKR6A1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/Q27955"">Q27955</a>",Bos taurus,Shaker channel b-subunit,,
+AKR6A2,"<a href=""https://www.ncbi.nlm.nih.gov/protein/CAA54142"">CAA54142</a>",Rattus norvegicus,Shaker channel b-subunit (Kvb2),"<a href=""https://www.rcsb.org/structure/6CI1"">6CI1</a>",
+AKR6A3,"<a href=""https://www.ncbi.nlm.nih.gov/protein/S66503"">S66503</a>",Homo sapiens,"Potassium voltage gated channel, b-subunit -1",,
+AKR6A4,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAA75174"">AAA75174</a>",Mus musculus,Shaker channel b-subunit (Kvb2),,
+AKR6A5,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAB99859"">AAB99859</a>",Homo sapiens,"Potassium voltage gated channel, b-subunit -2","<a href=""https://www.rcsb.org/structure/1ZSX"">1ZSX</a>",
+AKR6A6,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAF65463"">AAF65463</a>",Oryctolagus cuniculus,Shaker channel b-subunit (Kvb2.2),,
+AKR6A7,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAD37853"">AAD37853</a>",Oryctolagus cuniculus,Shaker channel b-subunit (Kvb1.1),,
+AKR6A8,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_034727"">NP_034727</a>",Mus musculus,Shaker channel b-subunit (Kvb1),,"<a href=""http://useast.ensembl.org/Mus_musculus/Transcript/ProteinSummary?g=ENSMUSG00000027827;r=3:65109384-65378219;t=ENSMUST00000049230"">Transcripts</a>"
+AKR6A9,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_004723"">NP_004723</a>",Homo sapiens,"Potassium voltage gated channel, b-subunit -3",,"<a href=""http://useast.ensembl.org/Homo_sapiens/Transcript/ProteinSummary?g=ENSG00000170049;r=17:7921859-7929435;t=ENST00000303790"">Transcripts</a>"
+AKR6A10a,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAC48462"">AAC48462</a>",Mustela putorius furo,Shaker channel b-subunit (Kvb2),,
+AKR6A10b,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAD37854"">AAD37854</a>",Oryctolagus cuniculus,Shaker channel b-subunit (Kvb1.2),,
+AKR6A11,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAD56313"">AAD56313</a>",Xenopus laevis,Shaker channel b-subunit (Kvb4),,
+AKR6A12,"<a href=""https://www.ncbi.nlm.nih.gov/protein/Q63494"">Q63494</a>",Rattus norvegicus,Shaker channel b-subunit (Kvb3),,
+AKR6A13,"<a href=""https://www.ncbi.nlm.nih.gov/protein/P63144"">P63144</a>",Rattus norvegicus,Shaker channel b-subunit (Kvb1),,
+AKR6A14,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_034729"">NP_034729</a>",Mus musculus,Shaker channel b-subunit (Kvb3),,"<a href=""http://useast.ensembl.org/Mus_musculus_WSB_EiJ/Transcript/ProteinSummary?g=MGP_WSBEiJ_G0017890;r=11:69060932-69067712;t=MGP_WSBEiJ_T0029187"">Transcripts</a>"
+AKR6B1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAC46631"">AAC46631</a>",Drosophila melanogaster,Shaker channel -- HK locus,,
+AKR6C1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAA87294"">AAA87294</a>",Arabidopsis thaliana,Shaker channel b-subunit,,
+AKR6C2,"<a href=""https://www.ncbi.nlm.nih.gov/protein/CAA12646"">CAA12646</a>",Egeria densa,Shaker channel b-subunit,,
+AKR6D1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/WP_013401030"">WP_013401030</a>",Geobacillus thermoglucosidasius,"Reduction of the following: butanal, 5-norbornene-2-carboxaldehyde, furfural, ethyl-2-oxo-4-phenylbutyrate, 1-phenyl-1,2-propanedione and 2,3-butanedione.",,
+AKR7A1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/P38918"">P38918</a>",Rattus norvegicus,Rat aflatoxin aldehyde reductase,"<a href=""https://www.rcsb.org/structure/1GVE"">1GVE</a>",
+AKR7A2,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_003680"">NP_003680</a>",Homo sapiens,Aflatoxin aldehyde reductase,"<a href=""https://www.rcsb.org/structure/2BP1"">2BP1</a>","<a href=""http://useast.ensembl.org/Homo_sapiens/Transcript/ProteinSummary?g=ENSG00000053371;r=1:19303965-19312146;t=ENST00000235835"">Transcripts</a>"
+AKR7A3,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_036199"">NP_036199</a>",Homo sapiens,Aflatoxin aldehyde reductase,"<a href=""https://www.rcsb.org/structure/2CLP"">2CLP</a>","<a href=""http://useast.ensembl.org/Homo_sapiens/Transcript/ProteinSummary?g=ENSG00000162482;r=1:19282558-19289250;t=ENST00000361640"">Transcripts</a>"
+AKR7A4,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAA90396"">BAA90396</a>",Rattus norvegicus,Rat aflatoxin aldehyde reductase,,
+AKR7A5,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAB23073.1?report=genpept"">BAB23073</a>",Mus musculus,Mouse aflatoxin aldehyde reductase (Removed),,"<a href=""https://www.rcsb.org/structure/2C91"">2C91</a>"
+AKR8A1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/O14295"">O14295</a>",Schizosaccharomyces pombe,pyridoxal reductase,,
+AKR8A2,"<a href=""https://www.ncbi.nlm.nih.gov/protein/O94521"">O94521</a>",Schizosaccharomyces pombe,pyridoxal reductase,,
+AKR9A1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/Q00727"">Q00727</a>",Aspergillus nidulans,sterogmatocystin dehydrogenase -- StcV,,
+AKR9A2,"<a href=""https://www.ncbi.nlm.nih.gov/protein/Q00049"">Q00049</a>",Aspergillus flavus,norsolorinic acid reductase,,
+AKR9A3,"<a href=""https://www.ncbi.nlm.nih.gov/protein/Q01752"">Q01752</a>",Phanerochaete chrysosporium,aryl-alcohol dehydrogenase,,
+AKR9B1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_014068"">NP_014068</a>",Saccharomyces cerevisiae,aryl-alcohol dehydrogenase (Aad14p),,"<a href=""http://useast.ensembl.org/Saccharomyces_cerevisiae/Gene/Summary?g=YNL331C;r=XIV:16118-17248;t=YNL331C_mRNA"">Transcripts</a>"
+AKR9B2,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_010032"">NP_010032</a>",Saccharomyces cerevisiae,aryl-alcohol dehydrogenase (Aad3p),,"<a href=""http://useast.ensembl.org/Saccharomyces_cerevisiae/Gene/Summary?g=YCR107W;r=III:313890-314981;t=YCR107W_mRNA"">Transcripts</a>"
+AKR9B3,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_010038"">NP_010038</a>",Saccharomyces cerevisiae,aryl-alcohol dehydrogenase (Aad4p),,"<a href=""http://useast.ensembl.org/Saccharomyces_cerevisiae/Gene/Summary?g=YDL243C;r=IV:17577-18566;t=YDL243C_mRNA"">Transcripts</a>"
+AKR9B4,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_012689"">NP_012689</a>",Saccharomyces cerevisiae,aryl-alcohol dehydrogenase (Aad10p),,"<a href=""http://useast.ensembl.org/Saccharomyces_cerevisiae/Gene/Summary?g=YJR155W;r=X:727405-728271;t=YJR155W_mRNA"">Transcripts</a>"
+AKR9C1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAB71807"">AAB71807</a>",Haloferax volcanii,reductase,,
+AKR10A1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAD28516"">AAD28516</a>",Streptomyces bluensis,bluensomycin akr -- BlmT,,
+AKR10A2,"<a href=""https://www.ncbi.nlm.nih.gov/protein/3256056"">CAA07384</a>",Streptomyces glaucescens,streptomycin akr -- StrT,,
+AKR11A1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/P46336"">P46336</a>",Bacillus subtilis,vegetative protein 147,"<a href=""https://www.rcsb.org/structure/1PZ0"">1PZ0</a>",
+AKR11B1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/P80874"">P80874</a>",Bacillus subtilis,general stress protein 69,"<a href=""https://www.rcsb.org/structure/1PZ1"">1PZ1</a>",
+AKR11B2,"<a href=""https://www.ncbi.nlm.nih.gov/protein/P77256"">P77256</a>",Escherichia coli,methylglyoxal reductase,,
+AKR11B3,"<a href=""https://www.ncbi.nlm.nih.gov/protein/ABC69170"">ABC69170</a>",Synechococcus sp.,methylglyoxal reductase,,
+AKR11B4,"<a href=""https://www.ncbi.nlm.nih.gov/protein/WP_011253139.1?"">WP_011253139</a>",Gluconobacter oxydans,"GOX 1615
 Reduces
 DL-glyceraldehyde
 nd other aldehydes",,
-185,AKR11C1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/Q9KE47"">Q9KE47</a>",Bacillus halodurans,aldo-keto reductase,,
-186,AKR11D1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/ALM30350"">ALM30350</a>",Bacillus aryabhattai,Aldo keto reductase,,
-187,AKR12A1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAD41821"">AAD41821</a>",Streptomyces fradiae,"NDP-hexose-2,3-enoyl-reductase TylCII",,
-188,AKR12B1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAB84068"">AAB84068</a>",Saccharopolyspora erythraea,mycarose/desosamine reductase EryBII,,
-189,AKR12C1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAA84599"">BAA84599</a>",Streptomyces avermitilis,"dTDP-4-keto-6-deoxy-L-hexose-2,3-reductase",,
-190,AKR12D1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAK90112"">AAK90112</a>",Agrobacterium fabrum str. C58,6-oxox-glucose reductase,,
-191,AKR13A1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/Q09923"">Q09923</a>",Schizosaccharomyces pombe,YakC aldo-keto reductase,,
-192,AKR13B1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAF84538"">AAF84538</a>",Xylella fastidiosa,Phenylacetaldehyde dehydrogenase,,
-193,AKR13C1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/O25804"">O25804</a>",Helicobacter pylori,Aldehyde reductase,,
-194,AKR13C2,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAD36088"">AAD36088</a>",Thermotoga maritima,"TmAKR: Reduces: 1,2,3,6-tetrahydrobenzaldehyde (this is the best substrate) Benzaldehyde Para-anisaldehye",,
-195,AKR13D1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAX11684"">AAX11684</a>",Rauvolfia serpentina,Perakine reductase,"<a href=""https://www.rcsb.org/structure/3V0U"">3V0U</a>",
-196,AKR13D2,"<a href=""https://www.cottongen.org/bio_data/2913350"">Gh_A08G1908</a>",Gossypium hirsutum,"Terpenoid biosynthesis
+AKR11C1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/Q9KE47"">Q9KE47</a>",Bacillus halodurans,aldo-keto reductase,,
+AKR11D1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/ALM30350"">ALM30350</a>",Bacillus aryabhattai,Aldo keto reductase,,
+AKR11E1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_249818"">NP_249818</a>",Pseudomonas aeruginosa,PA1127: broad specificity for aliphatic aldehydes:,,
+AKR12A1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAD41821"">AAD41821</a>",Streptomyces fradiae,"NDP-hexose-2,3-enoyl-reductase TylCII",,
+AKR12B1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAB84068"">AAB84068</a>",Saccharopolyspora erythraea,mycarose/desosamine reductase EryBII,,
+AKR12C1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAA84599"">BAA84599</a>",Streptomyces avermitilis,"dTDP-4-keto-6-deoxy-L-hexose-2,3-reductase",,
+AKR12D1,"<a href=""https://www.uniprot.org/uniprotkb/A0A3R7J519/entry"">A0A3R7J519 </a>",Streptomyces xinghaiensis,aldo/keto reductase,,
+AKR13A1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/Q09923"">Q09923</a>",Schizosaccharomyces pombe,YakC aldo-keto reductase,,
+AKR13B1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAF84538"">AAF84538</a>",Xylella fastidiosa,Phenylacetaldehyde dehydrogenase,,
+AKR13C1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/O25804"">O25804</a>",Helicobacter pylori,Aldehyde reductase,,
+AKR13C2,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAD36088"">AAD36088</a>",Thermotoga maritima,"TmAKR: Reduces: 1,2,3,6-tetrahydrobenzaldehyde (this is the best substrate) Benzaldehyde Para-anisaldehye",,
+AKR13D1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAX11684"">AAX11684</a>",Rauvolfia serpentina,Perakine reductase,"<a href=""https://www.rcsb.org/structure/3V0U"">3V0U</a>",
+AKR13D2,"<a href=""https://www.cottongen.org/bio_data/2913350"">Gh_A08G1908</a>",Gossypium hirsutum,"Terpenoid biosynthesis
 Hemigossypol",,
-197,AKR14A1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAA69168"">AAA69168</a>",Escherichia coli,E. coli aldehyde reductase,"<a href=""https://www.rcsb.org/structure/4AUB"">4AUB</a>",
-198,AKR15A1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAC97800"">BAC97800</a>",Microbacterium luteolum,Pyridoxal dehydrogenase,,
-199,AKR2C2,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AHG97682"">AHG97682</a>",Rhizopus oryzae,Xylitol Reductase,,
-200,AKR14A2,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_461347"">NP_461347</a>",Salmonella enterica,STM2406; broad specificity for aliphatic aldehydes: 4-NBA,,
-201,AKR16A1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAF96757"">AAF96757</a>",Vibrio cholerae,"None (reduces
-""azidoheptanoyCoA)
-http://www.ncbi.nlm.nih.gov/pubmed/19631226
-
-and
-http://www.ncbi.nlm.nih.gov/pubmed/20188740?dopt=Abstract
-(AKR5H1)",,
-202,AKR17A1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAB74015"">BAB74015</a>",Nostoc sp. PCC 7120 = FACHB-418,"Aldehyde and Ketone reductase, also utilizes a chloroacetamide herbicide butachlor with high catalytic efficiency",,
-203,AKR5C3,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAW60421"">AAW60421</a>",Gluconobacter oxydans,None,,
-204,AKR4C13,"<a href=""https://www.ncbi.nlm.nih.gov/protein/ADU32868"">ADU32868</a>",Zea mays,AR3 GU384676,,
-205,AKR11E1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_249818"">NP_249818</a>",Pseudomonas aeruginosa,PA1127: broad specificity for aliphatic aldehydes:,,
+AKR13E1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAC74488"">AAC74488</a>",Escherichia coli str. K-12 substr. MG1655,pyridoxal reductase,,
+AKR14A1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAA69168"">AAA69168</a>",Escherichia coli,E. coli aldehyde reductase,"<a href=""https://www.rcsb.org/structure/4AUB"">4AUB</a>",
+AKR14A2,"<a href=""https://www.ncbi.nlm.nih.gov/protein/NP_461347"">NP_461347</a>",Salmonella enterica,STM2406; broad specificity for aliphatic aldehydes: 4-NBA,,
+AKR15A1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAC97800"">BAC97800</a>",Microbacterium luteolum,Pyridoxal dehydrogenase,,
+AKR16A1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAF96757"">AAF96757</a>",Vibrio cholerae,oxidoreductase,,
+AKR16B1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/AAK90112"">AAK90112</a>",Agrobacterium fabrum str. C58,6-oxox-glucose reductase,,
+AKR17A1,"<a href=""https://www.ncbi.nlm.nih.gov/protein/BAB74015"">BAB74015</a>",Nostoc sp. PCC 7120 = FACHB-418,"Aldehyde and Ketone reductase, also utilizes a chloroacetamide herbicide butachlor with high catalytic efficiency",,
