@@ -10,23 +10,23 @@ genes is related to the development of prostate, breast, and endometrial cancer.
 Mutations in AKR1C1 and AKR1C4 are responsible for sexual development
 dysgenesis, and mutation in AKR1D1 are causative in blie acid deficiency.
 
-**<u>AKR Family 2.</u>** Members of the AKR2 family are categorized as microbial
-enzymes consisting of xylose reductases. AKR2B1 - AKR2B6 are classified as
-yeasts, while AKR2C and AKR2D are classified as fungi. The function of xylose
-reductases is to catalyze the first step of xylose metabolism. During this
-process xylose reductase, which is an NADPH- or NADH- dependent enzyme, will
-oxidize xylose to xylitol. While this occurs, the NAD+ dependent enzyme xylitol
-dehydrogenase (XDH) reduces xylitol to xylulose. Under microaerophilic
-conditions, yeasts like Kluyveromyces, Pichia, and Pachysolen are capable of
-fermenting xylose to ethanol.
+**<u>AKR Family 2.</u>** Members of the AKR2 family are categorized as enzymes
+consisting of xylose reductases. AKR2B1 - AKR2B6 are classified as yeasts, while
+AKR2C and AKR2D are classified as fungi. The function of xylose reductases is to
+catalyze the first step of xylose metabolism. During this process xylose
+reductase, which is an NADPH- or NADH- dependent enzyme, will oxidize xylose to
+xylitol. While this occurs, the NAD+ dependent enzyme xylitol dehydrogenase
+(XDH) reduces xylitol to xylulose. Under microaerophilic conditions, yeasts like
+Kluyveromyces, Pichia, and Pachysolen are capable of fermenting xylose to
+ethanol.
 
 **<u>AKR Family 3.</u>** Similar to the AKR2 family, members of the AKR3 family
-are categorized as microbial enzymes and are yeasts. For example, AKR3A1, known
-as Gcylp, catalyzes the reduction of several aldehyde substrates including
-D,L-glyceraldehyde. In addition, YPRI (AKR3A2) has been shown to contribute 50%
-of in vivo 2-methylbutyraldehyde reductase activity. Furthermore, deletion of
-the GRE3 gene encoding S. cerevisiae aldose reductase (AKR2B6) leads to a
-decrease in xylitol formation from xylose by 50%.
+are enzymes found in yeast. For example, AKR3A1, known as Gcylp, catalyzes the
+reduction of several aldehyde substrates including D,L-glyceraldehyde. In
+addition, YPRI (AKR3A2) has been shown to contribute 50% of in vivo
+2-methylbutyraldehyde reductase activity. Furthermore, deletion of the GRE3 gene
+encoding S. cerevisiae aldose reductase (AKR2B6) leads to a decrease in xylitol
+formation from xylose by 50%.
 
 **<u>AKR Family 4.</u>** Members of AKR Family 4 are classified as plant-based
 AKR’s. These AKRs have many functions including biotic and abiotic stress
@@ -39,11 +39,11 @@ example, AKR4C8 and AKR4C9 from Arabidopsis thaliana (Arabidopsis) can reduce a
 range of toxic compounds containing reactive aldehyde groups. In contrast,
 AKR4C7 from maize (Zea mays) catalyzes the oxidation of sorbitol to Glc.
 
-**<u>AKR Family 5.</u>** Similar to Family 2 and Family 3, AKR Family 5 is
-categorized as microbial AKR’s. AKR5C, AKR5D, and AKR5B, are classified as
-bacteria; AKR5E and AKR5F are classified as yeasts; finally, AKR5E is classified
-as a fungi. While majority of the functionality of the AKR5 family is unknown,
-AKR5D is responsible for the NADPH-dependent stereospecific reduction of
+**<u>AKR Family 5.</u>** AKR Family 5 contains the gluconic acid reductase
+enzymes. AKR5C, AKR5D, and AKR5B, are classified as bacteria; AKR5E and AKR5F
+are classified as yeasts; finally, AKR5E is classified as a fungi. While
+majority of the functionality of the AKR5 family is unknown, AKR5D is
+responsible for the NADPH-dependent stereospecific reduction of
 2,5-diketo-D-gluconate to 2-keto-L-gulonate, a precursor in the industrial
 production of vitamin C.
 
